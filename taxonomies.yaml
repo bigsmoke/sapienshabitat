@@ -1,0 +1,34 @@
+project:
+    schuilplaats:
+        infobox: schuilplaats-infobox
+        keywords:
+            - “De Schuilplaats”
+            - Norg
+        page: schuilplaats-norg
+        scope: [landscape, garden]
+        # coordingates:
+    molensteen:
+        infobox: molensteen-infobox
+        keywords:
+            - “De Oude Molensteen”
+            - Bed & Breakfast
+            - Eelde
+            - Groninger Airport Eelde
+        page: oude-molensteen
+author:
+    bigsmoke:
+        author: Rowan Rodrik van der Molen
+scope:
+    landscape:
+    garden:
+theme:
+    low-frequency-gardening:
+        keywords:
+            - Propagule pressure
+    forest-gardening:
+        keywords:
+            - Forest gardening
+    agroecology:
+        keywords:
+            - Agroecology
+            - Permaculture
