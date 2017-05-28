@@ -1,34 +1,46 @@
 project:
     schuilplaats:
-        infobox: schuilplaats-infobox
+        insert: schuilplaats
         keywords:
             - “De Schuilplaats”
             - Norg
+            - Drenthe
+            - vakantiehuis
+            - vakantiehuisje
         page: schuilplaats-norg
         scope: [landscape, garden]
         # coordingates:
     molensteen:
-        infobox: molensteen-infobox
+        insert: molensteen
         keywords:
             - “De Oude Molensteen”
-            - Bed & Breakfast
+            - bed & breakfast
             - Eelde
             - Groninger Airport Eelde
+            - Drenthe
+            - Groningen
         page: oude-molensteen
 author:
     bigsmoke:
         author: Rowan Rodrik van der Molen
+        insert: bigsmoke
 scope:
     landscape:
     garden:
 theme:
     low-frequency-gardening:
         keywords:
-            - Propagule pressure
+            - propagule pressure
     forest-gardening:
         keywords:
-            - Forest gardening
+            - forest gardening
     agroecology:
         keywords:
-            - Agroecology
-            - Permaculture
+            - agroecology
+            - permaculture
+series:
+    eat-it-or-beat-it:
+        keywords:
+            - “eat it or beat it”
+
+# :vim: set tabstop=4 shiftwidth=4 expandtab :
