@@ -31,3 +31,55 @@ navigation area of each page.
 Page content is written in Markdown. Each page has its own subdirectory in
 `/pages/`. The Markdown files have a YAML header. The YAML metadata includes a
 `taxonomy` part with is combined with the project-wide `taxonomy.yaml` file.
+
+### The global `taxonomy.yaml` file
+
+If we take a Markdown source file with the following YAML header:
+```
+---
+title: A wallflower refuge
+date: 2017-04-30
+keywords:
+  - wallflower
+  - “Erysimum cheiri”
+  - “muurbloem”
+  - “The problem is the solution.”
+  - Bill Mollison
+taxonomy:
+  author: bigsmoke
+  project: schuilplaats
+  theme: [low-frequency-gardening]
+  scope: garden
+---
+```
+
+The meta data will be combined with the meta data defined for each of the taxonomy terms in `taxonomy.yaml`:
+```
+project:
+    schuilplaats:
+        insert: schuilplaats
+        keywords:
+            - “De Schuilplaats”
+            - Norg
+            - Drenthe
+            - vakantiehuis
+            - vakantiehuisje
+        page: schuilplaats-norg
+        scope: [landscape, garden]
+        # coordingates:
+author:
+    bigsmoke:
+        author: Rowan Rodrik van der Molen
+        insert: bigsmoke
+theme:
+    low-frequency-gardening:
+        keywords:
+            - propagule pressure
+    forest-gardening:
+        keywords:
+            - forest gardening
+    agroecology:
+        keywords:
+            - agroecology
+            - permaculture
+```
