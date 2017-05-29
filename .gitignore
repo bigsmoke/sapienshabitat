@@ -1,1 +1,3 @@
 .*.swp
+pages/*/*.html
+pages/*/*.yaml
