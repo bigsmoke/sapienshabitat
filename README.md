@@ -35,7 +35,7 @@ Page content is written in Markdown. Each page has its own subdirectory in
 ### The global `taxonomy.yaml` file
 
 If we take a Markdown source file with the following YAML header:
-```
+```yaml
 ---
 title: A wallflower refuge
 date: 2017-04-30
@@ -54,7 +54,7 @@ taxonomy:
 ```
 
 The meta data will be combined with the meta data defined for each of the taxonomy terms in `taxonomy.yaml`:
-```
+```yaml
 project:
     schuilplaats:
         insert: schuilplaats
