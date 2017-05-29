@@ -1,38 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html$if(lang)$ lang="$lang$"$endif$>
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset="utf-8"/>
 
-$for(author-meta)$
-    <meta name="author" content="$author-meta$">
-$endfor$
-
-$if(date-meta)$
-    <meta name="dcterms.date" content="$date-meta$">
-$endif$
-
+    <title>$title$</title>
   </head>
   <body>
-    <div class="site-container">
-      <header class='site-header' role='banner'>
-        <h1 class='site-header__title'>Sapiens Habitat</h1>
-        <span class='site-header__title-slogan-separator'>–</span>
-        <h2 class='site-header__slogan'>Smart habitats for thinking humans</h2>
-      </header> 
-
-      <article class='full-article'>
-        <h1 class='full-article__title'>Dfdf</h1>
-
-        $body$
-        $for(include-after)$
-        $include-after$
-        $endfor$
-      </article>
-
-      <footer class='site-footer' role='banner'>
-        <p>Wasn't this awesome?</p>
-      </footer>
-    </div>
+    <article class='full-article'>
+      $body$
+    </article>
   </body>
 </html>
