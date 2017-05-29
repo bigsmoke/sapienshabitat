@@ -66,7 +66,6 @@ project:
             - vakantiehuisje
         page: schuilplaats-norg
         scope: [landscape, garden]
-        # coordingates:
 author:
     bigsmoke:
         author: Rowan Rodrik van der Molen
