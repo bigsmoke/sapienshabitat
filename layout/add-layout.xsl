@@ -20,6 +20,14 @@
     <xsl:copy/>
   </xsl:template>
 
+  <xsl:template match="head">
+    <head>
+      <xsl:copy-of select="attribute::*"/>
+
+      <link rel="stylesheet" type="text/css" href="../../layout/style.css" />
+    </head>
+  </xsl:template>
+
   <xsl:template match="body">
     <body>
       <div class="site-container">
@@ -27,8 +35,9 @@
 
         <header class='site-header' role='banner'>
           <h1 class='site-header__title'>Sapiens Habitat</h1>
-          <span class='site-header__title-slogan-separator'>–</span>
+          <span class='site-header__title-slogan-separator'> – </span>
           <h2 class='site-header__slogan'>Smart habitats for thinking humans</h2>
+          <span class='site-header__terminator'> – </span>
         </header>
 
         <xsl:apply-templates select="child::node() | child::processing-instruction()"/>
@@ -37,6 +46,29 @@
         </footer>
       </div> <!-- .site-container -->
     </body>
+  </xsl:template>
+
+  <xsl:template match="article">
+    <article>
+        <xsl:copy-of select="attribute::*"/>
+
+        <div class="article-header">
+          <h1 class="article-header__title"><xsl:apply-templates select="h1/child::node()"/></h1>
+        </div>
+
+        <div class="article-body">
+          <xsl:apply-templates select="(child::node() | child::processing-instruction())[not(name(.)='h1')]"/>
+        </div>
+    </article>
+  </xsl:template>
+
+  <xsl:template match="figure">
+    <figure>
+        <xsl:copy-of select="attribute::*"/>
+        <xsl:copy-of select="img/attribute::class"/>
+
+        <xsl:apply-templates select="child::node() | child::processing-instruction()"/>
+    </figure>
   </xsl:template>
 
 </xsl:stylesheet>

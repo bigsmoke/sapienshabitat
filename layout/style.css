@@ -1,0 +1,138 @@
+body {
+  background-color: #eee;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+.site-container {
+  width: 80ex;
+  font-size: 1.2em;
+  margin: 0 auto;
+}
+
+.site-header {
+  width: 100%;
+  text-align: center;
+  background-color: #ccc;
+}
+
+.site-header > * {
+  font-family: sans-serif;
+}
+
+.site-header__title {
+  color: #eee;
+  text-shadow: 0px 2px 2px #666;
+  margin: 0;
+  padding-top: .25em;
+  font-size: 1.75em;
+}
+
+.site-header__title-slogan-separator {
+  display: none;
+}
+
+.site-header__slogan {
+  display: none;
+}
+
+.site-header__terminator {
+  display: block;
+  margin: 0;
+  color: #eee;
+  text-shadow: 1px 1px 2px #444;
+  font-size: 200%;
+  line-height: 50%;
+}
+
+article {
+  background-color: #888;
+  margin: 0 auto;
+  width: 100%;
+  line-height: 1.75em;
+  font-family: sans-serif;
+  text-align: justify;
+}
+
+.article-header {
+  padding: 1ex;
+  margin-bottom: 0;
+  background-color: #ccc;
+  text-align: center;
+}
+
+.article-header__title {
+  color: #888;
+  text-shadow: 0px 2px 1px #eee;
+  margin: 0;
+  font-size: 1.5em;
+}
+
+.article-body {
+  border-top: 2px solid #444;
+  color: #222;
+}
+
+.article-body > * {
+  margin-left: 2ex;
+  margin-right: 2ex;
+}
+
+.article-body > *:first-child {
+  margin-top: 1em;
+}
+
+.article-body > p {
+  margin-top: .5em;
+  margin-bottom: .5em;
+}
+
+.article-body figure {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-top: 2pt;
+  background-color: #444;
+}
+
+.article-body figcaption {
+  color: #888;
+  font-size: 90%;
+  line-height: 1.5em;
+  padding: .75em 4ex;
+}
+
+.article-body figure.text-width {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.two-by-two__container {
+  margin-left: 0;
+  margin-right: 0;
+  display: flex;
+  flex-direction: row;
+}
+
+.article-body figure.text-width.two-by-two:first-child {
+  margin-left: -1ex;
+  margin-right: 1pt;
+}
+
+.article-body figure.text-width.two-by-two:last-child {
+  margin-left: 1pt;
+  margin-right: -1ex;
+}
+
+.article-body figure.text-width.two-by-two figcaption {
+  padding: .75em 1ex;
+}
+
+.article-body figure.text-width img {
+  display: block;
+  width: 100%;
+}
