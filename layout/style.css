@@ -111,28 +111,33 @@ article {
   margin-right: 0;
 }
 
-.two-by-two__container {
+.side-by-side-figure__container {
   margin-left: 0;
   margin-right: 0;
   display: flex;
   flex-direction: row;
 }
 
-.article-body figure.text-width.two-by-two:first-child {
+figure.semi-text-width:first-child {
   margin-left: -1ex;
   margin-right: 1pt;
 }
 
-.article-body figure.text-width.two-by-two:last-child {
+figure.semi-text-width:last-child {
   margin-left: 1pt;
   margin-right: -1ex;
 }
 
-.article-body figure.text-width.two-by-two figcaption {
+img.semi-text-width {
+  display: block;
+  width: 100%;
+}
+
+figure.semi-text-width figcaption {
   padding: .75em 1ex;
 }
 
-.article-body figure.text-width img {
+figure.text-width img {
   display: block;
   width: 100%;
 }

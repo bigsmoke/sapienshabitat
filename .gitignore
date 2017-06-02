@@ -1,3 +1,4 @@
 .*.swp
 pages/*/*.html5
 pages/*/*.yaml
+virtual/*

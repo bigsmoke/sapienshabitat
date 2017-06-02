@@ -62,13 +62,25 @@
     </article>
   </xsl:template>
 
-  <xsl:template match="figure">
+  <xsl:template match="figure" name="figure">
     <figure>
         <xsl:copy-of select="attribute::*"/>
         <xsl:copy-of select="img/attribute::class"/>
 
         <xsl:apply-templates select="child::node() | child::processing-instruction()"/>
     </figure>
+  </xsl:template>
+
+  <xsl:template match="figure[contains(img/@class, 'semi-text-width')]"/>
+
+  <xsl:template match="figure[contains(img/@class, 'semi-text-width')][./following-sibling::*[position()=1 and name(.)='figure']]">
+    <div class="side-by-side-figure__container">
+      <xsl:call-template name="figure" /> 
+
+      <xsl:for-each select="following-sibling::*[position()=1 and name(.)='figure']">
+        <xsl:call-template name="figure" /> 
+      </xsl:for-each>
+    </div>
   </xsl:template>
 
 </xsl:stylesheet>
