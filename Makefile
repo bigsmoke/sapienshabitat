@@ -4,7 +4,12 @@ html5pages := $(patsubst %/page.md,%/page.html5,$(wildcard pages/*/page.md))
 all: $(html5pages)
 
 virtual: 
-	bash -c '. $(CURDIR)/virtual/bin/activate'
+	virtual/bin/activate
+
+virtual/bin/activate: requirements.txt
+	test -d virtual || virtualenv --python=python3 virtual
+	virtual/bin/pip install -Ur requirements.txt
+	touch virtual/bin/activate
 
 %/page.plain.html5 : %/page.md
 	pandoc $< --standalone --data-dir=$(CURDIR)/layout/pandoc --template=sapienshabitat --from=markdown --to=html5 -o $@

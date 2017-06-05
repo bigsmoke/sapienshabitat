@@ -1,5 +1,7 @@
 body {
   background-color: #eee;
+  background-color: #342a15;
+  background-color: #91805d;
   padding: 0;
   margin: 0;
   width: 100%;
@@ -8,15 +10,13 @@ body {
 }
 
 .site-container {
-  width: 80ex;
   font-size: 1.2em;
-  margin: 0 auto;
 }
 
 .site-header {
   width: 100%;
   text-align: center;
-  background-color: #ccc;
+  background-color: #eee;
 }
 
 .site-header > * {
@@ -50,30 +50,39 @@ body {
 
 article {
   background-color: #888;
+  background-color: #eee;
+  background-color: #523a06;
+  background-color: #998251;
+  background-color: #91805d;
+  background-color: inherit;
   margin: 0 auto;
   width: 100%;
   line-height: 1.75em;
   font-family: sans-serif;
   text-align: justify;
+  max-width: 80ex;
 }
 
 .article-header {
   padding: 1ex;
+  padding-left: 2ex;
   margin-bottom: 0;
-  background-color: #ccc;
-  text-align: center;
+  text-align: left;
 }
 
 .article-header__title {
-  color: #888;
-  text-shadow: 0px 2px 1px #eee;
+  color: #444;
+  color: #24180f;
+  /*text-shadow: 0px 2px 1px #444;*/
   margin: 0;
   font-size: 1.5em;
+  font-weight: normal;
 }
 
 .article-body {
-  border-top: 2px solid #444;
   color: #222;
+  color: #8c7e60;
+  color: #24180f;
 }
 
 .article-body > * {
@@ -97,10 +106,12 @@ article {
   margin-right: 0;
   padding-top: 2pt;
   background-color: #444;
+  background-color: #2a251a;
 }
 
 .article-body figcaption {
   color: #888;
+  color: #826e43;
   font-size: 90%;
   line-height: 1.5em;
   padding: .75em 4ex;

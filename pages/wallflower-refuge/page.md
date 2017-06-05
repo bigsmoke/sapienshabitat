@@ -30,7 +30,7 @@ I got a few specimen from my mother, who, at the time, had an allotment garden w
 
 The little seedling which ended up establishing their own wallflower lineage at “De Schuilplaats” were not the first of my wallflower transplantation experiments. Prior to this 2011 expirement, I tried establishing a wall flower transplantation in my father's garden in Eelde, both seeds as well as seedlings. Only one pair of seedlings took hold there for a while, until my father's Ecuadorian father in law mistook it for a weed. (Only recently did I start to think about the particular places in which these two seedlings survived for a while, but more about habitat selection later…)
 
-Not at “De Schuilplaats”. After a difficult start, during which some of the propagule dried out dispite the occassional watering, the wallflowers in the walls started thriving, no longer requiring any care. Encouraged, I planted some more seedlings and sowed some seeds. Then, after as little as one growing flowering season, the biggest flowering speciment sported its own seeds.
+Not at “De Schuilplaats”. After a difficult start, during which some of the propagule dried out dispite the occassional watering, the wallflowers in the walls started thriving, no longer requiring any care. Encouraged, I planted some more seedlings and sowed a few handfulls of seeds. Then, after as little as one growing flowering season, the biggest flowering speciment sported its own seeds.
 
 ![In 2011, the biggest wallflower speciment sported its own seeds, beginning a local lineage.](Schuilplaats%202011-12-14%20Muurbloem%20\(a\).jpg){.text-width}
 
