@@ -7,10 +7,15 @@ body {
   width: 100%;
   height: 100%;
   box-sizing: border-box;
+  background-image: url(mushroom-2279552_1920.png); /* https://pixabay.com/en/mushroom-wood-fungus-sponge-2279552/ */
+  background-size: 40% auto;
+  background-position: bottom left;
+  background-repeat: no-repeat;
 }
 
 .site-container {
   font-size: 1.2em;
+  padding-bottom: 160px;
 }
 
 .site-header {
