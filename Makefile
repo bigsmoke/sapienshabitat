@@ -11,6 +11,9 @@ virtual/bin/activate: requirements.txt
 	virtual/bin/pip install -Ur requirements.txt
 	touch virtual/bin/activate
 
+taxonomies.xml: taxonomies.yaml layout/yaml-to-json.py layout/json-to-xml.py
+	cat $< | layout/yaml-to-json.py | layout/json-to-xml.py > $@
+
 %/page.plain.html5 : %/page.md
 	pandoc $< --standalone --data-dir=$(CURDIR)/layout/pandoc --template=sapienshabitat --from=markdown --to=html5 -o $@
 
