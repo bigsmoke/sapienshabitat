@@ -1,3 +1,8 @@
+html {
+  padding: 0;
+  margin: 0;
+}
+
 body {
   background-color: #eee;
   background-color: #342a15;
@@ -7,33 +12,30 @@ body {
   width: 100%;
   height: 100%;
   box-sizing: border-box;
-  background-image: url(mushroom-2279552_1920.png); /* https://pixabay.com/en/mushroom-wood-fungus-sponge-2279552/ */
-  background-size: 40% auto;
-  background-position: bottom left;
-  background-repeat: no-repeat;
 }
 
 .site-container {
-  font-size: 1.2em;
-  padding-bottom: 160px;
+  font-size: 1.3em;
 }
 
 .site-header {
   width: 100%;
   text-align: center;
-  background-color: #eee;
+  background-color: white;
 }
 
 .site-header > * {
-  font-family: sans-serif;
+  font-family: 'Merriweather', serif;
 }
 
 .site-header__title {
-  color: #eee;
-  text-shadow: 0px 2px 2px #666;
+  color: #91805d;
   margin: 0;
-  padding-top: .25em;
+  padding-top: .75em;
+  padding-bottom: .75em;
   font-size: 1.75em;
+  font-weight: normal;
+  text-align: center;
 }
 
 .site-header__title-slogan-separator {
@@ -51,6 +53,18 @@ body {
   text-shadow: 1px 1px 2px #444;
   font-size: 200%;
   line-height: 50%;
+  display: none;
+}
+
+.site-header__butterfly-container {
+  text-align: right;
+}
+
+.site-header__butterfly-img {
+  position: relative;
+  max-width: 160px;
+  height: auto;
+  border: none;
 }
 
 article {
@@ -62,8 +76,8 @@ article {
   background-color: inherit;
   margin: 0 auto;
   width: 100%;
-  line-height: 1.75em;
-  font-family: sans-serif;
+  line-height: 1.5em;
+  font-family: 'Archivo Narrow', sans-serif;
   text-align: justify;
   max-width: 80ex;
 }
@@ -82,6 +96,7 @@ article {
   margin: 0;
   font-size: 1.5em;
   font-weight: normal;
+  font-family: 'Merriweather', serif;
 }
 
 .article-body {
@@ -91,8 +106,8 @@ article {
 }
 
 .article-body > * {
-  margin-left: 2ex;
-  margin-right: 2ex;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .article-body > *:first-child {
@@ -102,6 +117,21 @@ article {
 .article-body > p {
   margin-top: .5em;
   margin-bottom: .5em;
+}
+
+.article-body h2,
+.article-body h3,
+.article-body h4,
+.article-body h5,
+.article-body h6 {
+  font-family: 'Merriweather', serif;
+  font-weight: normal;
+}
+
+.article-body h2 {
+  margin-top: 1.5em;
+  margin-bottom: .75em;
+  font-size: 1.3em;
 }
 
 .article-body figure {
@@ -118,7 +148,7 @@ article {
   color: #888;
   color: #826e43;
   font-size: 90%;
-  line-height: 1.5em;
+  line-height: 1.3em;
   padding: .75em 4ex;
 }
 
@@ -156,4 +186,50 @@ figure.semi-text-width figcaption {
 figure.text-width img {
   display: block;
   width: 100%;
+}
+
+.site-footer {
+  margin: 0;
+  padding: 0;
+}
+
+.site-footer__deco-pic {
+  max-width: 40%;
+  height: auto;
+  border: none;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+.site-footer__content {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white;
+}
+
+.site-footer__license  {
+  font-size: 80%;
+  margin: 0;
+  padding: 3em 2ex 0.75em 2ex;
+  font-family: 'Archivo Narrow', sans-serif;
+  color: #91805d;
+}
+
+.site-footer__license a {
+  color: #826e43;
+}
+
+
+.site-footer__colophon  {
+  font-size: 80%;
+  margin: 0;
+  padding: 0em 2ex 2em 2ex;
+  font-family: 'Archivo Narrow', sans-serif;
+  color: #91805d;
+}
+
+.site-footer__colophon a {
+  color: #826e43;
 }

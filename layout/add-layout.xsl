@@ -4,6 +4,8 @@
 
   <xsl:output method="html" doctype-system="about:legacy-compat"/>
 
+  <xsl:variable name="taxonomies" select="document('../taxonomies.xml')/root"/>
+
   <xsl:template match="/">
     <xsl:apply-templates select="child::node() | child::processing-instruction()"/>
   </xsl:template>
@@ -24,7 +26,9 @@
     <head>
       <xsl:copy-of select="attribute::*"/>
 
-      <link rel="stylesheet" type="text/css" href="../../layout/style.css" />
+      <link rel="stylesheet" type="text/css" href="../../layout/style.css"/>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather"/>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Archivo+Narrow"/>
     </head>
   </xsl:template>
 
@@ -40,9 +44,20 @@
           <span class='site-header__terminator'> – </span>
         </header>
 
+        <div class="site-header__butterfly-container">
+          <img class="site-header__butterfly-img" src="../../layout/Butterfly-vulcan-papillon-vulcain-vanessa-atalanta-2.png"/>
+        </div>
+
         <xsl:apply-templates select="child::node() | child::processing-instruction()"/>
 
         <footer class='site-footer' role='banner'>
+          <div class='site-footer__deco'>
+            <img class='site-footer__deco-pic' src="../../layout/mushroom-2279552_1920.png"/>
+          </div>
+          <div class='site-footer__content'>
+            <p class='site-footer__license'><a href="http://creativecommons.org/licenses/by-nc-sa/2.5/" rel="license">Copyleft</a>: you can share this content as long as you copy it right; that means that you must tell where it's from (from me) and that you have to ask permission first if you want to use my content commercially.</p>
+            <p class='site-footer__colophon'><a href="https://github.com/bigsmoke/sapienshabitat/" rel="colophon">Colophon</a>: this website is open source; all the details about its technical design, the full file history and current drafts are freely accessible on-line.</p>
+          </div>
         </footer>
       </div> <!-- .site-container -->
     </body>
