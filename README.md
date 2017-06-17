@@ -1,5 +1,7 @@
 This is the source of [sapienshabitat.com](http://sapienshabitat.com).
 
+[![Build Status](https://travis-ci.org/bigsmoke/sapienshabitat.svg?branch=master)](https://travis-ci.org/bigsmoke/sapienshabitat)
+
 ## Information architecture and URL design
 
 Rowan has decided _against_ using any type of namespaces in the URL structure.
