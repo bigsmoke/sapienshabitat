@@ -3,5 +3,5 @@ sudo: enabled
 before_install:
   - sudo apt-get -qq update
   - sudo apt-get install -y pandoc
-  - sudo apt-get install -y libxslt
+  - sudo apt-get install -y libxslt1.1
 script: make
