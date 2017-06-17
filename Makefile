@@ -17,8 +17,8 @@ taxonomies.xml: taxonomies.yaml layout/yaml-to-json.py layout/json-to-xml.py
 %/page.plain.html5 : %/page.md
 	pandoc $< --standalone --data-dir=$(CURDIR)/layout/pandoc --template=sapienshabitat --from=markdown --to=html5 -o $@
 
-%/page.html5 : layout/add-layout.xsl %/page.plain.html5
-	xsltproc $^ > $@
+%/page.html5 : %/page.plain.html5 layout/add-layout.xsl taxonomies.xml
+	xsltproc layout/add-layout.xsl $< > $@
 
 %/meta.yaml : %/page.md
 	pandoc $< --standalone --data-dir=$(CURDIR)/layout/pandoc --template=yaml --to=markdown -o $@
