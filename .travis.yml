@@ -1,5 +1,5 @@
 language: python
-  - "3.5"
+  - "3.4"
 sudo: enabled
 before_install:
   - sudo apt-get -qq update
