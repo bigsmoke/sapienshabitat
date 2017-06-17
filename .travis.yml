@@ -1,4 +1,6 @@
 language: python
 sudo: false
-
+before_install:
+  - sudo apt -qq update
+  - sudo apt install -y pandoc
 script: make
