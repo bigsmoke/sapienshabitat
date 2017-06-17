@@ -29,6 +29,8 @@
       <link rel="stylesheet" type="text/css" href="../../layout/style.css"/>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather"/>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Archivo+Narrow"/>
+
+      <xsl:apply-templates select="child::node() | child::processing-instruction()" />
     </head>
   </xsl:template>
 
