@@ -4,7 +4,9 @@ python:
 sudo: enabled
 before_install:
   - sudo apt-get -qq update
-  - sudo apt-get install -y pandoc
+  - sudo apt-get install -y pandoc  # Install old release first, so that we at least get the dependencies.
+  - wget https://github.com/jgm/pandoc/releases/download/1.19.2.1/pandoc-1.19.2.1-1-amd64.deb
+  - sudo dpkg -i pandoc-1.19.2.1-1-amd64.deb
   - sudo apt-get install -y xsltproc
 install:
   - pip install -r requirements.txt
