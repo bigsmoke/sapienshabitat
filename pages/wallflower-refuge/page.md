@@ -34,7 +34,7 @@ The little seedling which ended up establishing their own wallflower lineage at 
 
 Not at “De Schuilplaats”. After a difficult start, during which some of the propagule dried out dispite the occassional watering, the wallflowers in the walls started thriving, no longer requiring any care. Encouraged, I planted some more seedlings and sowed a few handfulls of seeds. Then, after as little as one growing season, the biggest flowering speciment sported its own seeds.
 
-![In 2011, the biggest wallflower speciment sported its own seeds, beginning a local lineage.](Schuilplaats_2011-12-14_Muurbloem_\(a\).jpg){.text-width width="2592" height="1944"}
+![In 2011, the biggest wallflower speciment sported its own seeds, beginning a local lineage.](Schuilplaats_2011-12-14_Muurbloem_a.jpg){.text-width width="2592" height="1944"}
 
 But, also at “De Schuilplaats”, I had previously tried sowing seeds, none of which germinated. So there has already been some _Propagule pressure_ before I successfully transplanted some seedlings, but apparently not sufficiently so to result in the successful establishment of this locally foreign species. (The Romans probably already introduced wallflowers to The Netherlands some 2000 years ago.)
 
