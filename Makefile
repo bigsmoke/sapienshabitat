@@ -2,9 +2,10 @@ html5pages := $(patsubst pages/%/page.md,htdocs/%/page.html5,$(wildcard pages/*/
 src_images := $(wildcard pages/*/*.jpeg) $(wildcard pages/*/*.JPEG) $(wildcard pages/*/*.jpg) $(wildcard pages/*/*.JPG)
 full_images := $(patsubst pages/%,htdocs/%,$(src_images))
 img_1000w := $(join $(addsuffix img-1000w/,$(dir $(full_images))),$(notdir $(full_images)))
+img_500w := $(join $(addsuffix img-500w/,$(dir $(full_images))),$(notdir $(full_images)))
 layout := htdocs/layout/style.css htdocs/layout/Butterfly-vulcan-papillon-vulcain-vanessa-atalanta-2.png htdocs/layout/mushroom-2279552_1920.png
 
-all: $(html5pages) $(full_images) $(img_1000w) $(layout)
+all: $(html5pages) $(full_images) $(img_1000w) $(img_500w) $(layout)
 
 virtual: 
 	virtual/bin/activate
@@ -45,6 +46,9 @@ htdocs/layout/% : layout/%
 	ln --symbolic --relative $< $@
 
 $(img_1000w) : $(full_images)
-	convert -resize 1000x1000 $(subst img-1000w/,,$@) $@
+	convert -resize 1000 $(subst img-1000w/,,$@) $@
+
+$(img_500w) : $(full_images)
+	convert -resize 500 $(subst img-500w/,,$@) $@
 
 .PHONY: all virtual clean

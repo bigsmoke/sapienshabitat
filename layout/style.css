@@ -170,6 +170,10 @@ article {
     flex-direction: row;
   }
 
+  figure.semi-text-width {
+    width: 50%;
+  }
+
   figure.semi-text-width:first-child {
     margin-right: 1pt;
   }
