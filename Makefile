@@ -20,7 +20,7 @@ clean:
 	rm -rf htdocs/*
 
 upload:
-	rsync --recursive --times $(CURDIR)/pages/ bigsmoke_sapienshabitat@ssh.phx.nearlyfreespeech.net:/home/htdocs/
+	rsync --verbose --copy-links --delete --recursive --times $(CURDIR)/htdocs/ bigsmoke_sapienshabitat@ssh.phx.nearlyfreespeech.net:/home/public/
 
 taxonomies.xml: taxonomies.yaml layout/yaml-to-json.py layout/json-to-xml.py
 	cat $< | layout/yaml-to-json.py | layout/json-to-xml.py > $@
@@ -29,8 +29,9 @@ taxonomies.xml: taxonomies.yaml layout/yaml-to-json.py layout/json-to-xml.py
 	pandoc $< --standalone --data-dir=$(CURDIR)/layout/pandoc --template=sapienshabitat --from=markdown --to=html5 -o $@
 
 htdocs/%/page.html5 : pages/%/page.plain.html5 layout/add-layout.xsl taxonomies.xml
-	mkdir -p `dirname $@`
-	mkdir -p `dirname $@`/img-1000w
+	mkdir -p $(dir $@)
+	mkdir -p $(dir $@)img-1000w
+	mkdir -p $(dir $@)img-500w
 	xsltproc layout/add-layout.xsl $< > $@
 
 %/meta.yaml : %/page.md
