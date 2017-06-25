@@ -1,0 +1,3 @@
+AddType text/html .html5
+
+DirectoryIndex page.html5

@@ -4,6 +4,9 @@
 
   <xsl:output method="html" doctype-system="about:legacy-compat"/>
 
+  <xsl:param name="img-width-1" select="number('2500')"/> <!-- That's about the resolution of my Samsung S7 Edge -->
+  <xsl:param name="img-width-2" select="number('1000')"/> <!-- That's about the resolution of my Samsung S7 Edge -->
+
   <xsl:variable name="taxonomies" select="document('../taxonomies.xml')/root"/>
 
   <xsl:template match="/">
@@ -18,6 +21,10 @@
     </xsl:element>
   </xsl:template>
 
+  <xsl:template match="attribute::*">
+    <xsl:copy/>
+  </xsl:template>
+
   <xsl:template match="comment() | processing-instruction()">
     <xsl:copy/>
   </xsl:template>
@@ -26,7 +33,7 @@
     <head>
       <xsl:copy-of select="attribute::*"/>
 
-      <link rel="stylesheet" type="text/css" href="../../layout/style.css"/>
+      <link rel="stylesheet" type="text/css" href="../layout/style.css"/>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather"/>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Archivo+Narrow"/>
 
@@ -67,24 +74,24 @@
 
   <xsl:template match="article">
     <article>
-        <xsl:copy-of select="attribute::*"/>
+      <xsl:copy-of select="attribute::*"/>
 
-        <div class="article-header">
-          <h1 class="article-header__title"><xsl:apply-templates select="h1/child::node()"/></h1>
-        </div>
+      <div class="article-header">
+        <h1 class="article-header__title"><xsl:apply-templates select="h1/child::node()"/></h1>
+      </div>
 
-        <div class="article-body">
-          <xsl:apply-templates select="(child::node() | child::processing-instruction())[not(name(.)='h1')]"/>
-        </div>
+      <div class="article-body">
+        <xsl:apply-templates select="(child::node() | child::processing-instruction())[not(name(.)='h1')]"/>
+      </div>
     </article>
   </xsl:template>
 
   <xsl:template match="figure" name="figure">
     <figure>
-        <xsl:copy-of select="attribute::*"/>
-        <xsl:copy-of select="img/attribute::class"/>
+      <xsl:copy-of select="attribute::*"/>
+      <xsl:copy-of select="img/attribute::class"/>
 
-        <xsl:apply-templates select="child::node() | child::processing-instruction()"/>
+      <xsl:apply-templates select="child::node() | child::processing-instruction()"/>
     </figure>
   </xsl:template>
 
@@ -98,6 +105,17 @@
         <xsl:call-template name="figure" /> 
       </xsl:for-each>
     </div>
+  </xsl:template>
+
+  <xsl:template match="img">
+    <img>
+      <xsl:copy-of select="attribute::*"/>
+      <!--
+      <xsl:if test="">
+      </xsl:if>
+      -->
+      <xsl:apply-templates select="child::node() | child::processing-instruction()"/>
+    </img>
   </xsl:template>
 
 </xsl:stylesheet>

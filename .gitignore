@@ -3,3 +3,4 @@ taxonomies.xml
 pages/*/*.html5
 pages/*/*.yaml
 virtual/*
+htdocs/*
