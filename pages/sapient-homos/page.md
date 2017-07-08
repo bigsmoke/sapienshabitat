@@ -1,10 +1,5 @@
 ---
 title: People
-menu: People
-icon: group
-
-content:
-    items: @self.children
 ---
 
 # People
