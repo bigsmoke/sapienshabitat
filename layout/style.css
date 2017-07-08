@@ -4,9 +4,7 @@ html {
 }
 
 body {
-  background-color: #eee;
-  background-color: #342a15;
-  background-color: #91805d;
+  background-color: #a09186;
   padding: 0;
   margin: 0;
   width: 100%;
@@ -15,7 +13,7 @@ body {
 }
 
 .site-container {
-  font-size: 1.3em;
+  font-size: 1.2em;
 }
 
 .site-header {
@@ -29,7 +27,7 @@ body {
 }
 
 .site-header__title {
-  color: #91805d;
+  color: #9e8f83;
   margin: 0;
   padding-top: .75em;
   padding-bottom: .75em;
@@ -37,6 +35,15 @@ body {
   font-weight: normal;
   text-align: center;
 }
+
+@media only screen and (max-device-width: 647px) {
+  .site-header__title {
+    font-size: 1.2em;
+    padding-top: .4em;
+    padding-bottom: .4em;
+  }
+}
+
 
 .site-header__title-slogan-separator {
   display: none;
@@ -67,6 +74,12 @@ body {
   border: none;
 }
 
+@media only screen and (max-device-width: 647px) {
+  .site-header__butterfly-img {
+      max-width: 60px; 
+  }
+}
+
 article {
   background-color: #888;
   background-color: #eee;
@@ -94,7 +107,7 @@ article {
   color: #24180f;
   /*text-shadow: 0px 2px 1px #444;*/
   margin: 0;
-  font-size: 1.5em;
+  font-size: 1.2em;
   font-weight: normal;
   font-family: 'Merriweather', serif;
 }
@@ -103,6 +116,7 @@ article {
   color: #222;
   color: #8c7e60;
   color: #24180f;
+  color: black;
 }
 
 .article-body > * {
@@ -162,7 +176,7 @@ article {
   border-left: 2pt solid;
 }
 
-@media only screen and (min-width: 648px) {
+@media only screen and (min-device-width: 648px) {
   .side-by-side-figure__container {
     margin-left: 0;
     margin-right: 0;
@@ -199,8 +213,8 @@ figure.text-width img {
   height: auto;
 }
 
-@media only screen and (max-width: 647px) {
-  figure.semi-text-width:first-child {
+@media only screen and (max-device-width: 647px) {
+  figure.semi-text-width {
     margin-left: 0;
     margin-right: 0;
   }
