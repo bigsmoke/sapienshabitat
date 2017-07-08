@@ -1,4 +1,5 @@
 .*.swp
+taxonomies.json
 taxonomies.xml
 pages/*/*.html5
 pages/*/*.yaml
