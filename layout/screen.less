@@ -1,0 +1,151 @@
+@content-margin-padding: 10px;
+
+body {
+  background-color: @light-brownish-background-color;
+}
+
+.site-header {
+  width: 100%;
+  text-align: center;
+  background-color: white;
+}
+
+.site-header__title {
+  color: darken(@light-brownish-background-color, 10%);
+  margin: 0;
+  text-align: center;
+}
+
+.site-header__butterfly-img {
+  position: relative;
+  height: auto;
+  border: none;
+}
+
+article {
+  margin: 0 auto;
+  width: 100%;
+  font-family: 'Archivo Narrow', sans-serif;
+  text-align: justify;
+  max-width: 80ex;
+}
+
+.article-body figure {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-top: 2pt;
+  background-color: darken(@light-brownish-background-color, 40%);
+}
+
+.article-body figcaption {
+  color: #888;
+  color: #827e63;
+  color: lighten(@light-brownish-background-color, 10%);
+  font-size: 90%;
+  line-height: 1.3em;
+  padding: .75em 2ex;
+}
+
+.article-body figure.text-width {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+figure.text-width img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.article-body blockquote {
+  background-color: darken(@light-brownish-background-color, 5%);
+  margin-top: 2em;
+  margin-bottom: 2em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 2ex;
+  padding-right: 2ex;
+}
+
+.article-body blockquote > *:first-child {
+  margin-top: 0;
+}
+
+.article-body blockquote > *:last-child {
+  margin-bottom: 0;
+}
+
+.article-body blockquote:before {
+  margin-left: -.25ex;
+  margin-top: -.25ex;
+  margin-right: 0;
+  color: @light-brownish-background-color;
+  display: block;
+  line-height: 1em;
+  height: 0.5em;
+  content: '“';
+  font-size: 400%;
+}
+
+.article-body blockquote:after {
+  margin-left: 0;
+  margin-bottom: -.25ex;
+  margin-right: -.25ex;
+  color: @light-brownish-background-color;
+  display: block;
+  line-height: 1em;
+  height: 0.5em;
+  text-align: right;
+  content: '”';
+  font-size: 400%;
+}
+
+.site-footer {
+  margin: 0;
+  margin-top: 5em;
+  padding: 0;
+}
+
+.site-footer__deco-pic {
+  max-width: 40%;
+  height: auto;
+  border: none;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+.site-footer__content {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white;
+}
+
+.site-footer__license  {
+  font-size: 80%;
+  margin: 0;
+  padding: 3em 2ex 0.75em 2ex;
+  font-family: 'Archivo Narrow', sans-serif;
+  color: darken(@light-brownish-background-color, 20%);
+}
+
+.site-footer__license a {
+  color: #825e43;
+}
+
+
+.site-footer__colophon  {
+  font-size: 80%;
+  margin: 0;
+  padding: 0em 2ex 2em 2ex;
+  font-family: 'Archivo Narrow', sans-serif;
+  color: darken(@light-brownish-background-color, 20%);
+}
+
+.site-footer__colophon a {
+  color: #825e43;
+}
+

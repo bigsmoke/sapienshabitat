@@ -50,7 +50,7 @@ htdocs/layout/% : layout/%
 	rm -f $@
 	ln --symbolic --relative $< $@
 
-htdocs/layout/style.css: layout/style.less
+htdocs/layout/style.css: layout/style.less layout/*.less
 	lessc $< $@
 
 $(img_1000w) : $(full_images)
