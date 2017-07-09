@@ -50,6 +50,9 @@ htdocs/layout/% : layout/%
 	rm -f $@
 	ln --symbolic --relative $< $@
 
+htdocs/layout/style.css: layout/style.less
+	lessc $< $@
+
 $(img_1000w) : $(full_images)
 	convert -resize 1000 $(subst img-1000w/,,$@) $@
 
