@@ -5,8 +5,15 @@ body {
 }
 
 .site-header {
+  position: -webkit-sticky;
+  position: sticky;
+  display: block;
+  top: 0px;
   width: 100%;
   text-align: center;
+}
+
+.site-header__white-background {
   background-color: white;
 }
 
@@ -16,8 +23,13 @@ body {
   text-align: center;
 }
 
+.site-header__butterfly-container {
+  display: block;
+  background-color: transparent;
+  text-align: right;
+}
+
 .site-header__butterfly-img {
-  position: relative;
   height: auto;
   border: none;
 }
