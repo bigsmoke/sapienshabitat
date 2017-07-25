@@ -6,7 +6,7 @@ src_images := $(wildcard pages/*/*.jpeg) $(wildcard pages/*/*.JPEG) $(wildcard p
 full_images := $(patsubst pages/%,htdocs/%,$(src_images))
 img_1000w := $(join $(addsuffix img-1000w/,$(dir $(full_images))),$(notdir $(full_images)))
 img_500w := $(join $(addsuffix img-500w/,$(dir $(full_images))),$(notdir $(full_images)))
-layout := htdocs/layout/style.css htdocs/layout/Butterfly-vulcan-papillon-vulcain-vanessa-atalanta-2.png htdocs/layout/mushroom-2279552_1920.png
+layout := htdocs/layout/style.css htdocs/layout/enhance.js htdocs/layout/Butterfly-vulcan-papillon-vulcain-vanessa-atalanta-2.png htdocs/layout/mushroom-2279552_1920.png
 
 all: $(html5pages) $(full_images) $(img_1000w) $(img_500w) $(page_meta) $(layout) 
 

@@ -34,31 +34,39 @@
       <xsl:copy-of select="attribute::*"/>
 
       <meta name="viewport" content="width=device-width, initial-scale=1"/>
-      <link rel="stylesheet" type="text/css" href="../layout/style.css?v=18"/>
+      <link rel="stylesheet" type="text/css" href="../layout/style.css?v=20"/>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather"/>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Archivo+Narrow"/>
+
+      <script type="text/javascript" src="../layout/enhance.js?v=1"></script>
 
       <xsl:apply-templates select="child::node() | child::processing-instruction()" />
     </head>
   </xsl:template>
 
   <xsl:template match="body">
-    <body>
+    <body id="top" class="scroll-up-detection-with-threshold" data-scroll-up-threshold-delta="5">
       <div class="site-container">
         <xsl:copy-of select="attribute::*"/>
 
         <header class='site-header' role='banner'>
-          <h1 class='site-header__title'>Sapiens Habitat</h1>
-          <span class='site-header__title-slogan-separator'> – </span>
-          <h2 class='site-header__slogan'>Smart habitats for thinking humans</h2>
-          <span class='site-header__terminator'> – </span>
+          <div class="site-header__white-background">
+            <h1 class='site-header__title'>Sapiens Habitat</h1>
+            <span class='site-header__title-slogan-separator'> – </span>
+            <h2 class='site-header__slogan'>Smart habitats for thinking humans</h2>
+            <span class='site-header__terminator'> – </span>
+          </div>
+
+          <div class="site-header__butterfly-container">
+            <img class="site-header__butterfly-img" src="../../layout/Butterfly-vulcan-papillon-vulcain-vanessa-atalanta-2.png"/>
+          </div>
         </header>
 
-        <div class="site-header__butterfly-container">
-          <img class="site-header__butterfly-img" src="../../layout/Butterfly-vulcan-papillon-vulcain-vanessa-atalanta-2.png"/>
-        </div>
+        <a href="#top" class="back-to-top__link" title="⤒ Back to top of page"><span class="back-to-top__icon">⤒</span></a>
 
-        <xsl:apply-templates select="child::node() | child::processing-instruction()"/>
+        <main>
+          <xsl:apply-templates select="child::node() | child::processing-instruction()"/>
+        </main>
 
         <footer class='site-footer' role='banner'>
           <div class='site-footer__deco'>
