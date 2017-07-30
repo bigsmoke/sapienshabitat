@@ -9,6 +9,8 @@
 
   <xsl:variable name="taxonomies" select="document('../taxonomies.xml')/root"/>
 
+  <xsl:variable name="meta" select="document('../htdocs/meta.xml')/pages"/>
+
   <xsl:template match="/">
     <xsl:apply-templates select="child::node() | child::processing-instruction()"/>
   </xsl:template>
@@ -158,4 +160,24 @@
     </img>
   </xsl:template>
 
+  <xsl:template match="processing-instruction('article-index')">
+    <h2>Articles</h2>
+
+    <ul>
+      <xsl:for-each select="$meta/page">
+        <xsl:sort select="title" order="ascending"/>
+
+        <xsl:if test="(not(draft) or draft='False') and (not(in_index) or in_index='True')">
+          <li>
+            <a href="/{slug}/">
+              <xsl:value-of select="title"/>
+            </a>
+          </li>
+        </xsl:if>
+      </xsl:for-each>
+    </ul>
+  </xsl:template>
+
 </xsl:stylesheet>
+
+<!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->

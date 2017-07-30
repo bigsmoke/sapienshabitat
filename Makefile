@@ -8,7 +8,7 @@ img_1000w := $(join $(addsuffix img-1000w/,$(dir $(full_images))),$(notdir $(ful
 img_500w := $(join $(addsuffix img-500w/,$(dir $(full_images))),$(notdir $(full_images)))
 layout := htdocs/layout/style.css htdocs/layout/enhance.js htdocs/layout/Butterfly-vulcan-papillon-vulcain-vanessa-atalanta-2.png htdocs/layout/mushroom-2279552_1920.png
 
-all: $(html5pages) $(full_images) $(img_1000w) $(img_500w) htdocs/meta.xml $(layout) 
+all: $(html5pages) $(full_images) $(img_1000w) $(img_500w) htdocs/page.html5 $(layout) 
 
 virtual: 
 	virtual/bin/activate
@@ -28,9 +28,10 @@ upload:
 %/page.plain.html5 : %/page.md
 	pandoc $< --standalone --data-dir=$(CURDIR)/layout/pandoc --template=sapienshabitat --from=markdown --to=html5 -o $@
 
-htdocs/index.html5: layout/generate-index.xsl layout/add-layout.xsl htdocs/meta.xml
-	xsltproc layout/generate-index.xsl htdocs/meta.xml \
-		| xsltproc layout/add-layout.xsl - > $@
+# The site index lives in a subdirectory, but it also need to live in the document root.
+htdocs/page.html5: htdocs/index/page.html5 htdocs/meta.xml
+	rm --force $@
+	ln --symbolic --relative $< $@
 
 htdocs/%/page.html5 : pages/%/page.plain.html5 layout/add-layout.xsl taxonomies.xml
 	mkdir -p $(dir $@)
