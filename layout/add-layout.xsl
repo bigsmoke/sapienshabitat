@@ -53,7 +53,7 @@
 
         <header class='site-header' role='banner'>
           <div class="site-header__white-background">
-            <h1 class='site-header__title'>Sapiens Habitat</h1>
+            <h1 class='site-header__title'><a class='site-header__title-link' href="/">Sapiens Habitat</a></h1>
             <span class='site-header__title-slogan-separator'> – </span>
             <h2 class='site-header__slogan'>Smart habitats for thinking humans</h2>
             <span class='site-header__terminator'> – </span>
