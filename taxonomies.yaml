@@ -21,7 +21,21 @@ author:
     bigsmoke:
         author: Rowan Rodrik van der Molen
         insert: bigsmoke
+    elfje-en-orkje:
+        author:
+            - Marilisa Laura Die van Herksen
+            - Rowan Rodrik van der Molen
 scope:
+    corridors:
+        keywords:
+            - corddidors
+    rewilding:
+        keywords:
+            - rewilding
+scale:
+    wilderness:
+        keywords:
+            - wilderness
     landscape:
         keywords:
             - landscaping
@@ -44,4 +58,4 @@ series:
         keywords:
             - “eat it or beat it”
 
-# :vim: set tabstop=4 shiftwidth=4 expandtab :
+# vim: set tabstop=4 shiftwidth=4 expandtab :

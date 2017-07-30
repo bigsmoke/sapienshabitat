@@ -3,8 +3,6 @@ title: Elderflower bubbles
 date: 2017-06-28
 taxonomy:
   author: bigsmoke
-  series: elder
-  theme: permaculture
 ---
 
 _[Sambucus nigra]{lang="la"}_ is its scientific name, but I'm more familiar with its dutch name: ‘[vlierbes]{lang="nl"}’. The common name in English for this scrub is elderberry, but we weren't interested in the berries; we were interested by the flowers. So, we went on a little undertaking to a derelict school nearby that was swimming in a sea of white elderflower heads a few weeks ago.

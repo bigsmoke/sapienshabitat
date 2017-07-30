@@ -1,6 +1,8 @@
 ---
 title: Wilderness
 draft: y
+taxonomy:
+  author: bigsmoke
 ---
 
 # Wilderness, and why it should be worldwide

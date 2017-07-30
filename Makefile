@@ -1,14 +1,14 @@
 SHELL := /bin/bash
 
 html5pages := $(patsubst pages/%/page.md,htdocs/%/page.html5,$(wildcard pages/*/page.md))
-page_meta := $(wildcard pages/%/page.md,htdocs/%/meta.xml,$(wildcard pages/*/page.md))
+page_meta := $(patsubst pages/%/page.md,htdocs/%/meta.xml,$(wildcard pages/*/page.md))
 src_images := $(wildcard pages/*/*.jpeg) $(wildcard pages/*/*.JPEG) $(wildcard pages/*/*.jpg) $(wildcard pages/*/*.JPG)
 full_images := $(patsubst pages/%,htdocs/%,$(src_images))
 img_1000w := $(join $(addsuffix img-1000w/,$(dir $(full_images))),$(notdir $(full_images)))
 img_500w := $(join $(addsuffix img-500w/,$(dir $(full_images))),$(notdir $(full_images)))
 layout := htdocs/layout/style.css htdocs/layout/enhance.js htdocs/layout/Butterfly-vulcan-papillon-vulcain-vanessa-atalanta-2.png htdocs/layout/mushroom-2279552_1920.png
 
-all: $(html5pages) $(full_images) $(img_1000w) $(img_500w) $(page_meta) $(layout) 
+all: $(html5pages) $(full_images) $(img_1000w) $(img_500w) htdocs/meta.xml $(layout) 
 
 virtual: 
 	virtual/bin/activate
@@ -34,7 +34,17 @@ htdocs/%/page.html5 : pages/%/page.plain.html5 layout/add-layout.xsl taxonomies.
 	mkdir -p $(dir $@)img-500w
 	xsltproc layout/add-layout.xsl $< > $@
 
-%/meta.xml : %/page.md taxonomies.json
+htdocs/meta.xml: $(page_meta)
+	echo '<?xml version="1.0" ?>' > $@
+	echo >> $@
+	echo '<pages>' >> $@
+	cat $^  \
+		| sed -e 's/<root>/<page>/' \
+		| sed -e 's/<\/root>/<\/page>/' \
+		| sed -e '/^<?xml/d' >> $@
+	echo '</pages>' >> $@
+
+htdocs/%/meta.xml : pages/%/page.md taxonomies.json
 	pandoc $< --standalone --data-dir=$(CURDIR)/layout/pandoc --template=yaml --to=markdown \
 		| sed -e '/^---/d' \
 		| layout/yaml-to-json.py \

@@ -1,6 +1,9 @@
 ---
 title: Aestethically pleasing, natural landscapes
 menu: Landscapes
+draft: y
+taxonomy:
+  author: bigsmoke
 ---
 
 # Landscapes

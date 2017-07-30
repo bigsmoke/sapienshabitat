@@ -1,6 +1,15 @@
 ---
 title: Rowan van der Molen
 menu: Rowan
+keywords:
+  - microbiology
+  - microbial ecology
+  - ecology
+  - agroecology
+  - polyculture
+  - perennial
+taxonomy:
+  author: bigsmoke
 ---
 
 # Rowan
@@ -27,3 +36,5 @@ the effects of perennial polycultures on microbial markers of soil health. (In
 <!-- FIXME: Make the PDF icon automatic -->
 
 ![Rowan at rest](rowan-at-rest-2012.jpg)
+
+<!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->

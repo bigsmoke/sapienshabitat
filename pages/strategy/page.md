@@ -1,9 +1,9 @@
 ---
 title: Scope
 icon: map-signs
-
-content:
-    items: @self.children
+draft: true
+taxonomy:
+  author: bigsmoke
 ---
 
 Although the scope of our mission is very grand, Sapiens Habitat's working

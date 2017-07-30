@@ -1,15 +1,17 @@
 ---
-title: Eat it or beat it: ground-elder
+title: "Eat it or beat it: ground-elder"
 draft: y
 keywords:
   - Aegopodium podagraria
   - ground elder
   - zevenblad
 taxonomy:
-  series: eat-it-or-beat-it
-  author: bigsmoke
+  series: eat-it-or-beat-it
+  author: bigsmoke
   scope: garden
 ---
+
+# Eat it or beat it: ground-elder
 
 _Aegopodium podagraria_ (ground elder in common English) is not native to The Netherlands. Yet, it is very much at home here, driving many gardeners to despair with its aggressive growth and its inclination to bounce back after even the most thorough erradication efforts. Instead of whithering away, it seems to relish in the negative attention and sweat of hardworking gardeners. Which, in fact, it does.
 

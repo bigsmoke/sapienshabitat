@@ -1,9 +1,7 @@
 ---
 title: 10 Signs you consider your cats as your children
 taxonomy:
-  author:
-    - bigsmoke
-    - mldvh
+  author: elfje-en-orkje
 ---
 
 # 10 Signs you consider your cats as your children
