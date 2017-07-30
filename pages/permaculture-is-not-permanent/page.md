@@ -1,5 +1,6 @@
 ---
 title: Permaculture
+draft: yes
 ---
 
 # Permaculture

@@ -1,6 +1,7 @@
 ---
 title: A wallflower refuge
 date: 2017-04-30
+draft: no
 keywords:
   - wallflower
   - “Erysimum cheiri”
@@ -11,7 +12,7 @@ taxonomy:
   author: bigsmoke
   project: schuilplaats
   theme: [low-frequency-gardening]
-  scope: garden
+  scale: garden
 ---
 
 # A wallflower refuge

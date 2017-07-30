@@ -1,6 +1,6 @@
 ---
 title: Wilderness
-draft: y
+draft: yes
 taxonomy:
   author: bigsmoke
 ---

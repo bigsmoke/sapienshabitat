@@ -28,6 +28,10 @@ upload:
 %/page.plain.html5 : %/page.md
 	pandoc $< --standalone --data-dir=$(CURDIR)/layout/pandoc --template=sapienshabitat --from=markdown --to=html5 -o $@
 
+htdocs/index.html5: layout/generate-index.xsl layout/add-layout.xsl htdocs/meta.xml
+	xsltproc layout/generate-index.xsl htdocs/meta.xml \
+		| xsltproc layout/add-layout.xsl - > $@
+
 htdocs/%/page.html5 : pages/%/page.plain.html5 layout/add-layout.xsl taxonomies.xml
 	mkdir -p $(dir $@)
 	mkdir -p $(dir $@)img-1000w
@@ -49,7 +53,8 @@ htdocs/%/meta.xml : pages/%/page.md taxonomies.json
 		| sed -e '/^---/d' \
 		| layout/yaml-to-json.py \
 		| layout/merge-meta.py <(cat taxonomies.yaml | layout/yaml-to-json.py) \
-		| layout/json-to-xml.py > $@
+		| layout/json-to-xml.py \
+		| sed -e '/<root>/a<slug type="str">$*</slug>' > $@
 
 $(full_images) : htdocs/% : pages/%
 	rm -f $@
