@@ -172,8 +172,10 @@
             <li class="article-index__item">
               <xsl:apply-templates select="date" mode="article-index"/>
 
-              <a href="/{slug}/" class="article-index__link">
-                <xsl:value-of select="title"/>
+              <a href="/{slug}/" class="article-index__article-link">
+                <cite class="article-index__article-title">
+                  <xsl:value-of select="title"/>
+                </cite>
               </a>
             </li>
           </xsl:if>

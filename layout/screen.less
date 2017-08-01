@@ -57,6 +57,10 @@ article {
   max-width: 80ex;
 }
 
+.article-body ul {
+  margin-top: 0;
+}
+
 .article-body figure {
   margin-top: 1em;
   margin-bottom: 1em;
@@ -147,6 +151,7 @@ figure.text-width img {
 .article-index__item {
   display: flex;
   flex-direction: row;
+  margin-bottom: .25em;
 }
 
 .article-index__date {
@@ -184,9 +189,13 @@ figure.text-width img {
   text-align: center;
 }
 
-.article-index__container .article-index__link {
+.article-index__container a.article-index__article-link {
   padding-left: 2ex;
   padding-right: 2ex;
+}
+
+.article-index__article-title {
+  font-style: normal;
 }
 
 .site-footer {
