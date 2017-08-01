@@ -161,21 +161,79 @@
   </xsl:template>
 
   <xsl:template match="processing-instruction('article-index')">
-    <h2>Articles</h2>
+    <div class="article-index__container">
+      <h2>Articles</h2>
 
-    <ul>
-      <xsl:for-each select="$meta/page">
-        <xsl:sort select="title" order="ascending"/>
+      <ul class="article-index__list">
+        <xsl:for-each select="$meta/page">
+          <xsl:sort select="title" order="ascending"/>
 
-        <xsl:if test="(not(draft) or draft='False') and (not(in_index) or in_index='True')">
-          <li>
-            <a href="/{slug}/">
-              <xsl:value-of select="title"/>
-            </a>
-          </li>
-        </xsl:if>
-      </xsl:for-each>
-    </ul>
+          <xsl:if test="(not(draft) or draft='False') and (not(in_index) or in_index='True')">
+            <li class="article-index__item">
+              <xsl:apply-templates select="date" mode="article-index"/>
+
+              <a href="/{slug}/" class="article-index__link">
+                <xsl:value-of select="title"/>
+              </a>
+            </li>
+          </xsl:if>
+        </xsl:for-each>
+      </ul>
+    </div>
+  </xsl:template>
+
+  <xsl:template match="date" mode="article-index">
+    <xsl:variable name="month_number" select="substring-before(substring-after(., '-'), '-')"/>
+    <time datetime="{.}" class="article-index__date">
+      <span class="article-index__month">
+        <span class="article-index__month-name-short">
+          <xsl:choose>
+            <xsl:when test="$month_number = '01'">
+              <xsl:text>Jan</xsl:text>
+            </xsl:when>
+            <xsl:when test="$month_number = '02'">
+              <xsl:text>Feb</xsl:text>
+            </xsl:when>
+            <xsl:when test="$month_number = '03'">
+              <xsl:text>Mar</xsl:text>
+            </xsl:when>
+            <xsl:when test="$month_number = '04'">
+              <xsl:text>Apr</xsl:text>
+            </xsl:when>
+            <xsl:when test="$month_number = '05'">
+              <xsl:text>May</xsl:text>
+            </xsl:when>
+            <xsl:when test="$month_number = '06'">
+              <xsl:text>Jun</xsl:text>
+            </xsl:when>
+            <xsl:when test="$month_number = '07'">
+              <xsl:text>Jul</xsl:text>
+            </xsl:when>
+            <xsl:when test="$month_number = '08'">
+              <xsl:text>Aug</xsl:text>
+            </xsl:when>
+            <xsl:when test="$month_number = '09'">
+              <xsl:text>Sep</xsl:text>
+            </xsl:when>
+            <xsl:when test="$month_number = '10'">
+              <xsl:text>Oct</xsl:text>
+            </xsl:when>
+            <xsl:when test="$month_number = '11'">
+              <xsl:text>Nov</xsl:text>
+            </xsl:when>
+            <xsl:when test="$month_number = '12'">
+              <xsl:text>Dec</xsl:text>
+            </xsl:when>
+          </xsl:choose>
+        </span>
+        <span class="article-index__month-day">
+          <xsl:value-of select="substring-after(substring-after(., '-'), '-')"/>
+        </span>
+      </span>
+      <span class="article-index__year">
+        <xsl:value-of select="substring-before(., '-')"/>
+      </span>
+    </time>
   </xsl:template>
 
 </xsl:stylesheet>

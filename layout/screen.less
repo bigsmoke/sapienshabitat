@@ -139,6 +139,56 @@ figure.text-width img {
   background-color: darken(@light-brownish-background-color, 5%);
 }
 
+.article-index__list {
+  padding: 0;
+  list-style-type: none;
+}
+
+.article-index__item {
+  display: flex;
+  flex-direction: row;
+}
+
+.article-index__date {
+  display: flex;
+  flex-direction: column;
+  line-height: 1em;
+  font-size: 80%;
+}
+
+.article-index__month {
+  display: flex;
+  flex-direction: column;
+}
+
+.article-index__month-name-short {
+  background-color: black;
+  color: lighten(@light-brownish-background-color, 5%);
+  padding: 2pt;
+  text-align: center;
+  letter-spacing: 1pt;
+}
+
+.article-index__month-day {
+  background-color: black;
+  color: lighten(@light-brownish-background-color, 15%);
+  padding: 2pt;
+  text-align: center;
+  font-size: 170%;
+}
+
+.article-index__year {
+  background-color: black;
+  color: darken(@light-brownish-background-color, 15%);
+  padding: 2pt;
+  text-align: center;
+}
+
+.article-index__container .article-index__link {
+  padding-left: 2ex;
+  padding-right: 2ex;
+}
+
 .site-footer {
   margin: 0;
   margin-top: 5em;
