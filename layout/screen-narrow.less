@@ -45,17 +45,17 @@ article {
   .article-body > .side-by-side-figure__container {
     margin-left: 0;
     margin-right: 0;
-  }
   
-  figure.semi-text-width {
-    margin-left: 0;
-    margin-right: 0;
-  }
-  
-  img.semi-text-width {
-    display: block;
-    width: 100%;
-    height: auto;
+    figure.semi-text-width {
+      margin-left: 0;
+      margin-right: 0;
+    }
+    
+    img.semi-text-width {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
   }
 }
 
@@ -66,34 +66,35 @@ article {
     margin-right: auto;
     display: flex;
     flex-direction: row;
-  }
   
-  figure.semi-text-width {
-    display: flex;
-    flex-direction: row;
-    width: 50%;
+    figure.semi-text-width {
+      display: flex;
+      flex-direction: row;
+      width: 50%;
+    }
+    
+    figure.semi-text-width:first-child {
+      margin-right: 1pt;
+    }
+    
+    figure.semi-text-width:last-child {
+      margin-left: 1pt;
+    }
+    
+    img.semi-text-width {
+      background-color: @light-brownish-background-color;
+      display: block;
+      height: 100vh - 2em;
+      width: auto;
+    }
+    
+    figure.semi-text-width figcaption {
+      font-size: .8em;
+      padding: 1ex;
+      text-align: justify;
+      word-break: break-all;
+      overflow-wrap: break-word;
+    }
   }
-  
-  figure.semi-text-width:first-child {
-    margin-right: 1pt;
-  }
-  
-  figure.semi-text-width:last-child {
-    margin-left: 1pt;
-  }
-  
-  img.semi-text-width {
-    background-color: @light-brownish-background-color;
-    display: block;
-    height: 100vh - 2em;
-    width: auto;
-  }
-  
-  figure.semi-text-width figcaption {
-    font-size: .8em;
-    padding: 1ex;
-    text-align: justify;
-    word-break: break-all;
-    overflow-wrap: break-word;
-  }
+
 }

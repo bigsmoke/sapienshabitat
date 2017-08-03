@@ -106,8 +106,6 @@
     </figure>
   </xsl:template>
 
-  <xsl:template match="figure[contains(img/@class, 'semi-text-width')]"/>
-
   <xsl:template match="figure[contains(img/@class, 'semi-text-width')][./following-sibling::*[position()=1 and name(.)='figure']]">
     <div class="side-by-side-figure__container">
       <xsl:call-template name="figure" /> 
@@ -117,6 +115,8 @@
       </xsl:for-each>
     </div>
   </xsl:template>
+
+  <xsl:template match="figure[contains(img/@class, 'semi-text-width')][./preceding-sibling::*[position()=1 and name(.)='figure']]"/>
 
   <xsl:template match="img">
     <img>
@@ -149,6 +149,9 @@
             </xsl:when>
             <xsl:when test="contains(@class, 'text-width')">
               <xsl:text>80ex</xsl:text>
+            </xsl:when>
+            <xsl:when test="contains(@class, 'narrow')">
+              <xsl:text>20ex</xsl:text>
             </xsl:when>
             <xsl:otherwise>
               <xsl:message terminate="yes">Unspecified image format!</xsl:message>
