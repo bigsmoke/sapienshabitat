@@ -41,6 +41,21 @@ article {
 }
 
 @media (orientation: portrait) {
+
+  figure.narrow {
+    display: block;
+    float: right;
+    margin-top: 0;
+    margin-left: 2ex;
+    width: 40%;
+  }
+  
+  img.narrow {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
   /* Matching on .article_content for sufficient specificity to win */
   .article-body > .side-by-side-figure__container {
     margin-left: 0;
@@ -60,6 +75,20 @@ article {
 }
 
 @media (orientation: landscape) {
+  figure.narrow {
+    display: block;
+    float: right;
+    margin-top: 0;
+    margin-left: 2ex;
+    width: 30%;
+  }
+  
+  img.narrow {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
   .article-body > .side-by-side-figure__container {
     width: auto;
     margin-left: auto;
