@@ -231,10 +231,12 @@
             </xsl:when>
           </xsl:choose>
         </span>
+        <span class="article-index__date-part-seperator"><xsl:text>-</xsl:text></span>
         <span class="article-index__month-day">
           <xsl:value-of select="substring-after(substring-after(., '-'), '-')"/>
         </span>
       </span>
+      <span class="article-index__date-part-seperator"><xsl:text>-</xsl:text></span>
       <span class="article-index__year">
         <xsl:value-of select="substring-before(., '-')"/>
       </span>
