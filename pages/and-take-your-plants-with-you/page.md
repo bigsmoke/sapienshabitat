@@ -5,7 +5,7 @@ taxonomy:
 ---
 
 
-# And take you plants with you!
+# And take your plants with you!
 
 They left, you know, my mother and my sister. They left the Netherlands. My mother? Permanently, for the first time. My sister? For the third time, but as permanently as when she first announced her intention to rid herself of her Dutch passport.
 
@@ -39,4 +39,4 @@ The trailer was loaded with my mother's garden. They would drive [km] km with a 
 
 After 8 days of driving and recharging, they arrived at Ponte de Pedro (on June 8) with most of their plants mostly intact. The plants could soon settle in their new home. Their owners, however… They would have to wait a bit before settling. But, more about that later.
 
-![When the plant owners arrived at their new property, it was 40° C. So, the <del>first</del> <ins>second</ins> thing they did was to protect their plants against the scorching sun, after putting them into the full soil. The leaves has been damaged by the hot winds while driving, and this had prompted helpful samaritans to turn the root to rot with too much water.](Temporary_plant_shelter.jpg){.text-width width="4592" height="2584"}
+![When the plant owners arrived at their new property, it was 40° C. So, the <del>first</del> <ins>second</ins> thing they did was to protect their plants against the scorching sun, after putting them into the full soil. The leaves had been damaged by the hot winds while driving, and this had prompted helpful samaritans to turn the root to rot with too much water.](Temporary_plant_shelter.jpg){.text-width width="4592" height="2584"}
