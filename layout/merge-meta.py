@@ -32,11 +32,15 @@ if __name__ == '__main__':
 
     unmerged_meta = json.load(sys.stdin)
     merged_meta = unmerged_meta.copy()
-    unmerged_taxonomy = unmerged_meta['taxonomy']
 
+    if 'published' in merged_meta and not 'date' in merged_meta:
+        merged_meta['date'] = merged_meta['published']
+    if not 'published' in merged_meta:
+        merged_meta['draft'] = merged_meta.get('draft', True)
+
+    unmerged_taxonomy = unmerged_meta['taxonomy']
     with open(args.taxonomy_file, 'r') as taxonomy_file:
         taxonomy_data = json.load(taxonomy_file)
-
     for taxonomy_key, term_key_or_keys in unmerged_taxonomy.items():
         term_keys = term_key_or_keys if isinstance(term_key_or_keys, list) else [term_key_or_keys]
         for term_key in term_keys:

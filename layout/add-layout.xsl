@@ -6,10 +6,11 @@
 
   <xsl:param name="img-width-1" select="number('2500')"/> <!-- That's about the resolution of my Samsung S7 Edge -->
   <xsl:param name="img-width-2" select="number('1000')"/> <!-- That's about the resolution of my Samsung S7 Edge -->
-
-  <xsl:variable name="taxonomies" select="document('../taxonomies.xml')/root"/>
+  <xsl:param name="slug"/>
 
   <xsl:variable name="meta" select="document('../htdocs/meta.xml')/pages"/>
+
+  <xsl:variable name="this-article-meta" select="$meta/page[slug=$slug]"/>
 
   <xsl:template match="/">
     <xsl:apply-templates select="child::node() | child::processing-instruction()"/>
@@ -94,7 +95,76 @@
       <div class="article-body">
         <xsl:apply-templates select="(child::node() | child::processing-instruction())[not(name(.)='h1')]"/>
       </div>
+
+      <div class="article-footer">
+        <xsl:apply-templates select="$this-article-meta/date" mode="article-footer"/>
+        <xsl:apply-templates select="$this-article-meta/author" mode="article-footer"/>
+      </div>
     </article>
+  </xsl:template>
+
+  <xsl:template match="date" mode="article-footer">
+    <xsl:variable name="month_number" select="substring-before(substring-after(., '-'), '-')"/>
+    <div class="article-footer__date-wrapper">
+      <time datetime="{.}" class="article-footer__date">
+        <span class="article-footer__month">
+          <span class="article-footer__month-name-short">
+            <xsl:choose>
+              <xsl:when test="$month_number = '01'">
+                <xsl:text>Jan</xsl:text>
+              </xsl:when>
+              <xsl:when test="$month_number = '02'">
+                <xsl:text>Feb</xsl:text>
+              </xsl:when>
+              <xsl:when test="$month_number = '03'">
+                <xsl:text>Mar</xsl:text>
+              </xsl:when>
+              <xsl:when test="$month_number = '04'">
+                <xsl:text>Apr</xsl:text>
+              </xsl:when>
+              <xsl:when test="$month_number = '05'">
+                <xsl:text>May</xsl:text>
+              </xsl:when>
+              <xsl:when test="$month_number = '06'">
+                <xsl:text>Jun</xsl:text>
+              </xsl:when>
+              <xsl:when test="$month_number = '07'">
+                <xsl:text>Jul</xsl:text>
+              </xsl:when>
+              <xsl:when test="$month_number = '08'">
+                <xsl:text>Aug</xsl:text>
+              </xsl:when>
+              <xsl:when test="$month_number = '09'">
+                <xsl:text>Sep</xsl:text>
+              </xsl:when>
+              <xsl:when test="$month_number = '10'">
+                <xsl:text>Oct</xsl:text>
+              </xsl:when>
+              <xsl:when test="$month_number = '11'">
+                <xsl:text>Nov</xsl:text>
+              </xsl:when>
+              <xsl:when test="$month_number = '12'">
+                <xsl:text>Dec</xsl:text>
+              </xsl:when>
+            </xsl:choose>
+          </span>
+          <span class="article-footer__date-part-seperator"><xsl:text>-</xsl:text></span>
+          <span class="article-footer__month-day">
+            <xsl:value-of select="substring-after(substring-after(., '-'), '-')"/>
+          </span>
+        </span>
+        <span class="article-footer__date-part-seperator"><xsl:text>-</xsl:text></span>
+        <span class="article-footer__year">
+          <xsl:value-of select="substring-before(., '-')"/>
+        </span>
+      </time>
+    </div>
+  </xsl:template>
+
+  <xsl:template match="author" mode="article-footer">
+    <div class="article-footer__author">
+      <xsl:value-of select="." />
+    </div>
   </xsl:template>
 
   <xsl:template match="figure" name="figure">

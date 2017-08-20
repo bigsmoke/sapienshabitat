@@ -57,6 +57,53 @@ article {
   max-width: 80ex;
 }
 
+.article-footer__date-wrapper {
+  display: inline-block;
+}
+
+.article-footer__date {
+  display: flex;
+  flex-direction: column;
+  line-height: 1em;
+  font-size: 80%;
+}
+
+.article-footer__date-part-seperator {
+  display: none;
+}
+
+.article-footer__month {
+  display: flex;
+  flex-direction: column;
+}
+
+.article-footer__month-name-short {
+  background-color: black;
+  color: lighten(@light-brownish-background-color, 5%);
+  padding: 2pt;
+  text-align: center;
+  letter-spacing: 1pt;
+}
+
+.article-footer__month-day {
+  background-color: black;
+  color: lighten(@light-brownish-background-color, 15%);
+  padding: 2pt;
+  text-align: center;
+  font-size: 170%;
+}
+
+.article-footer__year {
+  background-color: black;
+  color: darken(@light-brownish-background-color, 15%);
+  padding: 2pt;
+  text-align: center;
+}
+
+.article-footer__author {
+  display: none;
+}
+
 .article-body ul {
   margin-top: 0;
 }

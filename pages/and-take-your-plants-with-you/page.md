@@ -8,11 +8,11 @@ draft: yes
 
 # And take your plants with you!
 
-After waiting for the right opportunity for over 30 years, my mother left the Netherlands. Finally! And she took her plants with her.
+After waiting for the right opportunity for over 30 years, my mother left the Netherlands. Finally. And … she took her plants with her.
 
-The opportunity 
+The time had been […]
 
-They left, you know, my mother and my sister. They left the Netherlands. My mother? Permanently, for the first time. My sister? For the third time, but as permanently as when she first announced her intention to rid herself of her Dutch passport.
+My sister had long ago announced her intention to rid herself of her Dutch passport.
 
 ![Though desired by many, this passport was no longer wanted by my sister.](NL_passport_2017-08-06_front-side.jpg){.narrow width="2408" height="3328"}
 

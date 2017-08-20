@@ -33,11 +33,11 @@ htdocs/page.html5: htdocs/index/page.html5 htdocs/meta.xml
 	rm --force $@
 	ln --symbolic --relative $< $@
 
-htdocs/%/page.html5 : pages/%/page.plain.html5 layout/add-layout.xsl taxonomies.xml
+htdocs/%/page.html5 : pages/%/page.plain.html5 layout/add-layout.xsl
 	mkdir -p $(dir $@)
 	mkdir -p $(dir $@)img-1000w
 	mkdir -p $(dir $@)img-500w
-	xsltproc layout/add-layout.xsl $< > $@
+	xsltproc --stringparam slug "$(shell basename `dirname $<`)" layout/add-layout.xsl $< > $@
 
 htdocs/meta.xml: $(page_meta)
 	echo '<?xml version="1.0" ?>' > $@
@@ -49,7 +49,7 @@ htdocs/meta.xml: $(page_meta)
 		| sed -e '/^<?xml/d' >> $@
 	echo '</pages>' >> $@
 
-htdocs/%/meta.xml : pages/%/page.md taxonomies.json
+htdocs/%/meta.xml : pages/%/page.md
 	pandoc $< --standalone --data-dir=$(CURDIR)/layout/pandoc --template=yaml --to=markdown \
 		| sed -e '/^---/d' \
 		| layout/yaml-to-json.py \

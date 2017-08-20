@@ -1,7 +1,6 @@
 ---
 title: Elderflower bubbles
-date: 2017-08-01
-draft: no
+published: 2017-08-01
 taxonomy:
   author: bigsmoke
 ---
