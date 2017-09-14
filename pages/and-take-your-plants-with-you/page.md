@@ -8,13 +8,11 @@ draft: yes
 
 # And take your plants with you!
 
-After waiting for the right opportunity for over 30 years, my mother left the Netherlands. Finally. And … she took her plants with her.
-
-The time had been […]
-
-My sister had long ago announced her intention to rid herself of her Dutch passport.
-
 ![Though desired by many, this passport was no longer wanted by my sister.](NL_passport_2017-08-06_front-side.jpg){.narrow width="2408" height="3328"}
+
+My mother had been waiting for the right opportunity for over 30 years. And my sister had already left the Netherlands, some years ago, and vowed to never return. She even intended to rid herself of her most prized posession—her Dutch passport. Since she left for Ireland and then Scotland, she visited us left-behinds about once per year, apparently just to remind us that we, too, should someday pull our feet out of this once-swamp.
+
+Having exchanged the lowlands for the highlands, Laurelin—my sister—didn't remain as enamoured with the Scottish weather as she was with the Scottish landscape. The climate in the highlands turned out to be even less agreeable than the Dutch climate—that clammy, swampy stuff that Annemarie—our mother—still wished to escape.
 
 Annemarie (my mother) had long intended to leave the low lands and its damp, cold climate. But she didn't want to go alone, without family. And it was financially attractive to wait until she was older than 65. To me, her patience was maddening. As long as I can remember, she had hated The Netherlands. Never since returning from the year that she and my father spent in the Middle East after concluding their studies had she felt at home in the Netherlands. It had come to feel so drab and grey to her. So why was she still here?
 
