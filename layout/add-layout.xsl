@@ -37,7 +37,7 @@
       <xsl:copy-of select="attribute::*"/>
 
       <meta name="viewport" content="width=device-width, initial-scale=1"/>
-      <link rel="stylesheet" type="text/css" href="../layout/style.css?v=24"/>
+      <link rel="stylesheet" type="text/css" href="../layout/style.css?v=25"/>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather"/>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Archivo+Narrow"/>
 
