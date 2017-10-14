@@ -40,6 +40,7 @@
       <link rel="stylesheet" type="text/css" href="../layout/style.css?v=25"/>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather"/>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Archivo+Narrow"/>
+      <link rel="alternate" type="application/pdf" href="." media="print"/>
 
       <script type="text/javascript" src="../layout/enhance.js?v=1"></script>
 
