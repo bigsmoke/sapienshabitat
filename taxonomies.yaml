@@ -7,7 +7,8 @@ project:
             - Drenthe
             - vakantiehuis
             - vakantiehuisje
-        # coordingates:
+            - The Netherlands
+        # coordinates:
     molensteen:
         insert: molensteen
         keywords:
@@ -17,6 +18,15 @@ project:
             - Groninger Airport Eelde
             - Drenthe
             - Groningen
+            - The Netherlands
+    pppermaculture:
+        insert: pppermaculture
+        keywords:
+            - “Ponte de Pedra”
+            - Portugal
+            - Coimbra
+            - Tomar
+            - Cernache do Bonjardim
 author:
     bigsmoke:
         author: Rowan Rodrik van der Molen

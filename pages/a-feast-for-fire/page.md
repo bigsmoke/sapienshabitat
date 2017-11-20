@@ -5,10 +5,11 @@ keywords:
   - Eucalyptus globulus
 taxonomy:
   author: bigsmoke
-  series: ponte-de-pedro
+  series: pppermaculture
+  scale: landscape
 ---
 
 
 # A feast for fire: the disaster ecology for the Eucalyptus tree
 
-It 
+

@@ -234,6 +234,13 @@
     </img>
   </xsl:template>
 
+  <xsl:template match="processing-instruction('project-insert')">
+    <xsl:variable name="project" select="$this-article-meta/taxonomy/project"/>
+    <xsl:if test="$this-article-meta/insert[item=$project]">
+      <xsl:apply-templates select="document(concat('../blocks/', $project, '/block.xhtml5'))/*"/>
+    </xsl:if>
+  </xsl:template>
+
   <xsl:template match="processing-instruction('article-index')">
     <div class="article-index__container">
       <h2>Articles</h2>
