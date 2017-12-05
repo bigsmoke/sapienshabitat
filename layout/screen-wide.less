@@ -17,6 +17,37 @@ article {
   line-height: 1.75em;
 }
 
+.article-body > .project-insert {
+  border-radius: 0 0 0 0;
+  position: absolute;
+  right: 0;
+  background-color: darken(@light-brownish-background-color, 10%);
+  margin-top: 1.75em;
+  margin-right: 0;
+  margin-bottom: 2em;
+  padding-left: 5ex;
+  padding-right: 5ex;
+  color: black;
+}
+
+.article-body > .project-insert > h4 {
+  font-size: 80%;
+  display: inline;
+  font-family: inherit;
+  font-weight: bold;
+}
+
+.article-body > .project-insert > h4:after {
+  font-size: 80%;
+  margin-right: .5ex;
+  content: '.';
+}
+
+.article-body > .project-insert > p {
+  font-size: 80%;
+  display: inline;
+}
+
 figure.narrow {
   display: block;
   float: right;

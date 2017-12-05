@@ -25,6 +25,9 @@ clean:
 upload:
 	rsync --verbose --copy-links --delete --recursive --times $(CURDIR)/htdocs/ bigsmoke_sapienshabitat@ssh.phx.nearlyfreespeech.net:/home/public/
 
+taxonomies.xml: taxonomies.yaml
+	cat $< | layout/yaml-to-json.py | layout/json-to-xml.py > $@
+
 %/page.plain.html5 : %/page.md
 	pandoc $< --standalone --data-dir=$(CURDIR)/layout/pandoc --template=sapienshabitat --from=markdown --to=html5 -o $@
 

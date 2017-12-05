@@ -1,8 +1,8 @@
 project:
     schuilplaats:
         insert: schuilplaats
+        title: “De Schuilplaats”
         keywords:
-            - “De Schuilplaats”
             - Norg
             - Drenthe
             - vakantiehuis
@@ -11,8 +11,8 @@ project:
         # coordinates:
     molensteen:
         insert: molensteen
+        title: “De Oude Molensteen” 
         keywords:
-            - “De Oude Molensteen”
             - bed & breakfast
             - Eelde
             - Groninger Airport Eelde
@@ -21,8 +21,8 @@ project:
             - The Netherlands
     pppermaculture:
         insert: pppermaculture
+        title: “Ponte de Pedra Permaculture”
         keywords:
-            - “Ponte de Pedra”
             - Portugal
             - Coimbra
             - Tomar

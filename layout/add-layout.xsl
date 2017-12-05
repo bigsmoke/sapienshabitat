@@ -10,6 +10,8 @@
 
   <xsl:variable name="meta" select="document('../htdocs/meta.xml')/pages"/>
 
+  <xsl:variable name="taxonomies" select="document('../taxonomies.xml')/root"/>
+
   <xsl:variable name="this-article-meta" select="$meta/page[slug=$slug]"/>
 
   <xsl:template match="/">
@@ -77,12 +79,51 @@
             <img class='site-footer__deco-pic' src="../../layout/mushroom-2279552_1920.png"/>
           </div>
           <div class='site-footer__content'>
+            <div class='site-footer-index'>
+              <xsl:call-template name="footer-taxonomy">
+                <xsl:with-param name="taxonomy-root" select="$taxonomies/project"/>
+                <xsl:with-param name="taxonomy-title">Projects</xsl:with-param>
+              </xsl:call-template>
+              <xsl:call-template name="footer-taxonomy">
+                <xsl:with-param name="taxonomy-root" select="$taxonomies/scale"/>
+                <xsl:with-param name="taxonomy-title">Scale</xsl:with-param>
+              </xsl:call-template>
+            </div>
             <p class='site-footer__license'><a href="http://creativecommons.org/licenses/by-nc-sa/2.5/" rel="license">Copyleft</a>: you can share this content as long as you copy it right; that means that you must tell where it's from (from me) and that you have to ask permission first if you want to use my content commercially.</p>
             <p class='site-footer__colophon'><a href="https://github.com/bigsmoke/sapienshabitat/" rel="colophon">Colophon</a>: this website is open source; all the details about its technical design, the full file history and current drafts are freely accessible on-line.</p>
           </div>
         </footer>
       </div> <!-- .site-container -->
     </body>
+  </xsl:template>
+
+  <xsl:template name="footer-taxonomy">
+    <xsl:param name="taxonomy-root"/>
+    <xsl:param name="taxonomy-title"/>
+    <xsl:variable name="taxonomy-name" select="name($taxonomy-root)"/>
+
+    <div class='site-footer-taxonomy'>
+      <h5 class='site-footer-taxonomy__title'>
+        <xsl:value-of select="$taxonomy-title"/>
+      </h5>
+      <ul class='site-footer-taxonomy__terms'>
+        <xsl:for-each select="$taxonomy-root/*">
+          <xsl:variable name="taxonomy-term-name" select="name()"/>
+          <li class='site-footer-taxonomy__term'>
+            <h6 class='site-footer-taxonomy__term-title'>
+              <xsl:value-of select="title"/>
+            </h6>
+            <ul class='site-footer-taxonomy__articles'>
+              <xsl:for-each select="$meta/page[taxonomy/*[name()=$taxonomy-name][text()=$taxonomy-term-name]]">
+                <li class='site-footer-taxonomy__article'>
+                  <xsl:value-of select="title"/>
+                </li>
+              </xsl:for-each>
+            </ul>
+          </li>
+        </xsl:for-each>
+      </ul>
+    </div>
   </xsl:template>
 
   <xsl:template match="article">
