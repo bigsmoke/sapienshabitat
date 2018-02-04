@@ -9,6 +9,8 @@ def merge_meta(meta1, meta2):
     assert isinstance(meta1, dict)
     assert isinstance(meta2, dict)
     for meta2_field_name, meta2_field_value_or_values in meta2.items():
+        if meta2_field_name == 'title':
+            continue
         if meta2_field_name in meta1:
             if isinstance(meta2_field_value_or_values, list):
                 # This work both when the meta values in meta1 are or are not already lists

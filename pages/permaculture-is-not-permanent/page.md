@@ -1,6 +1,8 @@
 ---
 title: Permaculture
 draft: yes
+taxonomy:
+  author: bigsmoke
 ---
 
 # Permaculture

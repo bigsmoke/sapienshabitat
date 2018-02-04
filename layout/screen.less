@@ -1,7 +1,10 @@
-@content-margin-padding: 10px;
+html {
+  font-size: 1em;
+}
 
 body {
   background-color: @light-brownish-background-color;
+  overflow-x: hidden;
 }
 
 .site-header {
@@ -54,7 +57,7 @@ article {
   width: 100%;
   font-family: 'Archivo Narrow', sans-serif;
   text-align: justify;
-  max-width: 80ex;
+  max-width: 50rem;
 }
 
 .article-footer__date-wrapper {
@@ -189,6 +192,35 @@ figure.text-width img {
   background-color: darken(@light-brownish-background-color, 5%);
 }
 
+.article-body > .project-insert {
+  border-radius: 0 0 0 0;
+  background-color: darken(@light-brownish-background-color, 10%);
+  margin-top: 1.75em;
+  margin-bottom: 2em;
+  padding: 0;
+  color: black;
+  text-align: left;
+}
+
+.article-body > .project-insert h4 {
+  font-size: 80%;
+  margin: 0;
+  display: inline;
+  font-family: inherit;
+  font-weight: bold;
+}
+
+.article-body > .project-insert h4:after {
+  font-size: 80%;
+  margin-right: .5ex;
+  content: '.';
+}
+
+.article-body > .project-insert p {
+  font-size: 80%;
+  display: inline;
+}
+
 .article-body .article-index__list {
   margin-left: 0;
   padding: 0;
@@ -259,9 +291,55 @@ figure.text-width img {
 
 .site-footer-index {
   margin: 0;
+  display: flex;
+  flex-direction: row;
+  font-family: 'Archivo Narrow', sans-serif;
+  font-size: 80%;
+  color: darken(@light-brownish-background-color, 20%);
 }
 
 .site-footer-taxonomy {
+  padding: 1em 1ex;
+  flex-grow: 1;
+}
+
+.site-footer-taxonomy__title {
+  margin: 1em 0 .75em 0;
+  font-family: 'Merriweather', serif;
+  font-size: 100%;
+  color: darken(@light-brownish-background-color, 10%);
+}
+
+.site-footer-taxonomy__terms {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.site-footer-taxonomy__term-title {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  font-size: 80%;
+  color: darken(@light-brownish-background-color, 10%);
+}
+
+.site-footer-taxonomy__articles {
+  margin: .25em 0 .75em 0;
+  padding-left: 3ex;
+  list-style-type: disc;
+}
+
+.site-footer-taxonomy__article-link {
+  text-decoration: none;
+  color: #825e43;
+}
+
+.site-footer-taxonomy__article-link:hover {
+  text-decoration: underline;
+}
+
+.site-footer-taxonomy__article-link:target {
+  color: @light-brownish-background-color;
 }
 
 .site-footer__deco-pic {
@@ -305,3 +383,4 @@ figure.text-width img {
   color: #825e43;
 }
 
+/* vim: set expandtab shiftwidth=2 tabstop=2 softtabstop=2: */

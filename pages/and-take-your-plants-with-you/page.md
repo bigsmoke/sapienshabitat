@@ -3,6 +3,7 @@ title: And take your plants with you\!
 published: 2017-09-24
 taxonomy:
   author: bigsmoke
+  project: pppermaculture
 ---
 
 
@@ -43,3 +44,5 @@ After 8 days of driving and occasional recharging at various campings, they arri
 ![When the plant owners arrived at their new property, it was 40° C. So, the <del>first</del> <ins>second</ins> thing they did was to protect their plants against the scorching sun, after putting them into the full soil. The leaves had been damaged by the hot winds while driving, and this had prompted helpful samaritans at a camping to turn the root to rot with too much water.](Temporary_plant_shelter.jpg){.text-width width="4592" height="2584"}
 
 I want to end this first article in this series about life in Ponte de Pedro by exclaiming the relief I felt when my mother finally left for Portugal: “Yes… And take your plants with you!”
+
+<?project-insert?>

@@ -2,7 +2,7 @@
 title: A mess of a adecca
 taxonomy:
   author: bigsmoke
-  series: ponte-de-pedra
+  project: pppermaculture
 ---
 
 # A mess of a adecca

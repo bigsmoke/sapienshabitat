@@ -1,12 +1,13 @@
 @import (less) "reset.less";
 @import (less) "colors.less";
+@main-side-margin: 20px;
 @media screen {
   @import (less) "screen.less";
 }
-@media only screen and (max-device-width: 647px) {
+@media only screen and (max-width: 647px) {
   @import (less) "screen-narrow.less";
 }
-@media only screen and (min-device-width: 648px) {
+@media only screen and (min-width: 648px) {
   @import (less) "screen-wide.less";
 }
 @media print {

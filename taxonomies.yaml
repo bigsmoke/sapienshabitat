@@ -46,12 +46,15 @@ scope:
             - rewilding
 scale:
     wilderness:
+        title: Wilderness
         keywords:
             - wilderness
     landscape:
+        title: Landscape
         keywords:
             - landscaping
     garden:
+        title: Garden
         keywords:
             - gardening
 theme:

@@ -8,7 +8,7 @@ keywords:
 taxonomy:
   series: eat-it-or-beat-it
   author: bigsmoke
-  scope: garden
+  scale: garden
 ---
 
 # Eat it or beat it: ground-elder

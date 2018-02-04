@@ -97,6 +97,15 @@
     </body>
   </xsl:template>
 
+  <xsl:template match="aside" mode="insert">
+    <aside>
+      <xsl:copy-of select="attribute::*"/>
+      <div class="insert__content">
+        <xsl:apply-templates select="child::node() | child::processing-instruction()"/>
+      </div>
+    </aside>
+  </xsl:template>
+
   <xsl:template name="footer-taxonomy">
     <xsl:param name="taxonomy-root"/>
     <xsl:param name="taxonomy-title"/>
@@ -115,9 +124,13 @@
             </h6>
             <ul class='site-footer-taxonomy__articles'>
               <xsl:for-each select="$meta/page[taxonomy/*[name()=$taxonomy-name][text()=$taxonomy-term-name]]">
-                <li class='site-footer-taxonomy__article'>
-                  <xsl:value-of select="title"/>
-                </li>
+                <xsl:if test="not(draft) or draft='False'">
+                  <li class='site-footer-taxonomy__article'>
+                    <a class="site-footer-taxonomy__article-link" href="/{slug}/">
+                      <xsl:value-of select="title"/>
+                    </a>
+                  </li>
+                </xsl:if>
               </xsl:for-each>
             </ul>
           </li>
@@ -278,7 +291,7 @@
   <xsl:template match="processing-instruction('project-insert')">
     <xsl:variable name="project" select="$this-article-meta/taxonomy/project"/>
     <xsl:if test="$this-article-meta/insert[item=$project]">
-      <xsl:apply-templates select="document(concat('../blocks/', $project, '/block.xhtml5'))/*"/>
+      <xsl:apply-templates select="document(concat('../blocks/', $project, '/block.xhtml5'))/aside" mode="insert"/>
     </xsl:if>
   </xsl:template>
 

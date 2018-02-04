@@ -6,7 +6,7 @@ keywords:
   - manure
 taxonomy:
   author: bigsmoke
-  series: pppermaculture
+  project: pppermaculture
 ---
 
 # Lau her humanure

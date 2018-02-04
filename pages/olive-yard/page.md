@@ -12,7 +12,7 @@ keywords:
   - veil
 taxonomy:
   author: bigsmoke
-  project: pppermaculte
+  project: pppermaculture
 ---
 
 # Brambles, ivy and olives
