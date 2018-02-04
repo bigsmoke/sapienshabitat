@@ -8,13 +8,33 @@
 class SapiensHabitatEnhancements {
   constructor() {
     this.initializeScrollDetection();
+    this.initializeLocalLinkOverrides();
   }
 
   initializeScrollDetection() {
     var scrollSensitiveContainers = document.getElementsByClassName('scroll-up-detection-with-threshold');
     Array.prototype.forEach.call(scrollSensitiveContainers, function(container) {
       new SapiensHabitatScrollDetector(container);
-    })
+    });
+  }
+
+  /**
+   * Because this is a purely static site, I can test it locally without a HTTP server.
+   * This changes the links so that they work locally.
+   */
+  initializeLocalLinkOverrides() {
+    if (window.location.protocol != 'file:') {
+      return;
+    }
+    var internalLinks = document.querySelectorAll("a[href^='/']");
+    Array.prototype.forEach.call(internalLinks, function(link) {
+      if (link.getAttribute('href') == '/') {
+        var file_href = '../index/page.html5';
+      } else {
+        var file_href = '..' + link.getAttribute('href') + 'page.html5';
+      }
+      link.setAttribute('href', file_href);
+    });
   }
 };
 
@@ -75,3 +95,5 @@ var state;
 document.addEventListener("DOMContentLoaded", function(event) {
   state = new SapiensHabitatEnhancements();
 });
+
+// vim: set expandtab shiftwidth=2 tabstop=2 softtabstop=2:
