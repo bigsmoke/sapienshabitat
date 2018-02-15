@@ -35,6 +35,10 @@ class SapiensHabitatEnhancements {
       }
       link.setAttribute('href', file_href);
     });
+    var internalImages = document.querySelectorAll("img[src^='/']");
+    Array.prototype.forEach.call(internalImages, function(img) {
+      img.setAttribute('src', '..' + img.getAttribute('src'));
+    });
   }
 };
 
