@@ -40,3 +40,11 @@ Laurelin inserted a:
 ![dsfdsf](Ponte_de_Pedra_2017-11-13_Seedbed_with_mixed_nuts.jpg){.text-width width="4032" height="2145"}
 
 dfdfdf
+
+| |:- 2014 -:|:- 2016 -:|
+|- Podcast -:|: #63 |: #127 |
+|- Nursery area -:|: 0.5 acre :||
+|- Number of trees -:|: 4000 |: 10000 |
+|- Mean height after a year -:|: 12--18" tall |: 3ft tall (up to his waist or, sometimes, even chest) |
+
+Table: Twisted Tree evolution
