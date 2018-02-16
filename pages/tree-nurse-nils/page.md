@@ -46,5 +46,7 @@ dfdfdf
 |- Nursery area -:|: 0.5 acre :||
 |- Number of trees -:|: 4000 |: 10000 |
 |- Mean height after a year -:|: 12--18" tall |: 3ft tall (up to his waist or, sometimes, even chest) |
+|- Within-row spacing -:|: 3" |: |
+|- Beteen-row spacing -:|: 10--12" |:  |
 
 Table: Twisted Tree evolution
