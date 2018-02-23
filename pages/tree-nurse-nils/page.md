@@ -49,7 +49,18 @@ Peculiar about Silver's nursing method is that, after the trees germinate in ver
 
 ![Laurelin arranged the walnuts and hazelnuts in very crowded nests. The almonds got so much space that Akiva Silver would have thrown a few extra handfuls in.](Ponte_de_Pedra_2017-11-13_Seedbed_with_mixed_nuts.jpg){.text-width width="4032" height="2145"}
 
-Two more beds were dug out of the clay soil; re-filled with a mixture of the original clay, mixed with compost and sand; and covered with a protective hay cover against the sun (which was still intense in the November afternoons).
+Two more beds were dug out of the clay soil; re-filled with a mixture of the original clay, mixed with compost and sand; and covered with a protective hay cover against the sun (which was still intense during that November 13 afternoon). On of these two (larger) beds was planted with chestnuts, and still another one with acorns.
+
+![All of the nursery terrace's surface was covered with grass prior to our agricultural intervention, and the still scorchy November sun was already transforming all that grass into hay. Laurelin used that hay against the drought.](Ponte_de_Pedra_2017-11-13_Laurelin_cozying_up_a_seedbed.jpg){.semi-text-width width="3024" height="4032"}
+
+![Halfway November, the long, dry spell (that had caused 178,406 hectares on the Iberian peninsula to burn) was not yet over. Annemarie gave the nuts a wet, little nudge into sprouting.](Ponte_de_Pedra_2017-11-13_Annemarie_watering_the_seedbeds.jpg){.semi-text-width width="3024" height="4032"}
+
+The compost had to be bought in bags, because their own compost heaps were still too fresh (and Laurelin's humanure heap did not yet exist). Only about 2.5 of 45 liter bags of compost per bed were mixed into the soil. That's not a whole lot of organic matter, especially when contrasted with what Akiva Silver reported about the organic content in his Twisted Tree beds.
+<!-- TODO: Insert link to Laurelin's humanure article. -->
+
+## Silver's seed beds
+
+By 2016, when Akiva was interviewed by Diego Footer for the second time, the soil in the Twisted Tree beds had become so loaded with organic matter that weeds would come out, root and all, without the aid of a tool. The mulchy mixture went down so deep that he mostly sold trees with tap roots only. The soil was made up of years of compost, wood chips, and, starting that season, a regular sip of compost tea.
 
 <table class="text-width">
 <thead>
@@ -77,13 +88,13 @@ Two more beds were dug out of the clay soil; re-filled with a mixture of the ori
 </tr>
 <tr>
 <th style="text-align: left;" scope="row">Within-row spacing:</th>
-<td style="text-align: right;">3"</td>
-<td style="text-align: right;"></td>
+<td style="text-align: right;">3″</td>
+<td style="text-align: right;">…″</td>
 </tr>
 <tr>
 <th style="text-align: left;" scope="row">Beteen-row spacing:</th>
-<td style="text-align: right;">10–12"</td>
-<td style="text-align: right;"> </td>
+<td style="text-align: right;">10–12″</td>
+<td style="text-align: right;">…″</td>
 </tr>
 <tr>
 <th style="text-align: left;" scope="row">Trees in a 4 × 20ft (1.22 × 6m) seedbed:</th>
@@ -91,9 +102,18 @@ Two more beds were dug out of the clay soil; re-filled with a mixture of the ori
 <td style="text-align: right;">300 chestnuts</td>
 </tr>
 <tr>
+<th style="text-align: left;" scope="row" rowspan="2">Trees density</th>
+<td style="text-align: right;">1.25 chestnut/ft²</td>
+<td style="text-align: right;">3.75 chestnut/ft²</td>
+</tr>
+<tr>
+<td style="text-align: right;">13.66 chestnut/m²</td>
+<td style="text-align: right;">40.98 chestnut/m²</td>
+</tr>
+<tr>
 <th style="text-align: left;" scope="row" rowspan="2">Mean height after a year:</th>
-<td style="text-align: right;">12–18"</td>
-<td style="text-align: right;">36–44"</td>
+<td style="text-align: right;">12–18″</td>
+<td style="text-align: right;">36–44″</td>
 </tr>
 <tr>
 <td style="text-align: right;">30–46cm</td>
@@ -110,7 +130,7 @@ Two more beds were dug out of the clay soil; re-filled with a mixture of the ori
 </td>
 </tr>
 </tbody>
-<caption>The annual yield of Akiva Silver's Twisted Tree nursery were already impressive when he was interviewed by Diego Footer in July 2014. Two years later—in 2016—the growth he reported was more than mesmerizing.</caption>
+<caption>The annual yield of Akiva Silver's Twisted Tree nursery were already impressive when he was interviewed by Diego Footer in July 2014. Two years later—in 2016—the growth he reported was simply mesmerizing.</caption>
 </table>
 
 dfdfd
@@ -142,3 +162,4 @@ dfdfd
 </tbody>
 <caption>The growing conditions between Ponte de Pedro and upstate New York differ markedly, which is precisely the point of why small-scale, biome-specific tree nurseries are so important.</caption>
 </table>
+
