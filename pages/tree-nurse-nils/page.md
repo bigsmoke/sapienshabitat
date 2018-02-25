@@ -168,7 +168,11 @@ The choices rushing through Nils' head were many:
 * How much of the terrace's area should they turn into tree beds?
     * Should they grow just the trees they needed themselves (hundreds, at least), or also for selling?
 
-Meanwhile, I had started shoveling, quite impatiently. I'm not the analysis-paralysis type, more the changing-my-mind-back-and-forth-along-the-way-4-times type. I'm good at starting things badly. The advantage is that I can do this very fast. The disadvantage is that I get really stuck when analysis _is_ required. But, there was no need to worry about that; that job was assumed by the residents.
+Meanwhile, I had started shoveling, quite impatiently. I'm not the analysis-paralysis type, more the changing-my-mind-back-and-forth-along-the-way-4-times type. I'm good at starting things badly. The advantage is that I can do this very fast. The disadvantage is that I get really stuck when analysis _is_ required. But, there was no need to worry about that; that job was assumed by the resident tree nurse.
+
+![I just dug until I was told to stop. For the longer 3 beds, that was at around 700x60x40cm.](Ponte_de_Pedra_2017-11-13_Seedbed_width.jpg){.semi-text-width width="3024" height="4032"}
+
+![Only the smallest, shortest, trench—dubbed the ‘seed pit’ by Laurelin—got a mesh-wire protection against rodents.](Ponte_de_Pedra_2017-11-13_Laurelin_puts_the_mesh_wire_together.jpg){.semi-text-width width="3024" height="4032"}
 
 ## Small-scale. Biome-specific.
 
