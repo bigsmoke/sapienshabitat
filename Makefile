@@ -2,13 +2,37 @@ SHELL := /bin/bash
 
 html5pages := $(patsubst pages/%/page.md,htdocs/%/page.html5,$(wildcard pages/*/page.md))
 page_meta := $(patsubst pages/%/page.md,htdocs/%/meta.xml,$(wildcard pages/*/page.md))
-src_images := $(wildcard pages/*/*.jpeg) $(wildcard pages/*/*.JPEG) $(wildcard pages/*/*.jpg) $(wildcard pages/*/*.JPG)
-full_images := $(patsubst pages/%,htdocs/%,$(src_images))
-img_1000w := $(join $(addsuffix img-1000w/,$(dir $(full_images))),$(notdir $(full_images)))
-img_500w := $(join $(addsuffix img-500w/,$(dir $(full_images))),$(notdir $(full_images)))
-layout := htdocs/layout/style.css htdocs/layout/enhance.js htdocs/layout/Butterfly-vulcan-papillon-vulcain-vanessa-atalanta-2.png htdocs/layout/mushroom-2279552_1920.png htdocs/layout/soundcloud-icon.svg
 
-all: $(html5pages) $(full_images) $(img_1000w) $(img_500w) htdocs/page.html5 $(layout) 
+SRC_IMAGES := $(wildcard pages/*/*.jpeg) $(wildcard pages/*/*.JPEG) $(wildcard pages/*/*.jpg) $(wildcard pages/*/*.JPG)
+IMG_SOURCE = $(patsubst htdocs/%,pages/%,$1)
+IMG_SCALED = $(join $(addsuffix img-$(2)w/,$(dir $(call IMG_COPIED,$1))),$(notdir $(call IMG_COPIED,$1)))
+IMG_COPIED = $(patsubst pages/%,htdocs/%,$1)
+
+define IMAGE_VARIANTS
+COPIED_IMAGE = $(call IMG_COPIED,$(IMG_SOURCE))
+all: $(COPIED_IMAGE)
+$(COPIED_IMAGE): $(IMG_SOURCE)
+	rm -f $$@
+	ln --symbolic --relative $$< $$@
+
+1000w_IMAGE = $(call IMG_SCALED,$(IMG_SOURCE),1000)
+all: $(1000w_IMAGE)
+$(1000w_IMAGE): $(IMG_SOURCE)
+	convert -resize 1000 $$< $$@
+
+500w_IMAGE = $(call IMG_SCALED,$(IMG_SOURCE),500)
+all: $(500w_IMAGE)
+$(500w_IMAGE): $(IMG_SOURCE)
+	convert -resize 500 $$< $$@
+endef
+
+.SECONDEXPANSION:
+
+$(foreach IMG_SOURCE,$(SRC_IMAGES),$(eval $(IMAGE_VARIANTS)))
+
+all: $(html5pages) htdocs/page.html5 $(layout)
+
+layout := htdocs/layout/style.css htdocs/layout/enhance.js htdocs/layout/Butterfly-vulcan-papillon-vulcain-vanessa-atalanta-2.png htdocs/layout/mushroom-2279552_1920.png htdocs/layout/soundcloud-icon.svg
 
 virtual: 
 	virtual/bin/activate
@@ -33,7 +57,7 @@ taxonomies.xml: taxonomies.yaml
 
 # The site index lives in a subdirectory, but it also need to live in the document root.
 htdocs/page.html5: htdocs/index/page.html5 htdocs/meta.xml
-	rm --force $@
+	rm --force $@  # Remove old symlink, in case it already exists
 	ln --symbolic --relative $< $@
 
 htdocs/%/page.html5 : pages/%/page.plain.html5 layout/add-layout.xsl
@@ -60,10 +84,6 @@ htdocs/%/meta.xml : pages/%/page.md
 		| layout/json-to-xml.py \
 		| sed -e '/<root>/a<slug type="str">$*</slug>' > $@
 
-$(full_images) : htdocs/% : pages/%
-	rm -f $@
-	ln --symbolic --relative $< $@
-
 htdocs/layout/% : layout/%
 	mkdir -p htdocs/layout
 	rm -f $@
@@ -71,11 +91,5 @@ htdocs/layout/% : layout/%
 
 htdocs/layout/style.css: layout/style.less layout/*.less
 	lessc $< $@
-
-$(img_1000w) : $(full_images)
-	convert -resize 1000 $(subst img-1000w/,,$@) $@
-
-$(img_500w) : $(full_images)
-	convert -resize 500 $(subst img-500w/,,$@) $@
 
 .PHONY: all virtual clean
