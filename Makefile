@@ -91,7 +91,6 @@ $(HTML5_STYLE): $(XML_TAXON_META) $(TMP_TAXON_XMLI)
 	touch $@  # Just causing reverse dependants to be updated.
 
 htdocs/%/page.html5 : pages/%/page.plain.html5 $(HTML5_STYLE)
-	mkdir -p $(dir $@)
 	xsltproc --stringparam slug "$(shell basename `dirname $<`)" layout/add-layout.xsl $< > $@
 
 .INTERMEDIATE:
@@ -107,6 +106,7 @@ $(XML_TAXON_META): $(XML_PAGES_META)
 	echo '</pages>' >> $@
 
 htdocs/%/meta.xml : pages/%/page.md $(TMP_TAXON_JSON)
+	mkdir -p $(dir $@)
 	# Extra the YAML headers from the Markdown page sources and
 	# extend that information with the taxonomies information.
 	pandoc $< --standalone --data-dir=$(CURDIR)/layout/pandoc --template=yaml --to=markdown \
