@@ -17,38 +17,35 @@ IMG_SOURCE = $(patsubst htdocs/%,pages/%,$1)
 IMG_SCALED = $(join $(addsuffix img-$(2)w/,$(dir $(call IMG_COPIED,$1))),$(notdir $(call IMG_COPIED,$1)))
 IMG_COPIED = $(patsubst pages/%,htdocs/%,$1)
 
-.SECONDEXPANSION:
-# During the first expansion, when the below definition is eval-ed by the foreach,
-# $< and $@ do not yet refer to sensible values. Therefore they are escaped with $$
-# and not evaluated until the second expansion.
-define IMAGE_VARIANTS =
-COPIED_IMAGE = $(call IMG_COPIED,$(IMG_SOURCE))
-$(COPIED_IMAGE): $(IMG_SOURCE)
-	cp $$< $$@
-
-1000w_IMAGE = $(call IMG_SCALED,$(IMG_SOURCE),1000)
-$(1000w_IMAGE): $(IMG_SOURCE)
-	mkdir -p $(dir $$@)
-	convert -resize 1000 $$< $$@
-
-500w_IMAGE = $(call IMG_SCALED,$(IMG_SOURCE),500)
-$(500w_IMAGE): $(IMG_SOURCE)
-	mkdir -p $(dir $$@)
-	convert -resize 500 $$< $$@
-
-all: $(COPIED_IMAGE) $(1000w_IMAGE) $(500w_IMAGE)
-endef
-# The IMAGE_VARIANTS definition will now be expanded for every file (IMG_SOURCE) in SRC_IMAGES.
-$(foreach IMG_SOURCE,$(SRC_IMAGES),$(eval $(IMAGE_VARIANTS)))
-
-.PHONY: all
-all: $(HTML5_PAGES) $(HTML5_INDEX) $(layout)
-
 layout := htdocs/layout/style.css \
 	htdocs/layout/enhance.js \
 	htdocs/layout/Butterfly-vulcan-papillon-vulcain-vanessa-atalanta-2.png \
 	htdocs/layout/mushroom-2279552_1920.png \
 	htdocs/layout/soundcloud-icon.svg
+
+.PHONY: all
+all: $(HTML5_PAGES) $(HTML5_INDEX) $(layout)
+
+.SECONDEXPANSION:
+# During the first expansion, when the below definition is eval-ed by the foreach,
+# $< and $@ do not yet refer to sensible values. Therefore they are escaped with $$
+# and not evaluated until the second expansion.
+define IMAGE_VARIANTS =
+$(call IMG_COPIED,$(IMG_SOURCE)): $(IMG_SOURCE)
+	cp $$< $$@
+
+$(call IMG_SCALED,$(IMG_SOURCE),1000): $(IMG_SOURCE)
+	mkdir -p $$(dir $$@)
+	convert -resize 1000 $$< $$@
+
+$(call IMG_SCALED,$(IMG_SOURCE),500): $(IMG_SOURCE)
+	mkdir -p $$(dir $$@)
+	convert -resize 500 $$< $$@
+
+all: $(call IMG_COPIED,$(IMG_SOURCE)) $(call IMG_SCALED,$(IMG_SOURCE),1000) $(call IMG_SCALED,$(IMG_SOURCE),500)
+endef
+# The IMAGE_VARIANTS definition will now be expanded for every file (IMG_SOURCE) in SRC_IMAGES.
+$(foreach IMG_SOURCE,$(SRC_IMAGES),$(eval $(IMAGE_VARIANTS)))
 
 .PHONY: virtual
 virtual: | virtual/bin/activate  # virtual/bin/activate is includes as an order-only prerequisite.
