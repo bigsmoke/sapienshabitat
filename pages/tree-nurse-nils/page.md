@@ -28,7 +28,7 @@ taxonomy:
 
 Nils Zahn is the name of the well-built German holding Laurelin's hand. Do you see the muscle on him? All that bulk is itching to move. And, soonish after this photo, he _did_ move … a whole lot of soil, to dig out nice, soft beds for his tree nursery. I should say that the tree nursery is not just _his_; but _he_ is the most caring tree nurse their tree seeds and seedlings could ever wish for.
 
-The tree nursery was the first project in which I was drafted the day after Marilisa and I arrived in the middle of the Portugese dream of the two hobbits on the photo, and that other hobbit. As you can see, it was the start of a sunny day, and my dusty IT bones—cold from the Dutch autumn—would soon be warmed by the sun.
+The tree nursery was the first project in which I was drafted the day after Marilisa and I arrived in the middle of the Portugese dream of the two hobbits on the photo and that other hobbit. As you can see, it was the start of a sunny day, and my dusty IT bones—cold from the Dutch autumn—would soon be warmed by the sun.
 
 To me, the whole concept of a ‘tree nursery’ was foreign. Sure, I understood that, like any other seed, you can put tree seeds in the ground, and, yes, I would grant you that they might grow a bit faster with some more nutrients. They might then even benefit from some protection against predation. But, that's it. That's about as much thought as I ever gave it. “Nursing trees”? Whatever.
 
@@ -44,7 +44,7 @@ Peculiar about Silver's nursing method is that, after the trees germinate in ver
 
 ‘Superior’ means: more yummy. And surely, _Eucalyptus_ smells delicious, but it's not as palatable as the walnuts, the hazelnuts and the almonds that Laurelin crammed into the first nursery bed we finished.
 
-![Laurelin arranged the walnuts and hazelnuts in very crowded nests. The almonds got so much space that Akiva Silver would have thrown a few extra handfuls in.](Ponte_de_Pedra_2017-11-13_Seedbed_with_mixed_nuts.jpg){.text-width width="4032" height="2145"}
+![Laurelin arranged the walnuts and hazelnuts in very crowded nests. The almonds got so much space that Akiva Silver would have thrown a few extra handfuls in.](Ponte_de_Pedra_2017-11-13_Seedbed_with_nuts.jpg){.text-width width="4032" height="2145"}
 
 Two more beds were dug out of the clay soil; re-filled with a mixture of the original clay, mixed with compost and sand; and covered with a protective hay cover against the sun (which was still intense during that November 13 afternoon). The second (larger) bed was planted with chestnuts, and the third one with acorns.
 
@@ -168,11 +168,13 @@ The choices rushing through Nils' head were many:
 * How much of the terrace's area should they turn into tree beds?
     * Should they grow just the trees they needed themselves (hundreds, at least), or also for selling?
 
-Meanwhile, I had started shoveling, quite impatiently. I'm not the analysis-paralysis type, more the changing-my-mind-back-and-forth-along-the-way-4-times type. I'm good at starting things badly. The advantage is that I can do this very fast. The disadvantage is that I get really stuck when analysis _is_ required. But, there was no need to worry about that; that job was assumed by the resident tree nurse.
+Meanwhile, I had started shoveling, quite impatiently. I'm not the analysis-paralysis type, more the changing-my-mind-back-and-forth-along-the-way-4-times type. I'm good at starting things badly. The advantage of this is that I can move very fast. The disadvantage is that I get really stuck when analysis _is_ required. But, there was no need to worry about that; that job was assumed by the resident tree nurse.
 
-![I just dug until I was told to stop. For the longer 3 beds, that was at around 700x60x40cm.](Ponte_de_Pedra_2017-11-13_Seedbed_width.jpg){.semi-text-width width="3024" height="4032"}
+![I just dug until I was told to stop. For the longer 3 beds, that was at around 700×60×40cm.](Ponte_de_Pedra_2017-11-13_Seedbed_width.jpg){.semi-text-width width="3024" height="4032"}
 
 ![Only the smallest, shortest, trench—dubbed the ‘seed pit’ by Laurelin—got a mesh-wire protection against rodents.](Ponte_de_Pedra_2017-11-13_Laurelin_puts_the_mesh_wire_together.jpg){.semi-text-width width="3024" height="4032"}
+
+The first-year beds we dug weren't as fantastic as Akiva Silver's. He can pull out weeds with big tap roots by hand. Indeed, this is an experience that I can confirm from my nuclear family's mulched flower beds. (Laurelin and I didn't grow up with the idea that ecological horticultural principles can also be applied to (commercial) crop production.) But, I like to think that the beds were exactly the right depth and the right breadth for this first-year experiment. Perhaps even more importantly: the tree beds are in the right place: in the middle of the Portugese property where the trees will have to grow, not all the way across the Atlantic, in New York.
 
 ## Small-scale. Biome-specific.
 
@@ -231,3 +233,6 @@ Akiva grows his tree in a pretty cold climate. The winters in upstate New York (
 <caption>The growing conditions between Ponte de Pedro and upstate New York differ markedly, which is precisely the point of why small-scale, biome-specific tree nurseries are so important.</caption>
 </table>
 
+As a total chestnut fanatic, Akiva has the remarkable luck of living at the same road as somebody who has spent 40+ years selecting chestnut variates from around the world for blight and cold resistance.
+
+When, later this month (March, 2018), we will be clearing the charred (but already regenerating) _Eucalyptus_ trees from their hill, there will be plenty of space to experiment with and select for which varieties of chestnut, oak, walnut, hazelnut, and almond will do best in a dry, warm environment. And last, but not least, there will be tons of delicious-smelling _Eucalyptus_ wood chips with which the nursery's bed can be made so much looser and softer.
