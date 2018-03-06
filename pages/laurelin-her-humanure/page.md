@@ -1,5 +1,5 @@
 ---
-title: Laurelin her humanure
+title: Lau her humanure
 keywords:
   - compost toilet
   - humanure
@@ -18,6 +18,8 @@ Laurelin poops. She does so quite regularly, which is a sign of health. That mus
 A compost toilet is a natural signpost on her and Nils' journey of becoming full-fledged permaculture hippies. How else would they ever get close to closing the nutrient cycle? There's only so much shit you can do to keep your outputs from exceeding your inputs. If you keep flushing your outputs into the ocean, your soil won't thank you, and neither will this grumpy marine biologist; all that nitrogen shit can cause havoc downstream, and the algae will bloom.
 
 ## Soil safety
+
+We live in nitrogen-flooded times, since the availability of cheap artifical fertilizers revolutionized agriculture around a half-century ago. One of the casualties of this revolution have been the quality of our surface water. 
 
  compost is purposed for enriching the 
 
