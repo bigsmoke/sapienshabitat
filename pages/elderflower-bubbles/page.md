@@ -7,7 +7,7 @@ taxonomy:
 
 # Elderflower bubbles
 
-_[Sambucus nigra]{lang="la"}_ is its scientific name, but I'm more familiar with its dutch name: ‘[vlierbes]{lang="nl"}’. The common name in English for this scrub is elderberry, but we weren't interested in the berries; we were interested in the flowers. So, we went on a little undertaking to a derelict school nearby that was swimming in a sea of white elderflower heads somewhere around the beginning of June.
+<i lang="la">Sambucus nigra</i> is its scientific name, but I'm more familiar with its dutch name: ‘<span lang="nl">vlierbes</span>’. The common name in English for this scrub is elderberry, but we weren't interested in the berries; we were interested in the flowers. So, we went on a little undertaking to a derelict school nearby that was swimming in a sea of white elderflower heads somewhere around the beginning of June.
 
 ![Marilisa is ogling those delicious, sweet-scented elderflowers, wondering which one to sever from its branch next.](Groningen_2017-06-04_Picking_elder_flowerheads_5.jpg){.text-width width="4128" height="2322"}
 
@@ -28,7 +28,7 @@ Having plundered a few plastic shopping bags full of flowers, time came to:
 
 ![Marilisa picked our memories to estimate the relative quantities that went into our first batch of elderflower bubbles, to replicate it into a small second batch. The second batch was on the basis of 3 liters, because there weren't many elderflower heads left to be found a few weeks later.](Groningen_2017-06-25_Post-hoc_notes_by_Marilisa.jpg){.semi-text-width width="540" height="928"}
 
-A lot of carbon-dioxide passed through the water lock. When, after a few days, the baker's yeast stopped noisily pushing CO₂ bubbles through the water lock, we deemed it safe to put our elderflower _[sprudelwasser]{lang="de"}_ into bottles.
+A lot of carbon-dioxide passed through the water lock. When, after a few days, the baker's yeast stopped noisily pushing CO₂ bubbles through the water lock, we deemed it safe to put our elderflower <i lang="de">sprudelwasser</i> into bottles.
 
 ![Our first score: 14 bottles of bubbles.](Groningen_2017-06-08_Elder_flower_bubble_in_bottles_1.jpg){.narrow width="2322" height="4128"}
 
@@ -44,7 +44,7 @@ The taste I remembered from Sanne's and mine mixture was a bit more prosecco-lik
 
 ## Experiment 2
 
-Marilisa followed our first, informal experiment immediately with a second, more formal, experiment, which had a much lighter taste, partially because, on June 25, 20 days after our first excursion, we had to scout far and wide for the final _[Sambucus nigra]{lang="la"}_ flowers of the season.
+Marilisa followed our first, informal experiment immediately with a second, more formal, experiment, which had a much lighter taste, partially because, on June 25, 20 days after our first excursion, we had to scout far and wide for the final <i lang="la">Sambucus nigra</i> flowers of the season.
 
 Initially, we thought that the yeast had already suffocated in its own exhausts. When we poured the result of experiment two into bottles, it had gone completely flat, devoid of that delicious CO₂. Yet, as evidenced by the last entry in the ‘lab’ journal, some cells in those bottles were still very alive:
 
