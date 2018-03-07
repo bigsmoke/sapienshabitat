@@ -1,5 +1,6 @@
 ---
 title: Tree nurse Nils
+published: 2018-03-07
 keywords:
   - almond tree
   - Prunus amygdalus
@@ -36,7 +37,7 @@ But, they—especially Nils—_had_ gone a bit farther than stuffing some seeds 
 
 ![Nils pauses for a moment, unsure how to proceed. He still doubts whether we're creating the best possible seedbed.](Ponte_de_Pedra_2017-11-12_Tree_nurse_Nils_pondering_the_best_next_step.jpg){.text-width width="4032" height="3024"}
  
-Akiva Silver's [Twisted Tree Farm](http://www.twisted-tree.net/) served as Nils his prime inspiration. Akiva Silver was introduced on the <cite>Permaculture Voice</cite> podcast [#063](http://www.permaculturevoices.com/1000s-of-trees-and-half-an-acre-small-scale-nursery-business-with-akiva-silver-pvp063/) in 2014, as a tree nurse who managed to grow thousands of tree on his then 0.5 acre farm ([![SoundCloud](/layout/soundcloud-icon.svg){style="height: 1em;" title="SoundCloud"}](https://soundcloud.com/permaculturevoices/pvp063-08052014)). In 2016, when the farm had expanded to a full acre and **ten** thousand trees, Silver was interviewed again for [#127](http://www.permaculturevoices.com/growing-10000-trees-on-acre-expanding-a-small-scale-nursery-business-an-update-with-akiva-silver-pvp127/) of the podcast ([![SoundCloud](/layout/soundcloud-icon.svg){style="height: 1em;" title="SoundCloud"}](https://soundcloud.com/permaculturevoices/growing-10000-trees-on-acre-expanding-a-small-scale-nursery-business-with-akiva-silver-pvp127)).
+Akiva Silver's [Twisted Tree Farm](http://www.twisted-tree.net/) served as Nils his prime inspiration. Akiva Silver was introduced on the <cite>Permaculture Voice</cite> podcast [#063](http://www.permaculturevoices.com/1000s-of-trees-and-half-an-acre-small-scale-nursery-business-with-akiva-silver-pvp063/) in 2014, as a tree nurse who managed to grow thousands of tree on his then 0.5 acre farm ([![SoundCloud](/layout/soundcloud-icon.svg){style="height: 1em;" title="SoundCloud"}](https://soundcloud.com/permaculturevoices/pvp063-08052014)). In 2016, when the farm had expanded to **ten** thousand trees on hardly more than that same 0.5 acre, Silver was interviewed again for [#127](http://www.permaculturevoices.com/growing-10000-trees-on-acre-expanding-a-small-scale-nursery-business-an-update-with-akiva-silver-pvp127/) of the podcast ([![SoundCloud](/layout/soundcloud-icon.svg){style="height: 1em;" title="SoundCloud"}](https://soundcloud.com/permaculturevoices/growing-10000-trees-on-acre-expanding-a-small-scale-nursery-business-with-akiva-silver-pvp127)).
 
 Peculiar about Silver's nursing method is that, after the trees germinate in very dense seeds beds, he keeps the saplings there until they're tall enough to sell, which is usually in as little as a year. This prospect resonated deeply with Nils, at a time when every cell in his German body was already itching to invade the _Eucalyptus_-invested hills around Ponte de Pedra, supported by an army of homegrown, superior tree species.
 
@@ -56,7 +57,7 @@ The compost had to be bought in bags, because their own compost heaps were still
 
 ## Silver's seed beds are gold, so let's go for silver.
 
-By 2016, when Akiva was interviewed by Diego Footer for the second time, the soil in the Twisted Tree beds had become so loaded with organic matter that weeds would come out, root and all, without the aid of a tool. The mulchy mixture went down deep enough that he mostly sold trees with tap roots only—no fibrous roots—and coated with mycelium. The soil was built up of from yearly inputs of compost, wood chips, and, starting that season, a regular sip of compost tea.
+By 2016, when Akiva was interviewed by Diego Footer for the second time, the soil in the Twisted Tree beds had become so loaded with organic matter that weeds would come out, root and all, without the aid of a tool. The mulchy mixture went down deep enough that he mostly sold trees with tap roots only—no fibrous roots—and coated with mycelium. The soil was built up from yearly inputs of compost, wood chips, and, starting that season, a regular sip of compost tea.
 
 > I don’t use soil tests or worry about introducing weed seeds. I just keep on dumping organic matter. Sawdust, leaves, wood chips, cow manure, chicken manure, sand, ashes, hay, weeds, nut shells, grass clippings, urine, more, more, more. This soil is now highly fertile. It is bustling with microorganisms and worms and mycelium. [Akiva Silver, _[Starting a nursery business](http://www.twisted-tree.net/starting-a-Nursery-Business/)_]
 
@@ -70,6 +71,8 @@ Nils' nursery is not (yet) a commercial nursery, while Akiva, in 2016, derived h
     * The soil is effectively mixed regularly through weeding and by getting the trees out for sale. He uses hand tools for getting the saplings out.
 * Comfrey is Akiva's favorite easy-to-multiply fertilizer. (He commercially grows comfrey, and sells it in bundles of 100 root cuttings.)
 * In the 2016 growing season, Akiva has started mixing the water with compost tea.
+
+![Would Akiva have have found it necessary to already transplant these first Almond seedlings to spacier beds in Februari, after 3 months?](Tree_nurse_Laurelin_2018-02-10_Upturned_almond_seedlings.jpg){.narrow width="1600" height="1200"}
 
 None of these tricks are unique to the nursery business. A deep, deeply alive soil is every agroecologist's concern. And I am sure that Nils' will have the support of my mother and sister to keep boosting the organic content of these beds, since Laurelin and I grew up between compost and tree chip heaps. What _is_ special about what Akiva is doing is packing all these thousands of trees so tight together as he does. That may need to be seen to believe, because growing trees seed to seed for a year is **not** part of folksy common sense.
 
@@ -235,4 +238,5 @@ Akiva grows his tree in a pretty cold climate. The winters in upstate New York (
 
 As a total chestnut fanatic, Akiva has the remarkable luck of living at the same road as somebody who has spent 40+ years selecting chestnut variates from around the world for blight and cold resistance.
 
-When, later this month (March, 2018), we will be clearing the charred (but already regenerating) _Eucalyptus_ trees from their hill, there will be plenty of space to experiment with and select for which varieties of chestnut, oak, walnut, hazelnut, and almond will do best in a dry, warm environment. And last, but not least, there will be tons of delicious-smelling _Eucalyptus_ wood chips with which the nursery's bed can be made so much looser and softer.
+The chestnuts in Nils' tree nursery all come from the local market in Cernache do Bonhardim and the acorns were gathered in various local forests. That's plenty of biome-specificity for now. Then, when later this month (March, 2018), we will be clearing the charred (but already regenerating) _Eucalyptus_ trees from their hillside, there will be plenty of space to experiment with and select for which varieties of chestnut, oak, walnut, hazelnut, and almond do best in a dry, warm environment. And last, but not least, there will be tons of delicious-smelling _Eucalyptus_ wood chips with which the nursery's bed can be made so much looser and softer.
+
