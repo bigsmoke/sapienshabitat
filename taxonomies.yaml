@@ -27,6 +27,8 @@ project:
             - Coimbra
             - Tomar
             - Cernache do Bonjardim
+    huize-haarbal:
+        insert: haarbalhuus
 author:
     bigsmoke:
         author: Rowan Rodrik van der Molen
@@ -57,6 +59,10 @@ scale:
         title: Garden
         keywords:
             - gardening
+    home:
+        title: Home
+        keywords:
+            - home
 theme:
     low-frequency-gardening:
         keywords:
