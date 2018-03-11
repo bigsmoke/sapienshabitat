@@ -4,9 +4,10 @@ published: 2018-03-10
 taxonomy:
   author: bigsmoke
   project: pppermaculture
+  scale: home
 ---
 
-# A mess of an adega
+# A mess of an <i lang="pt">adega</i>
 
 I wanted to start working on Nils' [tree nursery](/tree-nurse-nils/), and I needed tools. Soon, I had to learn that finding tools in the <i lang="pt">adega</i> was difficult. But, I should be more specific: finding tools was easy. They were everywhere. It was finding the tools I was actually looking for that was challenging.
 
@@ -14,7 +15,7 @@ I wanted to start working on Nils' [tree nursery](/tree-nurse-nils/), and I need
 
 ![There were really quite a lot of tools. And the system was—Well, supposedly, there _was_ a system: some piles were Annemarie's, some were Laurelin's, some were Nils', some were something in between. I did not know, nor care. I just wanted to find that damn thing with the saw-toothed edge!](Ponte_de_Pedra_2017-11-17_Adega_tool_explosion.jpg){.text-width width="4032" height="3024"}
 
-Those who know me well know that I can be … impatient—a trait I inherited from the Adega's owner Annemarie. It was already November. Their stuff had moved there in June. So why had she put up with this maddening mess for so long?
+Those who know me well know that I can be … impatient—a trait I inherited from the <i lang="pt">adega</i>'s owner Annemarie. It was already November. Their stuff had moved there in June. So why had she put up with this maddening mess for so long?
 
 The answer was in the ceiling—the _wooden_ ceiling with tiny little holes everywhere made by little woodworm fuckers who weren't even supposed to be there because hadn't the sellers insisted that “no, there are no tiny, squirmy creeps eating away at your house”?
 
