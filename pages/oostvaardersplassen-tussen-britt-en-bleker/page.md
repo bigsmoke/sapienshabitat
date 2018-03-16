@@ -1,10 +1,11 @@
 ---
-title: Oostvaardersplassen: tussen Britt en Bleker
+title: "Oostvaardersplassen: tussen Britt en Bleker"
 published: 2018-03-14
 keywords:
   - Oostvaardersplassen
 taxonomy:
   author: bigsmoke
+  scope: stijlloos
 ---
 
 # Oostvaardersplassen: tussen Britt en Bleker
@@ -16,6 +17,8 @@ Britt Dekker mocht haar ondeskundigheid <a href="https://youtu.be/iJrVt-Xxk7s">v
 <div class="twitter-tweet-wrapper"><blockquote class="twitter-tweet" data-lang="en"><p lang="nl" dir="ltr">Provincie Flevoland heeft besloten om de grote grazers in de Oostvaardersplassen tijdelijk te laten bijvoeren. Dit om de dieren in deze extreem koude periode te ondersteunen. De provincie neemt dit besluit ondanks dat deskundigen afraden om bij te voeren. <a href="https://t.co/uocgiJMSBT">https://t.co/uocgiJMSBT</a></p>&mdash; Provincie Flevoland (@FlevoNieuws) <a href="https://twitter.com/FlevoNieuws/status/969193718849949696?ref_src=twsrc%5Etfw">March 1, 2018</a></blockquote></div>
 
 <div class="twitter-tweet-wrapper"><blockquote class="twitter-tweet" data-lang="en"><p lang="nl" dir="ltr">We blijven de grote grazers in de Oostvaardersplassen bijvoeren tot het moment dat er weer voldoende voedsel aanwezig is in het terrein. Voorlopig wordt om de dag 7.000 kilo hooi neergelegd. <a href="https://t.co/9S6MCc4OEx">https://t.co/9S6MCc4OEx</a> <a href="https://t.co/lPxxG53PLb">pic.twitter.com/lPxxG53PLb</a></p>&mdash; staatsbosbeheer (@staatsbosbeheer) <a href="https://twitter.com/staatsbosbeheer/status/969611767436455941?ref_src=twsrc%5Etfw">March 2, 2018</a></blockquote></div>
+
+<?scope-insert?>
 
 Britt Dekker haar gezellige, Oerhollandse domheid valt nog te verdragen. Oud-staatssecretaris Henk Bleker daarentegen werkt op elke gezonde Nederlandse ecoloog als een rode lap bij een stier. En de MSN stond erbij en stookte het vuurtje nog wat verder op.
 

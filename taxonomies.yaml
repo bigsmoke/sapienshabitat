@@ -40,17 +40,14 @@ author:
     mldvh:
         author: Marilisa Laura Die van Herksen
 scope:
-    corridors:
+    stijlloos:
+        insert: stijlloos
+        title: Dirty Dutch politics
         keywords:
-            - corddidors
-    rewilding:
-        keywords:
-            - rewilding
+            - Netherlands
+            - NL
+            - politics
 scale:
-    wilderness:
-        title: Wilderness
-        keywords:
-            - wilderness
     landscape:
         title: Landscape
         keywords:

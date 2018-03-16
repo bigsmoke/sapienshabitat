@@ -2,7 +2,6 @@
 title: “De Schuilplaats”
 draft: yes
 taxonomy:
-    scope: [rewilding, corridors]
     scale: [garden, landscape]
 ---
 

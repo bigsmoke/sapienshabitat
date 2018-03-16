@@ -5,7 +5,6 @@ taxonomy:
   scale:
     - garden
     - landscape
-    - wilderness
 ---
 
 # Synopsis

@@ -40,7 +40,7 @@
 
       <meta name="viewport" content="width=device-width, initial-scale=1"/>
       <meta name="theme-color" content="#000000"/>
-      <link rel="stylesheet" type="text/css" href="../layout/style.css?v=26"/>
+      <link rel="stylesheet" type="text/css" href="../layout/style.css?v=27"/>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather"/>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Archivo+Narrow"/>
 
@@ -292,6 +292,13 @@
     <xsl:variable name="project" select="$this-article-meta/taxonomy/project"/>
     <xsl:if test="$this-article-meta/insert[item=$project]">
       <xsl:apply-templates select="document(concat('../blocks/', $project, '/block.xhtml5'))/aside" mode="insert"/>
+    </xsl:if>
+  </xsl:template>
+
+  <xsl:template match="processing-instruction('scope-insert')">
+    <xsl:variable name="scope" select="$this-article-meta/taxonomy/scope"/>
+    <xsl:if test="$this-article-meta/insert[item=$scope]">
+      <xsl:apply-templates select="document(concat('../blocks/', $scope, '/block.xhtml5'))/aside" mode="insert"/>
     </xsl:if>
   </xsl:template>
 
