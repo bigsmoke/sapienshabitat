@@ -53,7 +53,6 @@ article {
 }
 
 @media (orientation: portrait) {
-
   figure.narrow {
     display: block;
     float: right;
@@ -61,23 +60,19 @@ article {
     margin-left: 2ex;
     width: 40%;
   }
-  
   img.narrow {
     display: block;
     width: 100%;
     height: auto;
   }
-
-  /* Matching on .article_content for sufficient specificity to win */
+  /* Matching on .article-body for sufficient specificity to win */
   .article-body > .side-by-side-figure__container {
     margin-left: 0;
     margin-right: 0;
-  
     figure.semi-text-width {
       margin-left: 0;
       margin-right: 0;
     }
-    
     img.semi-text-width {
       display: block;
       width: 100%;
@@ -85,7 +80,6 @@ article {
     }
   }
 }
-
 @media (orientation: landscape) {
   figure.narrow {
     display: block;
@@ -94,41 +88,31 @@ article {
     margin-left: 2ex;
     width: 30%;
   }
-  
   img.narrow {
     display: block;
     width: 100%;
     height: auto;
   }
-
+  /* Matching on .article-body for sufficient specificity to win */
   .article-body > .side-by-side-figure__container {
-    width: auto;
-    margin-left: auto;
-    margin-right: auto;
+    clear: both;
     display: flex;
     flex-direction: row;
-  
     figure.semi-text-width {
-      display: flex;
-      flex-direction: row;
+      display: block;
       width: 50%;
     }
-    
     figure.semi-text-width:first-child {
       margin-right: 1pt;
     }
-    
     figure.semi-text-width:last-child {
       margin-left: 1pt;
     }
-    
     img.semi-text-width {
-      background-color: @light-brownish-background-color;
       display: block;
-      height: 100vh - 2em;
+      height: 100vh - 4pt;
       width: auto;
     }
-    
     figure.semi-text-width figcaption {
       font-size: .8em;
       padding: 1ex;
@@ -137,5 +121,4 @@ article {
       overflow-wrap: break-word;
     }
   }
-
 }
