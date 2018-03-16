@@ -88,6 +88,10 @@
                 <xsl:with-param name="taxonomy-root" select="$taxonomies/scale"/>
                 <xsl:with-param name="taxonomy-title">Scale</xsl:with-param>
               </xsl:call-template>
+              <xsl:call-template name="footer-taxonomy">
+                <xsl:with-param name="taxonomy-root" select="$taxonomies/scope"/>
+                <xsl:with-param name="taxonomy-title">Scope</xsl:with-param>
+              </xsl:call-template>
             </div>
             <p class='site-footer__license'><a href="http://creativecommons.org/licenses/by-nc-sa/2.5/" rel="license">Copyleft</a>: you can share this content as long as you copy it right; that means that you must tell where it's from (from me) and that you have to ask permission first if you want to use my content commercially.</p>
             <p class='site-footer__colophon'><a href="https://github.com/bigsmoke/sapienshabitat/" rel="colophon">Colophon</a>: this website is open source; all the details about its technical design, the full file history and current drafts are freely accessible on-line.</p>
@@ -117,8 +121,9 @@
       </h5>
       <ul class='site-footer-taxonomy__terms'>
         <xsl:for-each select="$taxonomy-root/*">
+          <xsl:sort select="sort" data-type="number"/>
           <xsl:variable name="taxonomy-term-name" select="name()"/>
-          <li class='site-footer-taxonomy__term'>
+          <li class='site-footer-taxonomy__term' data-taxonomy-term="{$taxonomy-term-name}">
             <h6 class='site-footer-taxonomy__term-title'>
               <xsl:value-of select="title"/>
             </h6>

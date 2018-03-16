@@ -49,14 +49,17 @@ scope:
             - politics
 scale:
     landscape:
+        sort: 1.0
         title: Landscape
         keywords:
             - landscaping
     garden:
+        sort: 2.0
         title: Garden
         keywords:
             - gardening
     home:
+        sort: 3.0
         title: Home
         keywords:
             - home

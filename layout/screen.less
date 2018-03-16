@@ -253,7 +253,6 @@ figure.text-width img {
   color: black;
   text-align: left;
 }
-
 .article-body > .project-insert h4 {
   font-size: 80%;
   margin: 0;
@@ -261,16 +260,17 @@ figure.text-width img {
   font-family: inherit;
   font-weight: bold;
 }
-
 .article-body > .project-insert h4:after {
   font-size: 80%;
   margin-right: .5ex;
   content: '.';
 }
-
 .article-body > .project-insert p {
   font-size: 80%;
   display: inline;
+}
+.article-body > .stijlloze-project-insert {
+  background-color: lighten(@stijlloos-roze, 0%);
 }
 
 .article-body .article-index__list {
@@ -345,53 +345,55 @@ figure.text-width img {
   margin: 0;
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   font-family: 'Archivo Narrow', sans-serif;
   font-size: 80%;
-  color: darken(@light-brownish-background-color, 20%);
+  color: darken(@light-brownish-background-color, 25%);
 }
 
 .site-footer-taxonomy {
+  min-width: 10rem;
   padding: 1em 1ex;
   flex-grow: 1;
 }
-
 .site-footer-taxonomy__title {
   margin: 1em 0 .75em 0;
-  font-family: 'Merriweather', serif;
-  font-size: 100%;
-  color: darken(@light-brownish-background-color, 10%);
+  font-size: 110%;
+  font-weight: normal;
 }
-
 .site-footer-taxonomy__terms {
   margin: 0;
   padding: 0;
   list-style-type: none;
 }
-
 .site-footer-taxonomy__term-title {
   margin: 0;
-  font-family: 'Merriweather', serif;
-  font-size: 80%;
-  color: darken(@light-brownish-background-color, 10%);
+  font-variant: titling-caps;
+  font-size: 90%;
+  font-weight: normal;
 }
-
 .site-footer-taxonomy__articles {
   margin: .25em 0 .75em 0;
   padding-left: 3ex;
-  list-style-type: disc;
+  list-style-type: square;
 }
-
 .site-footer-taxonomy__article-link {
   text-decoration: none;
-  color: #825e43;
+  color: @footer-link-color;
 }
-
 .site-footer-taxonomy__article-link:hover {
   text-decoration: underline;
 }
-
 .site-footer-taxonomy__article-link:target {
   color: @light-brownish-background-color;
+}
+[data-taxonomy-term="stijlloos"] {
+  .site-footer-taxonomy__term-title {
+    color: darken(@stijlloos-roze, 40%);
+  }
+  .site-footer-taxonomy__article-link {
+    color: darken(@stijlloos-roze, 30%);
+  }
 }
 
 .site-footer__deco-pic {
@@ -419,7 +421,7 @@ figure.text-width img {
 }
 
 .site-footer__license a {
-  color: #825e43;
+  color: @footer-link-color;
 }
 
 
@@ -432,7 +434,7 @@ figure.text-width img {
 }
 
 .site-footer__colophon a {
-  color: #825e43;
+  color: @footer-link-color;
 }
 
 /* vim: set expandtab shiftwidth=2 tabstop=2 softtabstop=2: */

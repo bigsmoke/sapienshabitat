@@ -118,5 +118,5 @@ htdocs/layout/% : layout/%
 	mkdir -p htdocs/layout
 	cp $< $@
 
-htdocs/layout/style.css: layout/style.less layout/*.less
+htdocs/layout/%.css: layout/%.less layout/*.less
 	lessc $< $@
