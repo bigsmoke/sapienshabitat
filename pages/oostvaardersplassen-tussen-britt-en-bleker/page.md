@@ -1,7 +1,8 @@
 ---
 title: Oostvaardersplassen: tussen Britt en Bleker
+published: 2018-03-14
 keywords:
-  - Oosvaardersplassen
+  - Oostvaardersplassen
 taxonomy:
   author: bigsmoke
 ---
