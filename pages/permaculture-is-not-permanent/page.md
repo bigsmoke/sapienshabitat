@@ -7,15 +7,15 @@ taxonomy:
 
 # Permaculture
 
-From [Rowan](/people/rowan)'s
-[thesis](/people/rowan/Biol_BC_2015_RRvdMolen.pdf):
+From [Rowan's thesis](/rowan-his-microbial-ecology-thesis/Biol_BC_2015_RRvdMolen.pdf):
+
 > *Permaculture* (derived from the words ‘permanent’ and ‘(agri)culture’) is a
 > design philosophy which applies broadly to any type of sustainable design.¹
 > In the narrow sense, permaculture refers to agricultural practices which are
 > non-destructive to the soil and overall ecosystem to the extent that vital
 > ecosystem services and fertility are left intact, so that the practice can
 > continue indefinitely into the future. Although permaculture is a relatively
-> new term (Mollison and Holmgren, 1978), traditional formas have existed and
+> new term (Mollison and Holmgren, 1978), traditional forms have existed and
 > continue to exist, such as the Kendyan Gardens of Sri Lanka (Jacob and Alles,
 > 1987), and *taungya* on Java (Weersum, 1982) and in South China (Menzies,
 > 1988).
