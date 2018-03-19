@@ -17,9 +17,13 @@ Laurelin poops. She does so quite regularly, which is a sign of health. That mus
 
 A compost toilet is a natural signpost on her and Nils' journey of becoming full-fledged permaculture hippies. How else would they ever get close to closing the nutrient cycle? There's only so much shit you can do to keep your outputs from exceeding your inputs. If you keep flushing your outputs into the ocean, your soil won't thank you, and neither will this grumpy marine biologist; all that nitrogen shit can cause havoc downstream, and the algae will bloom.
 
-## Soil safety
+## Keep your nitrogen near
 
-We live in nitrogen-flooded times, since the availability of cheap artifical fertilizers revolutionized agriculture around a half-century ago. One of the casualties of this revolution have been the quality of our surface water. 
+We live in nitrogen-flooded times, since the availability of cheap artifical fertilizers revolutionized agriculture around a half-century ago. One of the casualties of this revolution have been the quality of our surface water. Ground water quality has also been affected.
+
+This is not their main concern. Their main house is connected to a sceptic tank, not to the sewer. And although it's a shit, old sceptic tank ([contrary to what they were told](/deceit-or-disinterest/) when Annemarie bought the property), that does mean that their outputs don't end up somewhere downstream.
+
+But, I am ranting. They're not about to start using artificial fertilizers. Their main priority is keeping nutrients _in_ their system.
 
  compost is purposed for enriching the 
 
