@@ -56,6 +56,14 @@ virtual/bin/activate: requirements.txt
 	virtual/bin/pip install -Ur requirements.txt
 	touch virtual/bin/activate
 
+.PHONY: loop
+loop:
+	while true; do make; inotifywait -r -e close_write *; sleep 0.1; done
+
+.PHONY: image_unspace
+image_unspace:
+	find . -name "*.jpg" | grep ' ' | rename 's/ /_/g'
+
 .PHONY: clean
 clean:
 	# Nothing that is in the .gitignore is worth keeping.
