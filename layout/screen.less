@@ -125,6 +125,16 @@ article {
   font-size: 90%;
   line-height: 1.3em;
   padding: .75em 2ex;
+  a {
+    text-decoration: none;
+    border-bottom: 1px solid lighten(@light-brownish-background-color, 10%);
+  }
+  a:hover {
+    background-color: darken(@light-brownish-background-color, 30%);
+    color: @light-brownish-background-color;
+    text-decoration: none;
+    border-bottom: 1px solid @light-brownish-background-color;
+  }
 }
 .article-body figure.text-width {
   clear: both;

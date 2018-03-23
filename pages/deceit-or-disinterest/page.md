@@ -9,7 +9,7 @@ taxonomy:
 
 ![The latest in the long list of surprises: the stairs to the attic were constructed on top of completely worm-eaten boards. As a bonus, there was a dead mouse.](Annemarie_2018-03-11_Woodworm_damage_with_dead_mouse.jpg){.narrow width="900" height="1600"}
 
-The floors weren't teeming with wood worm. Neither were the door frames, or the doors. The sceptic tank was a modern one of the double type from which almost clean water flowed, certainly not a plain, old tank with a mystery overflow. The wood stove was sufficient to warm the entire house, and it worked just fine, as did did the chimney (despite the 90° angle in the pipe). The toilet would flush turds, not be a turd. The sink worked and wasn't designed to open the odorous world of the piping system. Nothing about rain that freely entered through two windows and under one door. The roof was water-tight. Oh, and it never freezes here during the winter, so you can grow pretty much whatever you want.
+The floors weren't teeming with wood worm. Neither were the door frames, or the doors. The sceptic tank was a modern one of the double type from which almost clean water flowed, certainly not a plain, old tank with a mystery overflow. The wood stove was sufficient to warm the entire house, and it worked just fine, as did did the chimney (despite the 90° angle in the pipe). The toilet would flush turds, not be a turd. The sink worked and wasn't designed to expose the odorous world of the piping system. Nothing about rain that freely entered through the windows, the doorsteps and the chimney. The roof was water-tight. Oh, and it never freezes here during the winter, so you can grow pretty much whatever you want.
 
 Were these conscious lies—misinformation by their agent? Or was the long list of omitted and incorrect information a symptom of the former owners' disengaged lifestyle? (All the pet piss and puke in the floor board cracks certainly was.)
 
@@ -27,10 +27,10 @@ When you have trees on your property that start to overhang the utility wires, y
 
 ![I'm climbing the tree to attach a robe. You might notice that I'm clamping the tree a bit nervously; I was unsure about its integrity since it has been deadly charred by the massive June forest fire.](Ponte_de_Pedra_2017-11-13_Rowan_attaching_a_rope.jpg){.semi-text-width}
 
-![We continued the next day, with two ropes](Ponte_de_Pedra_2017-11-14_Roped_up_tree_waiting.jpg){.semi-text-width}
+![We continued the next day, with two ropes.](Ponte_de_Pedra_2017-11-14_Roped_up_tree_waiting.jpg){.semi-text-width}
 
 ### Exhibit B: Wim Hof in the house
 
-Apparently, the previous habitants were students of Wim Hof—also known as the Iceman due to his extreme cold adaptation. Otherwise, why would they have stated that the single 
+Apparently, the previous habitants were students of Wim Hof—also known as the Iceman due to his extreme cold adaptation. Otherwise, why would they have stated that the single wood stove in the living room was sufficient to warm the whole house? While the thing's chimney was so crooked that you couldn't turn it on unless your lungs were already asfalted.
 
 ### Exhibit C–_n_: et cetera
