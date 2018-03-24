@@ -1,5 +1,6 @@
 ---
 title: Lau her humanure
+published: 2018-03-24
 keywords:
   - composting toilet
   - dry toilet
@@ -21,7 +22,7 @@ Laurelin poops. She does so quite regularly, which is a sign of health. That mus
 
 ![Here, you can see the frame with the bucket, but, as of then (in November 2017), without a s**thole.](Ponte_de_Pedra_2017-11-14_Compost_toilet_frame.jpg){.text-width width="4032" height="3024"}
 
-A composting toilet is a natural signpost on her and Nils' journey of becoming full-fledged permaculture hippies. How else would they ever get close to closing the nutrient cycle? There's only so much shit you can do to keep your outputs from exceeding your inputs. If you keep flushing your outputs into the ocean, your soil won't thank you, and neither will this grumpy marine biologist; all that nitrogen shit can cause havoc—like algal blooms—downstream.
+A composting toilet is a natural signpost on her journey of becoming full-fledged permaculture hippies. How else would they ever get close to closing the nutrient cycle? There's only so much shit you can do to keep your outputs from exceeding your inputs. If you keep flushing your outputs into the ocean, your soil won't thank you, and neither will this grumpy marine biologist; all that nitrogen shit can cause havoc—like algal blooms—downstream.
 
 <?project-insert?>
 
@@ -43,30 +44,72 @@ Some poop pathogens are a bit scary. Among the scarier critters are soil-transmi
 
 Not as scary as the worms are the bacteria. Most strains of <i lang="la">Escherichia coli</i>—a particularly well-studied species—are harmless and a part of every healthy person's gut flora, although some strains are serious turd troublemakers. Dispite there only being relatively few pathogenic strains of <i lang="la">E. coli</i> (such as <i lang="la">E. coli</i> O157:H), its ubiquitousness in human feces and its popularity as a model organism in the life sciences makes it _the_ go-to indicator organism for fecal contamination of soils and surface waters. Thus, typically, an <i lang="la">E. coli</i> test will be employed to make sure that the dreaded dready hippie's worms don't end up in the salad.
 
-<i lang="la">E. coli</i> tests are cheap and cheaper tests are [being developed](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0183234) still
+<i lang="la">E. coli</i> tests are already cheap, and cheaper, simpler tests such as [_E. coli_ test strips](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0183234) are underway. Still, the hassle of testing the home-made humanure for contamination can be by-passed by being somewhat conscious about the composting process and application.
 
-Therefore, one should not defacate directly into one's vegetable patch. Laurelin told me that the composting in an open compost pile 
+Process-wise, it should already be sufficiently clear that defecating directly in the lettuce bed is a bad idea. So, Laurelin collects the compost in an open compost pile, where the sawdust (that they apply between bowel movements) should provide for the aerobic growing conditions (40–60 °C  = 104–140 °F) needed by the thermophilic composting bacteria that oxidize the waste while generating temperatures high enough to kill even helminth eggs, the hardiest of all poop pathogens (brought by that dreadlock dude, remember?).
 
-![](Ponte_de_Pedra_2018-03-23_Humanure_heap.jpg){.narrow width="4032" height="3024"}
+<table class="text-width">
 
-<!-- defacation -->
-<!-- human feces -->
-<!-- bowel movement -->
+<thead>
+<tr>
+<th colspan="2">Duration</th>
+<th>Temperature</th>
+<th>Source</th>
+</tr>
+</thead>
 
-<!-- https://en.wikipedia.org/wiki/Helminthiasis -->
+<tbody>
 
-<!-- Excreta-derived compost recycles fecal nutrients, but it can carry and spread pathogens if the process of reuse of excreta is not done properly. -->
+<tr>
+<td style="text-align: right;">2</td>
+<td style="text-align: left;">weeks</td>
+<td style="text-align: right;">55 °C</td>
+<td rowspan="2">Berger, W. (2011) <cite>[Technology review of composting toilets](http://www.susana.org/en/knowledge-hub/resources-and-publications/library/details/878) – Basic overview of composting toilets (with or without urine diversion)</cite> </td>
+</tr>
 
-<!-- Internal pathogen destruction rates are usually low, particularly helminth eggs, such as Ascaris eggs.[4] This carries the risk of spreading disease if a proper system management is not in place. Compost from human excreta processed under only mesophilic conditions or taken directly from the compost chamber is not safe for food production.[7] High temperatures or long composting times are required to kill helminth eggs, the hardiest of all pathogens. Helminth infections are common in many developing countries. -->
+<tr>
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">week</td>
+<td style="text-align: right;">60 °C</td>
+</tr>
 
-<!-- In thermophilic composting bacteria that thrive at temperatures of 40–60 °C (104–140 °F) oxidize (break down) waste into its components, some of which are consumed in the process, reducing volume and eliminating potential pathogens. To destroy pathogens, thermophilic composting must heat the compost pile sufficiently, or enough time (1–2 years) must elapse since fresh material was added that biological activity has had the same pathogen removal effect. -->
+</tbody>
 
-<!-- One guideline claims that pathogen levels are reduced to a safe level by thermophilic composting at temperatures of 55 °C for at least two weeks or at 60 °C for one week.[2] An alternative guideline claims that complete pathogen destruction may be achieved already if the entire compost heap reaches a temperature of 62 °C (144 °F) for one hour, 50 °C (122 °F) for one day, 46 °C (115 °F) for one week or 43 °C (109 °F) for one month,[5] although others regard this as overly optimistic.[2] -->
+<tbody>
 
+<tr>
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">hour</td>
+<td style="text-align: right;">62 °C</td>
+<td rowspan="4">[Composting Chamber](http://ecompendium.sswm.info/sanitation-technologies/composting-chamber?group_code=s), in <cite>The Online Compendium of Sanitation Systems and Technologies</cite></td>
+</tr>
 
-Mesh wire 
-Hollow bricks are stuffed.
+<tr>
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">day</td>
+<td style="text-align: right;">50 °C</td>
+</tr>
 
-ddf
+<tr>
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">week</td>
+<td style="text-align: right;">46 °C</td>
+</tr>
 
-If you want to go all official, [ISO standard 24521:2016](https://www.iso.org/standard/64679.html)
+<tr>
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">month</td>
+<td style="text-align: right;">43 °C</td>
+</tr>
+
+</tbody>
+
+</table>
+
+Because there's no unanimous agreement on the temperatures and durations needed to kill all shit scariness and because Laurelin doesn't feel like tracking the temperature of her humanure heap with a thermometer, even after composting for a year, she won't apply her humanure to the vegetable patches. Instead, the compost will be used to kickstart the many nut trees after they've been transplanted from the [tree nursery](/tree-nurse-nils/).
+
+![The humanure heap is open to the air, but almost closed to small rodents who might be tempted to scitter around with poop pathogens on them, although the interface between the bricks and the mesh wire still needs to be tightened. The grass shows that it has been a while since the last bowel movement was moved onto this pile.](Ponte_de_Pedra_2018-03-23_Humanure_heap.jpg){.semi-text-width heigth="4032" width="3024"}
+
+![Sawdust, picked up for free at a local sawmill, and applied after each new layer of excrement, absorbs the moisture and keeps the dry composting toilet dry. As long as the muck bucket stays dry, the odours stay at acceptable levels. And the sawdust loosens the structure, which helps to avoid smelly anaerobic processes.](Ponte_de_Pedra_2018-03-23_Sawdust_sacks.jpg){.semi-text-width width="3024" height="4032"}
+
+If all this got you excited to recycle you own poop and you want to learn more, there's an [article on composting toilets](https://en.wikipedia.org/wiki/Composting_toilet) on Wikipedia. And, if you want to go all official, there's even an [ISO standard 24521:2016](https://www.iso.org/standard/64679.html) in the making.
