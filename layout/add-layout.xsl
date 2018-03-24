@@ -129,6 +129,7 @@
             </h6>
             <ul class='site-footer-taxonomy__articles'>
               <xsl:for-each select="$meta/page[taxonomy/*[name()=$taxonomy-name][text()=$taxonomy-term-name]]">
+                <xsl:sort select="published"/>
                 <xsl:if test="not(draft) or draft='False'">
                   <li class='site-footer-taxonomy__article'>
                     <a class="site-footer-taxonomy__article-link" href="/{slug}/">
