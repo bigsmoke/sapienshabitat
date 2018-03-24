@@ -112,4 +112,4 @@ Because there's no unanimous agreement on the temperatures and durations needed 
 
 ![Sawdust, picked up for free at a local sawmill, and applied after each new layer of excrement, absorbs the moisture and keeps the dry composting toilet dry. As long as the muck bucket stays dry, the odours stay at acceptable levels. And the sawdust loosens the structure, which helps to avoid smelly anaerobic processes.](Ponte_de_Pedra_2018-03-23_Sawdust_sacks.jpg){.semi-text-width width="3024" height="4032"}
 
-If all this got you excited to recycle you own poop and you want to learn more, there's an [article on composting toilets](https://en.wikipedia.org/wiki/Composting_toilet) on Wikipedia. And, if you want to go all official, there's even an [ISO standard 24521:2016](https://www.iso.org/standard/64679.html) in the making.
+If all this got you excited to recycle you own poop and you want to learn more, there's an [article on composting toilets](https://en.wikipedia.org/wiki/Composting_toilet) on Wikipedia. And, if you want to go all official, [ISO standard 24521:2016](https://www.iso.org/standard/64679.html) is in the making.
