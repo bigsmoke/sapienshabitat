@@ -58,7 +58,7 @@ virtual/bin/activate: requirements.txt
 
 .PHONY: loop
 loop:
-	while true; do make; inotifywait -r -e close_write *; sleep 0.1; done
+	while true; do make | ccze -A; inotifywait -r -e close_write *; sleep 0.1; done
 
 .PHONY: image_unspace
 image_unspace:
