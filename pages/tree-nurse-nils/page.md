@@ -233,7 +233,7 @@ Akiva grows his tree in a pretty cold climate. The winters in upstate New York (
 <td style="text-align: right;">8–24°C</td>
 </tr>
 </tbody>
-<caption>The growing conditions between Ponte de Pedro and upstate New York differ markedly, which is precisely the point of why small-scale, biome-specific tree nurseries are so important.</caption>
+<caption>The growing conditions between Ponte de Pedra and upstate New York differ markedly, which is precisely the point of why small-scale, biome-specific tree nurseries are so important.</caption>
 </table>
 
 As a total chestnut fanatic, Akiva has the remarkable luck of living at the same road as somebody who has spent 40+ years selecting chestnut variates from around the world for blight and cold resistance.
