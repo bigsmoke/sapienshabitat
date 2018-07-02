@@ -49,7 +49,7 @@ $(foreach IMG_SOURCE,$(SRC_IMAGES),$(eval $(IMAGE_VARIANTS)))
 
 .PHONY: virtual
 virtual: | virtual/bin/activate  # virtual/bin/activate is included as an order-only prerequisite.
-	source virtual/bin/activate
+	source virtual/bin/activate; bash
 
 virtual/bin/activate: requirements.txt
 	test -d virtual || virtualenv --python=python3 virtual
