@@ -48,17 +48,32 @@ endef
 $(foreach IMG_SOURCE,$(SRC_IMAGES),$(eval $(IMAGE_VARIANTS)))
 
 .PHONY: virtual
-virtual: | virtual/bin/activate  # virtual/bin/activate is included as an order-only prerequisite.
-	source virtual/bin/activate; bash
+#        | is followed by order-only prerequisites
+virtual: | virtual/bin/activate virtual/bin/node
+	@if [ -n "$(VIRTUAL_ENV)" ]; then \
+		echo -n "$(shell tput setaf 1)$(shell tput bold)"; \
+		echo -n "Virtual already activated."; \
+		echo "$(shell tput sgr0)"; \
+	else \
+		source virtual/bin/activate; bash; \
+	fi
 
-virtual/bin/activate: requirements.txt
+virtual/bin/activate virtual/bin/nodeenv: requirements.txt
 	test -d virtual || virtualenv --python=python3 virtual
 	virtual/bin/pip install -Ur requirements.txt
 	touch virtual/bin/activate
 
+virtual/bin/node virtual/bin/npm: virtual/bin/nodeenv
+	test -x virtual/bin/node || virtual/bin/nodeenv -p
+
+virtual/bin/lessc: virtual/bin/npm Makefile
+	virtual/bin/node virtual/bin/npm install --global less@3.5.0
+
 .PHONY: loop
 loop:
-	while true; do make | ccze -A; inotifywait -r -e close_write *; sleep 0.1; done
+	while true; do \
+		make | ccze -A; inotifywait -r -e close_write *; sleep 0.1; \
+	done
 
 .PHONY: image_unspace
 image_unspace:
@@ -127,4 +142,4 @@ htdocs/layout/% : layout/%
 	cp $< $@
 
 htdocs/layout/%.css: layout/%.less layout/*.less
-	lessc $< $@
+	virtual/bin/lessc $< $@
