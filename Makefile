@@ -142,4 +142,4 @@ htdocs/layout/% : layout/%
 	cp $< $@
 
 htdocs/layout/%.css: layout/%.less layout/*.less virtual/bin/lessc
-	bash -c 'source virtual/bin/activate && lessc' $< $@
+	bash -c "source virtual/bin/activate && lessc $< $@"
