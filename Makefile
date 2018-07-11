@@ -58,7 +58,7 @@ virtual: | virtual/bin/activate virtual/bin/node
 		source virtual/bin/activate; bash; \
 	fi
 
-virtual/bin/activate virtual/bin/nodeenv: requirements.txt
+virtual/bin/activate virtual/bin/python virtual/bin/python3 virtual/bin/nodeenv: requirements.txt
 	test -d virtual || virtualenv --python=python3 virtual
 	virtual/bin/pip install -Ur requirements.txt
 	touch virtual/bin/activate
@@ -92,12 +92,12 @@ upload:
 		$(CURDIR)/htdocs/ bigsmoke_sapienshabitat@ssh.phx.nearlyfreespeech.net:/home/public/
 
 .INTERMEDIATE:
-$(TMP_TAXON_XMLI): $(TMP_TAXON_JSON) layout/json-to-xml.py
-	cat $< | layout/json-to-xml.py > $@
+$(TMP_TAXON_XMLI): $(TMP_TAXON_JSON) virtual/bin/python3 layout/json-to-xml.py
+	cat $< | virtual/bin/python3 layout/json-to-xml.py > $@
 
 .INTERMEDIATE:
-$(TMP_TAXON_JSON): $(SRC_TAXON_YAML) layout/yaml-to-json.py
-	cat $< | layout/yaml-to-json.py > $@ 
+$(TMP_TAXON_JSON): $(SRC_TAXON_YAML) virtual/bin/python3 layout/yaml-to-json.py
+	cat $< | virtual/bin/python3 layout/yaml-to-json.py > $@ 
 
 .INTERMEDIATE:
 %/page.plain.html5 : %/page.md
@@ -125,15 +125,15 @@ $(XML_TAXON_META): $(XML_PAGES_META)
 		| sed -e '/^<?xml/d' >> $@
 	echo '</pages>' >> $@
 
-htdocs/%/meta.xml : pages/%/page.md $(TMP_TAXON_JSON)
+htdocs/%/meta.xml : pages/%/page.md $(TMP_TAXON_JSON) virtual/bin/python3
 	mkdir -p $(dir $@)
 	# Extra the YAML headers from the Markdown page sources and
 	# extend that information with the taxonomies information.
 	pandoc $< --standalone --data-dir=$(CURDIR)/layout/pandoc --template=yaml --to=markdown \
 		| sed -e '/^---/d' \
-		| layout/yaml-to-json.py \
-		| layout/merge-meta.py $(TMP_TAXON_JSON) \
-		| layout/json-to-xml.py \
+		| virtual/bin/python3 layout/yaml-to-json.py \
+		| virtual/bin/python3 layout/merge-meta.py $(TMP_TAXON_JSON) \
+		| virtual/bin/python3 layout/json-to-xml.py \
 		| sed -e '/<root>/a<slug type="str">$*</slug>' > $@
 
 htdocs/layout/% : layout/%
