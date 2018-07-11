@@ -1,7 +1,7 @@
 dist: xenial
 language: python
 python:
-  - '3.4'
+  - '3.7'
 addons:
   ssh_known_hosts: ssh.phx.nearlyfreespeech.net
 sudo: enabled
