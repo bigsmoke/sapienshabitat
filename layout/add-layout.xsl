@@ -250,48 +250,50 @@
   <xsl:template match="figure[contains(img/@class, 'semi-text-width')][./preceding-sibling::*[position()=1 and name(.)='figure']]"/>
 
   <xsl:template match="img">
-    <img>
-      <xsl:copy-of select="attribute::*"/>
-      <xsl:if test="@width">
-        <xsl:attribute name="srcset">
-          <xsl:choose>
-            <xsl:when test="number(@width) &gt; number('1000')">
-              <xsl:text>img-1000w/</xsl:text>
-              <xsl:value-of select="@src"/>
-              <xsl:text> 1000w</xsl:text>
-              <xsl:if test="number(@width) &gt; number('500')">
-                <xsl:text>, img-500w/</xsl:text>
+    <div class="figure__img-container figure__img-container--{@class}">
+      <img>
+        <xsl:copy-of select="attribute::*"/>
+        <xsl:if test="@width">
+          <xsl:attribute name="srcset">
+            <xsl:choose>
+              <xsl:when test="number(@width) &gt; number('1000')">
+                <xsl:text>img-1000w/</xsl:text>
                 <xsl:value-of select="@src"/>
-                <xsl:text> 500w</xsl:text>
-              </xsl:if>
-            </xsl:when>
-            <xsl:otherwise>
-              <xsl:value-of select="@src"/>
-              <xsl:text> </xsl:text>
-              <xsl:value-of select="@width"/>
-              <xsl:text>w</xsl:text>
-            </xsl:otherwise>
-          </xsl:choose>
-        </xsl:attribute>
-        <xsl:attribute name="sizes">
-          <xsl:choose>
-            <xsl:when test="contains(@class, 'semi-text-width')">
-              <xsl:text>(min-width: 648px) 50vw 80ex</xsl:text>
-            </xsl:when>
-            <xsl:when test="contains(@class, 'text-width')">
-              <xsl:text>80ex</xsl:text>
-            </xsl:when>
-            <xsl:when test="contains(@class, 'narrow')">
-              <xsl:text>20ex</xsl:text>
-            </xsl:when>
-            <xsl:otherwise>
-              <xsl:message terminate="yes">Unspecified image format!</xsl:message>
-            </xsl:otherwise>
-          </xsl:choose>
-        </xsl:attribute>
-      </xsl:if>
-      <xsl:apply-templates select="child::node() | child::processing-instruction()"/>
-    </img>
+                <xsl:text> 1000w</xsl:text>
+                <xsl:if test="number(@width) &gt; number('500')">
+                  <xsl:text>, img-500w/</xsl:text>
+                  <xsl:value-of select="@src"/>
+                  <xsl:text> 500w</xsl:text>
+                </xsl:if>
+              </xsl:when>
+              <xsl:otherwise>
+                <xsl:value-of select="@src"/>
+                <xsl:text> </xsl:text>
+                <xsl:value-of select="@width"/>
+                <xsl:text>w</xsl:text>
+              </xsl:otherwise>
+            </xsl:choose>
+          </xsl:attribute>
+          <xsl:attribute name="sizes">
+            <xsl:choose>
+              <xsl:when test="contains(@class, 'semi-text-width')">
+                <xsl:text>(min-width: 648px) 50vw 80ex</xsl:text>
+              </xsl:when>
+              <xsl:when test="contains(@class, 'text-width')">
+                <xsl:text>80ex</xsl:text>
+              </xsl:when>
+              <xsl:when test="contains(@class, 'narrow')">
+                <xsl:text>20ex</xsl:text>
+              </xsl:when>
+              <xsl:otherwise>
+                <xsl:message terminate="yes">Unspecified image format!</xsl:message>
+              </xsl:otherwise>
+            </xsl:choose>
+          </xsl:attribute>
+        </xsl:if>
+        <xsl:apply-templates select="child::node() | child::processing-instruction()"/>
+      </img>
+    </div>
   </xsl:template>
 
   <xsl:template match="processing-instruction('project-insert')">

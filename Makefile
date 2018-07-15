@@ -61,7 +61,7 @@ virtual: | virtual/bin/activate virtual/bin/node
 virtual/bin/activate virtual/bin/python virtual/bin/python3 virtual/bin/nodeenv: requirements.txt
 	test -d virtual || virtualenv --python=python3 virtual
 	virtual/bin/pip install -Ur requirements.txt
-	touch virtual/bin/activate
+	touch $@
 
 virtual/bin/node virtual/bin/npm: virtual/bin/nodeenv
 	test -x virtual/bin/node || virtual/bin/nodeenv -p
