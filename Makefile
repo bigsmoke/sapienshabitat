@@ -68,6 +68,7 @@ virtual/bin/node virtual/bin/npm: virtual/bin/nodeenv
 
 virtual/bin/lessc: virtual/bin/npm Makefile
 	virtual/bin/node virtual/bin/npm install --global less@3.5.0
+	touch $@
 
 .PHONY: loop
 loop:

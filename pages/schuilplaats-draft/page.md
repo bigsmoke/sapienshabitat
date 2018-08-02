@@ -20,8 +20,6 @@ Similar effort had to be exerted to reopen the heather field at the other
 side—East—of the private road that borders the heather field, separated by a
 hedge, North to South. 
 
-![](huis-aan-heiderand-180graden.jpg)
-
 This open view, unpolluted by the sight of other forest dwellings, may feel
 natural in the way it appeals to our [innate instincts about what constitutes
 a pleasant landscape](/scale/landscape). In reality, although the Van der

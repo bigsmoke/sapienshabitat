@@ -25,9 +25,9 @@ The amount of deceit involved in the buying/selling game can be disputed. There 
 
 When you have trees on your property that start to overhang the utility wires, you might want to get rid of them. Or, you can just go back inside, light another one, and it leave it for the next owner to deal with.
 
-![I'm climbing the tree to attach a robe. You might notice that I'm clamping the tree a bit nervously; I was unsure about its integrity since it has been deadly charred by the massive June forest fire.](Ponte_de_Pedra_2017-11-13_Rowan_attaching_a_rope.jpg){.semi-text-width}
+![I'm climbing the tree to attach a robe. You might notice that I'm clamping the tree a bit nervously; I was unsure about its integrity since it has been deadly charred by the massive June forest fire.](Ponte_de_Pedra_2017-11-13_Rowan_attaching_a_rope.jpg){.semi-text-width width="3024" height="4032"}
 
-![We continued the next day, with two ropes.](Ponte_de_Pedra_2017-11-14_Roped_up_tree_waiting.jpg){.semi-text-width}
+![We continued the next day, with two ropes.](Ponte_de_Pedra_2017-11-14_Roped_up_tree_waiting.jpg){.semi-text-width width="3024" height="4032"}
 
 ### Exhibit B: Wim Hof in the house
 

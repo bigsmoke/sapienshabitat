@@ -228,72 +228,140 @@
     </div>
   </xsl:template>
 
-  <xsl:template match="figure" name="figure">
+  <xsl:template name="find-side-by-side-position">
+    <xsl:variable name="first-preceding-non-figure" select="preceding-sibling::*[not(self::figure and contains(img/@class, 'semi-text-width'))][1]"/>
+    <xsl:value-of select="count(preceding-sibling::*)
+      - count($first-preceding-non-figure/preceding-sibling::* | $first-preceding-non-figure)
+      + number('1')"
+    />
+  </xsl:template>
+
+  <xsl:template match="figure">
+    <xsl:variable name="class" select="img/attribute::class"/>
+    <xsl:variable name="side-by-side" select="contains($class, 'semi-text-width')"/>
+    <xsl:variable name="side-by-side-position">
+      <xsl:call-template name="find-side-by-side-position"/>
+    </xsl:variable>
+    <xsl:choose>
+      <xsl:when test="$side-by-side and $side-by-side-position = number('2')">
+        <!-- Ignore the second of each pair of figure.semi-text-width siblings. -->
+      </xsl:when>
+      <xsl:otherwise>
+        <div class="figure__container figure__container--{$class}">
+          <!-- Process the first of the two figure.semi-text-width siblings: -->
+          <xsl:apply-templates select="." mode="figure"/> 
+
+          <xsl:if test="$side-by-side and $side-by-side-position = number('1')">
+            <!-- Process the second of the two figure.semi-text-width siblings: -->
+            <xsl:apply-templates select="following-sibling::*[position()=1 and name(.)='figure']" mode="figure"/>
+
+            <xsl:if test="not(following-sibling::*[position()=1 and name(.)='figure'])">
+              <xsl:message terminate="yes">Second sibling of `figure.semi-text-width` pair not found.</xsl:message>
+            </xsl:if>
+          </xsl:if>
+        </div>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:template>
+
+  <xsl:template match="figure" mode="figure">
+    <!-- Matches non-semi-text-width figures and is called by name from the figure__container -->
     <figure>
       <xsl:copy-of select="attribute::*"/>
-      <xsl:copy-of select="img/attribute::class"/>
 
-      <xsl:apply-templates select="child::node() | child::processing-instruction()"/>
+      <xsl:attribute name="class">
+        <xsl:text>figure figure--</xsl:text>
+        <xsl:value-of select="img/attribute::class"/>
+      </xsl:attribute>
+
+      <xsl:attribute name="style">
+        <xsl:text>--image-aspect-ratio: </xsl:text>
+        <xsl:value-of select="number(img/@width) div number(img/@height)"/>
+        <xsl:text>;</xsl:text>
+      </xsl:attribute>
+
+      <xsl:apply-templates select="child::node() | child::processing-instruction()" mode="figure"/>
     </figure>
   </xsl:template>
 
-  <xsl:template match="figure[contains(img/@class, 'semi-text-width')][./following-sibling::*[position()=1 and name(.)='figure']]">
-    <div class="side-by-side-figure__container">
-      <xsl:call-template name="figure" /> 
+  <xsl:template match="img" mode="figure">
+    <xsl:if test="not(@width)">
+      <xsl:message terminate="yes">
+        &lt;img width/&gt; missing for <xsl:value-of select="@src"/>.
+      </xsl:message>
+    </xsl:if>
 
-      <xsl:for-each select="following-sibling::*[position()=1 and name(.)='figure']">
-        <xsl:call-template name="figure" /> 
-      </xsl:for-each>
-    </div>
+    <xsl:if test="not(@height)">
+      <xsl:message terminate="yes">
+        &lt;img height/&gt; missing for <xsl:value-of select="@src"/>.
+      </xsl:message>
+    </xsl:if>
+
+    <img>
+      <xsl:apply-templates select="attribute::*" mode="figure"/>
+
+      <xsl:attribute name="class">
+        <xsl:text>figure__img figure__img--</xsl:text>
+        <xsl:value-of select="attribute::class"/>
+      </xsl:attribute>
+
+      <xsl:attribute name="srcset">
+        <xsl:choose>
+          <xsl:when test="number(@width) &gt; number('1000')">
+            <xsl:text>img-1000w/</xsl:text>
+            <xsl:value-of select="@src"/>
+            <xsl:text> 1000w</xsl:text>
+            <xsl:if test="number(@width) &gt; number('500')">
+              <xsl:text>, img-500w/</xsl:text>
+              <xsl:value-of select="@src"/>
+              <xsl:text> 500w</xsl:text>
+            </xsl:if>
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:value-of select="@src"/>
+            <xsl:text> </xsl:text>
+            <xsl:value-of select="@width"/>
+            <xsl:text>w</xsl:text>
+          </xsl:otherwise>
+        </xsl:choose>
+      </xsl:attribute>
+      <xsl:attribute name="sizes">
+        <xsl:choose>
+          <xsl:when test="contains(@class, 'semi-text-width')">
+            <xsl:text>(min-width: 648px) 50vw 80ex</xsl:text>
+          </xsl:when>
+          <xsl:when test="contains(@class, 'text-width')">
+            <xsl:text>80ex</xsl:text>
+          </xsl:when>
+          <xsl:when test="contains(@class, 'narrow')">
+            <xsl:text>20ex</xsl:text>
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:message terminate="yes">Unspecified image format!</xsl:message>
+          </xsl:otherwise>
+        </xsl:choose>
+      </xsl:attribute>
+      <xsl:apply-templates select="child::node() | child::processing-instruction()"/>
+    </img>
   </xsl:template>
 
-  <xsl:template match="figure[contains(img/@class, 'semi-text-width')][./preceding-sibling::*[position()=1 and name(.)='figure']]"/>
+  <xsl:template match="img/@*" mode="figure">
+    <xsl:copy/>
+  </xsl:template>
 
-  <xsl:template match="img">
-    <div class="figure__img-container figure__img-container--{@class}">
-      <img>
-        <xsl:copy-of select="attribute::*"/>
-        <xsl:if test="@width">
-          <xsl:attribute name="srcset">
-            <xsl:choose>
-              <xsl:when test="number(@width) &gt; number('1000')">
-                <xsl:text>img-1000w/</xsl:text>
-                <xsl:value-of select="@src"/>
-                <xsl:text> 1000w</xsl:text>
-                <xsl:if test="number(@width) &gt; number('500')">
-                  <xsl:text>, img-500w/</xsl:text>
-                  <xsl:value-of select="@src"/>
-                  <xsl:text> 500w</xsl:text>
-                </xsl:if>
-              </xsl:when>
-              <xsl:otherwise>
-                <xsl:value-of select="@src"/>
-                <xsl:text> </xsl:text>
-                <xsl:value-of select="@width"/>
-                <xsl:text>w</xsl:text>
-              </xsl:otherwise>
-            </xsl:choose>
-          </xsl:attribute>
-          <xsl:attribute name="sizes">
-            <xsl:choose>
-              <xsl:when test="contains(@class, 'semi-text-width')">
-                <xsl:text>(min-width: 648px) 50vw 80ex</xsl:text>
-              </xsl:when>
-              <xsl:when test="contains(@class, 'text-width')">
-                <xsl:text>80ex</xsl:text>
-              </xsl:when>
-              <xsl:when test="contains(@class, 'narrow')">
-                <xsl:text>20ex</xsl:text>
-              </xsl:when>
-              <xsl:otherwise>
-                <xsl:message terminate="yes">Unspecified image format!</xsl:message>
-              </xsl:otherwise>
-            </xsl:choose>
-          </xsl:attribute>
-        </xsl:if>
-        <xsl:apply-templates select="child::node() | child::processing-instruction()"/>
-      </img>
-    </div>
+  <xsl:template match="img/@width | img/@height" mode="figure"/>
+
+  <xsl:template match="figcaption" mode="figure">
+    <figcaption>
+      <xsl:copy-of select="attribute::*"/>
+
+      <xsl:attribute name="class">
+        <xsl:text>figure__figcaption figure__figcaption--</xsl:text>
+        <xsl:value-of select="../img/@class"/>
+      </xsl:attribute>
+
+      <xsl:apply-templates select="child::node() | child::processing-instruction()"/>
+    </figcaption>
   </xsl:template>
 
   <xsl:template match="processing-instruction('project-insert')">
