@@ -40,18 +40,18 @@
 
       <meta name="viewport" content="width=device-width, initial-scale=1"/>
       <meta name="theme-color" content="#000000"/>
-      <link rel="stylesheet" type="text/css" href="../layout/style.css?v=27"/>
+      <link rel="stylesheet" type="text/css" href="../layout/style.css?v=28"/>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather"/>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Archivo+Narrow"/>
 
-      <script type="text/javascript" src="../layout/enhance.js?v=2"></script>
+      <script type="text/javascript" src="../layout/enhance.js?v=4"></script>
 
       <xsl:apply-templates select="child::node() | child::processing-instruction()" />
     </head>
   </xsl:template>
 
   <xsl:template match="body">
-    <body id="top" class="scroll-up-detection-with-threshold" data-scroll-up-threshold-delta="5">
+    <body id="top" class="js-scroll-up-detection-with-threshold" data-scroll-up-threshold-pixels-per-second="1000" data-scroll-up-threshold-milliseconds="100">
       <div class="site-container">
         <xsl:copy-of select="attribute::*"/>
 

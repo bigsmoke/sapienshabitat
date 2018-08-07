@@ -12,7 +12,7 @@ class SapiensHabitatEnhancements {
   }
 
   initializeScrollDetection() {
-    var scrollSensitiveContainers = document.getElementsByClassName('scroll-up-detection-with-threshold');
+    var scrollSensitiveContainers = document.getElementsByClassName('js-scroll-up-detection-with-threshold');
     Array.prototype.forEach.call(scrollSensitiveContainers, function(container) {
       new SapiensHabitatScrollDetector(container);
     });
@@ -52,46 +52,53 @@ class SapiensHabitatScrollDetector {
     this.scrollSensitiveElement = scrollSensitiveElement;
     try
     {
-      this.scrollUpThresholdDelta = this.scrollSensitiveElement.dataset["scroll-up-threshold-delta"];
+      this.scrollUpThresholdPixelsPerSecond = parseInt(this.scrollSensitiveElement.dataset.scrollUpThresholdPixelsPerSecond);
+      this.scrollUpThresholdMilliseconds = parseInt(this.scrollSensitiveElement.dataset.scrollUpThresholdMilliseconds);
     }
     catch (e)
     {
       throw "data-scroll-up-threshold-threshold-delta attribute is missing.";
     }
     this.scrollSensitiveElement.onscroll = this.handleScrollEvent.bind(this);
-    this.scrolledRecently = false;
-    setInterval(this.resetScrollState.bind(this), 250);
+    this.startedScrolling = null;
+    this.startScrollTop = null;
+    this.scrolledUp = false;
+    setInterval(this.checkScrollPosition.bind(this), 200);
   }
 
-  /**
-   * For optimization purposes, handleScrollEvent() just sets a boolean,
-   * which is then checked by resetScrollState().
-   */
   handleScrollEvent() {
-    this.scrolledRecently = true;
-  }
-
-  resetScrollState() {
-    if (this.scrolledRecently) {
-      this.hasScrolled();
-      this.scrolledRecently = false;
+    if (this.startedScrolling === null) {
+      this.startedScrolling = Date.now();
+      this.startScrollTop = this.getScrollTop();
     }
   }
 
-  hasScrolled() {
-    var scrollTop  = window.pageYOffset || document.documentElement.scrollTop
-    if (Math.abs(this.lastScrollTop - scrollTop) < this.scrollUpThresholdDelta) {
-      // Don't do anything if we're below the threshold;
-      // tiny movements shouldn't trigger the scroll-up behaviour.
-      return; 
+  checkScrollPosition() {
+    if (this.startedScrolling === null) {
+      return;
     }
-    if (scrollTop > this.lastScrollTop) {
+
+    var millisecondsElapsed = Date.now() - this.startedScrolling;
+    if (millisecondsElapsed < this.scrollUpThresholdMilliseconds) {
+      return;
+    }
+
+    var scrolledUpPx = this.startScrollTop - this.getScrollTop();
+    if (scrolledUpPx < 0) {
       this.scrollSensitiveElement.classList.remove('scrolled-up');
     }
-    else {
+
+    var scrolledUpPerSecond = scrolledUpPx / millisecondsElapsed * 1000;
+    if (scrolledUpPerSecond > this.scrollUpThresholdPixelsPerSecond) {
       this.scrollSensitiveElement.classList.add('scrolled-up');
     }
-    this.lastScrollTop = scrollTop;
+
+    this.startedScrolling = null;
+    this.startScrollTop = null;
+  }
+
+  getScrollTop() {
+    return window.pageYOffset || document.documentElement.scrollTop;
   }
 };
 
