@@ -5,6 +5,7 @@ keywords:
   - ecology
   - Eucalyptus globulus
   - maritime pine
+  - monocropping
   - pinheiro-bravo
   - Pinus pinaster
   - 2017 Portugal wildfires
@@ -98,7 +99,19 @@ _Eucalyptus globulus_ is commonly called Tasmanian bluegum. Its native distribut
 
 ## De- and reforestation
 
-Before Portugese agriculture was industrialized by the green revolution, the country side was a patchwork of forests, fields, orchards, and small meadows. With agricultural production intensifying in areas accessible by increasingly larger mechanical implements, the narrow terraces on steep hillsides were gradually abandoned. Generations went and left the idylle (and poverty) for work on factory farms, in actual factories, and—nowadays—in cubicles. Neglected fields and [orchards overgrown with bramble and ivy](/olive-yard/) where 
+Before Portugese agriculture was industrialized during the green revolution, the country side was a patchwork of forests, fields, orchards, and small meadows. With agricultural production intensifying in areas accessible by increasingly larger mechanical implements, the narrow terraces on the steeper hillsides were gradually abandoned. Generations went and left the idylle (and poverty) for work on factory farms, in actual factories, and, more recently: cubicles. Neglected fields and [orchards overgrown with bramble and ivy](/olive-yard/) where the result.
+
+Much of the space left by a dying brand of small-scale agriculture was engulfed by monocrops of Eucalyptus and various pines, like <i lang="la">P. pinaster</i>. The once-luscious terraces are now mostly <i lang="la">Eucalyptus</i> (23%) and <i lang="la">Pinus</i> (27%). Together, these two cover 50% of Portugal's forest area. 35% of Portugal's total area is forest (according to the World Bank, in 2015), so that 17% of Portugal is covered with just two tree species.
+
+‘Forest’ is a misleading term here. These are monocropped tree stands—plantations, not forests, and never is that more clear than when they all burn down together.
+
+[Image here]
+
+When we travel back beyond the green revolution, then beyond subsistence farming, even beyond agriculture, we find a different forest structure: Europe's primeval forest. There were humans there, but they hunted, gathered and gardened; there were no plows; the land was not tilled; humankind lived in a wilderness that shaped them more than that it was shaped _by_ them. Through a romantic lens, you could call it a paradise, if by paradise you mean: a short, brutal life, celebrated between you and your kin, because, yes, why not assume, that like the tribespeople of the modern Amazon, these early Europeans spent only about 4 hours per day on their subsistence and the rest on various forms of leisure.
+
+The world was full of humans, then as much as now. The difference is that, back then, what was usually some half-assed form of horticulture, combined with collecting what grew and roamed naturally could sustain a much smaller number of humans total. But, of course, like with all species, we would more often than not fill our niche to capacity.
+
+At some point, around 6000 BC, agriculture swept through the Iberian peninsula, and the landscape slowly started on an ever-accelarating transformation until the peak of today's anthropocene. Before then, there definitely had been human impacts: humans had been burning and hunting, planting, and cutting. Whole prey species had gone extinct. Humans have occupied Iberia uninterruptedly for 1.2 million years. (Unlike in Northern Europe, its suitability as a human habitat, hadn't been frustrated by the last glacial.) Agriculture has existed there for 0.5% of that time. On the time scale of a million years, human land use has literally exploded. I suggest that the agricultural revolution be dubbed the agricultural explosion. And the explosion hasn't settled yet, because the recently-increased ‘forest’ cover isn't a return to more wilderness; it marks a further decrease in biodiversity and agricultural diversity.
 
 [Something about worsened drought], “it has also been shown [by Roger del Moral and Cornelius H. Muller, in <cite>Fog drip: a mechanism of toxin transport
 from Eucalyptus globulus</cite> (1969)] that the leaves of the tree produce water-soluble phytotoxins that can prevent radicle growth of many herbaceous plants.” [<cite>Silvics of North America – Volume 2, Hardwoods</cite> (1990), [p. 300](https://books.google.nl/books?hl=en&lr=&id=bMnRqCA3uzwC&oi=fnd&pg=PA300&dq=eucalyptus+globulus+root+cooperation&ots=Jhdpp2fgnp&sig=4Hy2Q9qhvoHzU23WG8_PQJPkkB8#v=onepage&q&f=false)]
