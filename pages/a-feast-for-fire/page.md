@@ -21,11 +21,11 @@ taxonomy:
 
 # A feast for fire – the disaster ecology of the Eucalyptus tree and other heavy drinkers
 
-_Eucalyptus globulus_ isn't native to Portugal. Neither are my mother Annemarie and my sister Laurelin. But, like everywhere, there are good immigrants and bad immigrants. Whereas my sister and mother—good immigrants!—are intent on transforming their Portuguese valley into something resembling paradise, the many _Eucalyptus_ immigrants on their property are bent on the exact opposite: to suck the hillsides dry and let it all burn!
+_Eucalyptus globulus_ isn't native to Portugal. Neither are my mother Annemarie and my sister Laurelin. But, like everywhere, there are good immigrants and bad immigrants. Whereas my sister and mother—good immigrants!—are intent on transforming their Portuguese valley into something resembling paradise, the many eucalyptus immigrants on their property are bent on the exact opposite: to suck the hillsides dry and let it all burn!
 
 And burn it did—_twice_ in 2017. Just as my mother and sister were <a href="/and-take-your-plants-with-you/">on the move with a trailer full of garden</a>, the first series of wildfires hit the news in The Netherlands. I wasn't immediately worried. My mother out law asked me: “Isn't that the area where your family is moving?” I shrugged it off, somehow unable to imagine them near the June 2017 inferno that ended up killing 66 people. 
 
-Meanwhile, Laurelin and Annemarie were _very_ close to the fire. Despite the Portugese (and Spanish, and French, and Moroccan, and Italian) firefighters giving their all, the many wildfires had continued to spread and reached their Ponte de Pedran property soon after my family. In fact, they hadn't even moved into the house yet. They had to wait for the then current-occupants to leave. The sellers' move was delayed by a medical emergency (unrelated to the burning of wood, more related to the burning of cigarettes). So, Laurelin and Annemarie were sleeping in tents. (You know? Those easily-ignitable deathtraps.) All the while, the fire crept up closer, with nerve-wrecking, lecherous leaps.
+Meanwhile, Laurelin and Annemarie were _very_ close to the fire. Despite the Portugese (and Spanish, and French, and Moroccan, and Italian) firefighters giving their all, the many wildfires had continued to spread and reached their Ponte de Pedran property soon after them. In fact, they hadn't even moved into the house yet. They had to wait for the then-current occupants to leave. The sellers' move was delayed by a medical emergency (unrelated to the burning of wood, more related to the burning of cigarettes). So, Laurelin and Annemarie were sleeping in tents. (You know? Those easily-ignitable deathtraps.) All the while, the fire crept up closer, with nerve-wrecking, lecherous leaps.
 
 On June 18, they fled. The smoke had gotten so bad that it choked out almost all the light. My mother wrote:
 
@@ -41,7 +41,7 @@ So why was so much of the Iberian Peninsula on fire (and would be again in Octob
 
 When the fire stopped raging, Annemarie and Laurelin returned to their new property to assess the damage: The main house was untouched. Even the tents were untouched. The fire was stopped just short of the tents. That's where the firefighters had stood fending off the fire. Heroes.
 
-![The remnants of <i lang="la">Pinus pinaster</i> on their hill were still smouldering when Laurlin took this photo.](Laurelin_2017-06-19_still_smoking.jpg){.text-width width="3000" height="2400"}
+![The remnants of <i lang="la">Pinus pinaster</i> on their hill were still smouldering when Laurelin took this photo.](Laurelin_2017-06-19_still_smoking.jpg){.text-width width="3000" height="2400"}
 
 The hillside above my mother's property <del>is</del> *was* covered almost completely with two tree species: <i lang="la">Pinus pinaster</i> and <i lang="la">Eucalpytus globulus</i>. These two species have one thing in common: they are thirsty.
 
@@ -97,6 +97,8 @@ _Eucalyptus globulus_ is commonly called Tasmanian bluegum. Its native distribut
 <caption>Adapted from: ⑴ <cite>A review of whole-plant water use studies in trees</cite> (1998) by Stan D. Wullschleger, F.C. Meinzer and R.A. Vertessy; ⑵ <cite>The Portugese Forest</cite> (2005) by Museu Nacional De História Natural e Da Ciéncia.</caption>
 </table>
 
+My mother's hill is dominated by <i lang="la">P. pinaster</i>, not <i lang="la">E. globulus</i>. It matters not; both make excellent paper pulp, and both would have been cut down if they had not burned down. (And we did cut down the remains, in a sweeping motion of chainsaw emancipation.)
+
 ## De- and reforestation
 
 Before Portugese agriculture was industrialized during the green revolution, the country side was a patchwork of forests, fields, orchards, and small meadows. With agricultural production intensifying in areas accessible by increasingly larger mechanical implements, the narrow terraces on the steeper hillsides were gradually abandoned. Generations went and left the idylle (and poverty) for work on factory farms, in actual factories, and, more recently: cubicles. Neglected fields and [orchards overgrown with bramble and ivy](/olive-yard/) where the result.
@@ -107,14 +109,20 @@ Much of the space left by a dying brand of small-scale agriculture was engulfed 
 
 [Image here]
 
-When we travel back beyond the green revolution, then beyond subsistence farming, even beyond agriculture, we find a different forest structure: Europe's primeval forest. There were humans there, but they hunted, gathered and gardened; there were no plows; the land was not tilled; humankind lived in a wilderness that shaped them more than that it was shaped _by_ them. Through a romantic lens, you could call it a paradise, if by paradise you mean: a short, brutal life, celebrated between you and your kin, because, yes, why not assume, that like the tribespeople of the modern Amazon, these early Europeans spent only about 4 hours per day on their subsistence and the rest on various forms of leisure.
+When we travel back beyond the green revolution, then beyond subsistence farming, even beyond agriculture, we find a different forest structure: Europe's primeval forest. There were humans there, but they hunted, gathered and gardened; there were no plows; the land was not tilled; humankind lived in a wilderness that shaped them more than that it was shaped _by_ them. Through a romantic lens, you could call it a paradise, if by paradise you mean: a short, brutal life, celebrated between you and your kin—celebrated, because, yes, why not assume, that like the tribespeople of the modern Amazon, these early Europeans spent only about 4 hours per day on their subsistence and the rest on various forms of leisure.
 
 The world was full of humans, then as much as now. The difference is that, back then, what was usually some half-assed form of horticulture, combined with collecting what grew and roamed naturally could sustain a much smaller number of humans total. But, of course, like with all species, we would more often than not fill our niche to capacity.
 
 At some point, around 6000 BC, agriculture swept through the Iberian peninsula, and the landscape slowly started on an ever-accelarating transformation until the peak of today's anthropocene. Before then, there definitely had been human impacts: humans had been burning and hunting, planting, and cutting. Whole prey species had gone extinct. Humans have occupied Iberia uninterruptedly for 1.2 million years. (Unlike in Northern Europe, its suitability as a human habitat, hadn't been frustrated by the last glacial.) Agriculture has existed there for 0.5% of that time. On the time scale of a million years, human land use has literally exploded. I suggest that the agricultural revolution be dubbed the agricultural explosion. And the explosion hasn't settled yet, because the recently-increased ‘forest’ cover isn't a return to more wilderness; it marks a further decrease in biodiversity and agricultural diversity.
 
+## Shameless self-promotion
+
+The problem with monocropped 
+
 [Something about worsened drought], “it has also been shown [by Roger del Moral and Cornelius H. Muller, in <cite>Fog drip: a mechanism of toxin transport
 from Eucalyptus globulus</cite> (1969)] that the leaves of the tree produce water-soluble phytotoxins that can prevent radicle growth of many herbaceous plants.” [<cite>Silvics of North America – Volume 2, Hardwoods</cite> (1990), [p. 300](https://books.google.nl/books?hl=en&lr=&id=bMnRqCA3uzwC&oi=fnd&pg=PA300&dq=eucalyptus+globulus+root+cooperation&ots=Jhdpp2fgnp&sig=4Hy2Q9qhvoHzU23WG8_PQJPkkB8#v=onepage&q&f=false)]
+
+* _Eucalyptus_ ddfd
 
 P. pinaster was used as a native species to afforest dune sands and degraded lands that may not have supported native forest. (Brimble 1948; Den Ouden & Boom 1965).
 
