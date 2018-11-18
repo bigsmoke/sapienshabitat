@@ -17,13 +17,13 @@ I wanted to start working on Nils' [tree nursery](/tree-nurse-nils/), and I need
 
 Those who know me well know that I can be … impatient—a trait I inherited from the <i lang="pt">adega</i>'s owner Annemarie. It was already November. Their stuff had moved there in June. So why had she put up with this maddening mess for so long?
 
-The answer was in the ceiling—the _wooden_ ceiling with tiny little holes everywhere made by little woodworm fuckers who weren't even supposed to be there because hadn't the sellers insisted that “no, there are no tiny, squirmy creeps eating away at your house”?
+The answer was in the ceiling—the _wooden_ ceiling with tiny little holes everywhere made by little woodworm fuckers who [weren't even supposed to be there](/deceit-or-disinterest/) because hadn't the sellers insisted that “no, there are no tiny, squirmy creeps eating away at your house”?
 
 And so it was that my 68 year-old mother—grandma of 5—had been slaving away, poisoning the <i lang="pt">adega</i> ceiling (hopefully not herself), so that her youngest daughter Laurelin wouldn't have to. After all, Laurelin might still need her ovaries.
 
 <?project-insert?>
 
-Meanwhile, the boric acid fumes had subsided, the little critters were assumed dead, and Annemarie no longer needed to be able to access te ceiling with her brush of liquid death. And their stuff? The stuff was still there, spread over heaps, boxes and crates.
+Meanwhile, the boric acid fumes had subsided, the little critters were assumed dead, and Annemarie no longer needed to be able to access the ceiling with her brush of liquid death. And their stuff? The stuff was still there, spread over heaps, boxes and crates.
 
 ![There was stuff under the stuff. But there was also stuff that could potentially be used to put the other stuff away in.](Ponte_de_Pedra_2017-11-17_Adega_piles_everywhere.jpg){.text-width width="4032" height="3024"}
 
@@ -35,7 +35,7 @@ After moving one barrel out of my way, and starting to surf the wave of my annoy
 
 ![Like the woodworm, the chest was an unpaid extra from the previous owners. And it had to be treated with boric acid, just like the ceiling, the doors, the doorframes, a lot of left-behind tools, shelves, et cetera.](Ponte_de_Pedra_2017-11-17_Adega_with_old_chest.jpg){.text-width width="4032" height="3024"}
 
-Before we could do anything else, we needed to make room for the unassembled shelving units the were scattered all around. Having cleared most of the floorspace adjacent to the walls, we could start erecting the racks, and then move all that stuff back in, neatly stacked.
+Before we could do anything else, we needed to make room for the unassembled shelving units that were scattered all around. Having cleared most of the floorspace adjacent to the walls, we could start erecting the racks, and then move all that stuff back in, neatly stacked.
 
 ![Annemarie could finally put these boxes in their place, stacked in racks where they can annoy no longer, with what little energy was left after months of fighting more than just woodworm.](Ponte_de_Pedra_2017-11-17_Adega_repossessed_by_Annemarie.jpg){.text-width width="4032" height="3024"}
 
@@ -47,4 +47,4 @@ And thus I was able to leave for The Netherlands (to “Huize Haarbal”<!-- TOD
 
 ![The three Portugese hobbit creatures in the picture are taking stock of all the new storage options.](Ponte_de_Pedra_2017-11-17_Adega_stuff_shelved.jpg){.text-width width="4032" height="3024"}
 
-With Annemarie's now-organized <i lang="pt">adega</i>, there was one less mess to constantly remind her of the falsehoods and neglect that she bought into.
+With Annemarie's now-organized <i lang="pt">adega</i>, there was one less mess to constantly remind her of [the falsehoods and neglect](/deceit-or-disinterest/) that she bought into.
