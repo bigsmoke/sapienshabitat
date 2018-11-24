@@ -6,6 +6,8 @@ keywords:
   - pig sty
   - porqueira
   - stone wall
+  - stonecraft
+  - stonemasonry
   - stonewall
   - to flush a wall
 taxonomy:
