@@ -38,10 +38,43 @@ As so often, with an original wall design rooted in poverty, the beautiful stone
 
 Marilisa—who, in 2017, was around 25 kilogram lighter than me—was less affected by stiffness and soreness while hammering her chisel than me. Granted, my tempo was a bit higher, but if you would extrapolate for strength and size, she would have been the faster, stronger chiseler. This brings me back 7 years, to 2010, when Jorrit and I spent a couple of weeks cleaning up and then repointing the stone walls of an old farm house in the Dordogne region in France. Back then, my right shoulder had been really sore from handling the pneumatic hammer days on end. (The hand-chisel was a relief compared with the so-typical static stress of a tool that runs on non-manual power.) The injury that flamed up in 2010 wasn't a new injury. And, even now, in 2018, it's not an old, long bygone injury, as I'm only just starting to get a grip on my shoulder stability and flexibility. With my currently evolving softer attitude towards shoulder rehab + prehab, I would have myself learn from Marilisa to hack not from a continuous tension—like I am myself some sort of petrol-powered tool—but from a point of relaxation between movements. Next time, I will see what animal rhythm I can step into rather than using myself like some pent-up machine.
 
-![Here I am [at the right], soring my shoulders in 2010, while gaining weeks of experience with prettifying a rustic farm wall.](Maison_de_Michel_2010-09-22_Monkey_Brothers_zijn_de_voegen_aan_het_uitbikken.jpg){.text-width width="555" height="333"}
+![Here I am [at the right], soring my shoulders in 2010, while collecting repointing bragging points.](Maison_de_Michel_2010-09-22_Muur_afbikken_met_peukje_en_pik.jpg){.text-width width="555" height="333"}
+
+## “Let me brosplain that to you, sis'.”
+
+<!-- TODO: Parse this into something like: https://codepen.io/zenorocha/pen/eZxYOK
+<pre class="whatsapp-pasted__lines">
+[15:47, 2/24/2018] Rowan: Je kunt vast nog wel wat hulp met je appartement gebruiken.
+[15:49, 2/24/2018] Laurelin: 🙉
+[15:49, 2/24/2018] Laurelin: Schiet ongeveer een halve meter per dag op
+[15:50, 2/24/2018] Rowan: Kan dit spul niet van de stenen afgeborstelt worden?
+[15:50, 2/24/2018] Rowan: Want dan zou je sneller kunnen voegen en borstelen als het halfdroog is.
+[16:24, 2/24/2018] Laurelin: Ja maar dan zie ik niet meer welke ste[e]n ik wil houden. Dus nu laat ik wel wat op de stenen komen en borstel ik dat er later af.
+[19:36, 3/4/2018] Laurelin: Ik heb weer een dag geplijsterd
+[19:37, 3/4/2018] Rowan: Cool.
+[19:37, 3/4/2018] Laurelin: Nog minstens 7 volle dagen werk denk ik
+[19:37, 3/4/2018] Rowan: Zoveel?
+[19:37, 3/4/2018] Laurelin: Tja gaat met een kleine meter per dag
+[19:37, 3/4/2018] Rowan: Dat was echt een dag per muur met Michel.
+[19:38, 3/4/2018] Rowan: Met halfnat wegborstelen.
+[19:39, 3/4/2018] Rowan: Klinkt heel ambachtelijk.
+[19:39, 3/4/2018] Laurelin: Ja ik deeeenk dat ik of een noob ben, of dat deze muur een stuk hobbeliger is
+[19:40, 3/4/2018] Rowan: Hoeft niet uit te maken, voor zover ik weet.
+[19:40, 3/4/2018] Laurelin: 🧐
+[19:58, 3/4/2018] Laurelin: Hey maar on the upside krijg ik nou wel armspieren 😅
+[19:59, 3/4/2018] Laurelin: Zelfs onderarmspieren 😎
+[20:00, 3/4/2018] Rowan: Nais!
+[20:00, 3/4/2018] Rowan: Ja, zoiets herinner ik me ook van toen.
+[21:36, 3/5/2018] Laurelin: Ik kan me zo voorstellen dat als je handig bent met die kwak techniek, het een stuk sneller gaat, maar vooralsnog ben ik er vooral ingeslaagd er een zootje van te maken 😂
+[21:36, 3/5/2018] Laurelin: Maar volgens mij heb ik nou wel bijna een derde van die muur af
+[21:37, 3/5/2018] Laurelin: Ik wil het natuurlijk af hebben voor dat jullie er zijn he zodat ik trots kan pronken
+</pre>
+-->
+
+Of course, immediately upon encountering this project, I started telling Laurelin about how amazingly professional our brother Jorrit and I are at cleaning up these old walls and repointing them with proper cement. I went to some length to brosplain the techniques we used when restoring the farm wall of <i lang="fr">La Maison du Michel</i> in France. (Just so you know: _brosplaining_ is not the same as mansplaining. I was merely trying to be helpful and brag at the same time. If you're looking for misogamy, look further. Another one of my sisters will be happy to femsplain to you where to look, you sexist <i>porco pequeno</i>.)
+
+Disappointingly, Jorrit and I never got the opportunity to demonstrate our awesome techniques, which we had been fortunate enough to learn from Michel—an intelligent, experienced builder, who had moved from the Netherlands to restore that big, old farmhouse in the Dordogne. We were back in our respective countries—France and the Netherlands—before Laurelin embarked on her own pointing journey. She mentioned that the process was slow and frustrating. When she followed my suggestion to use a flat board to hold the mortar and a pointing trowel to literally throw the mortar into the joints, she ended up with a lot of substance seeping over her stoned. The experience of her brothers turned out not to be so relevant after all: her mortar was a much softer, limier substance that what we had worked with. We were used to a tough, cementy substance, soft enough to throw deep into the joints, but hard enough not to drip out of the joints all over the stones. (Still, we went through _a lot_ of steel brushes to brush the half-hardened, freshly pointed joints out to just a bit below flush with the stone face.)
 
 ## Let the wall breathe.
 
-Of course, immediately upon encountering this project, I started telling Laurelin about how amazingly professional our brother Jorrit and I are at cleaning up these old walls and pointing them with proper cement. I went to some length to brosplain the techniques we used when restoring the farm wall of <i lang="fr">La Maison du Michel</i> in France. (Just so you know: _brosplaining_ is not the same as mansplaining. I was merely trying to be helpful and brag at the same time. If you're looking for misogamy, look further. Another one of my sisters will be happy to femsplain to you where to look, you sexist <i>porco pequeno</i>.)
-
-It turned out that, sure, I was a good enough wielder 
+Whereas Jorrit and I had learned to use your run-of-the mill cement mortar with some nice yellow sand for repointing, the Internet had taught Laurelin something else. The mortar we used was meant to make the outer wall solidly watertight, and also much stronger than it was previously. Plus, It had to look good—much better than before. Laurelin's mortar had to increase, not decrease the breathing ability of the wall. Plus, it had to look good—much better than before.
