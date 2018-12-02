@@ -17,6 +17,8 @@ taxonomy:
   author: bigsmoke
   project: pppermaculture
   scale: home
+draft: no
+published: 2018-12-02
 ---
 
 # How to point a stone wall
