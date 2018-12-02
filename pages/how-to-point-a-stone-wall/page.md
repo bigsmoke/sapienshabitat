@@ -21,6 +21,8 @@ taxonomy:
 
 # How to point a stone wall
 
+![Detail of a cleaned patch of stonework wall prior to repointing it.](Laurelin_her_sty_2018-03-04_Empty_joints_in_the_stone_wall.jpg){.narrow width="1600" height="1200"}
+
 It wasn't that Laurelin was longing back to her student days: the islands of clothes, inhabited by stuffed animals guarding abandoned books. Maybe she did miss the one island guarded by <i lang="nl">Friemframfrutsel</i>, but I digress from the point I wish to make: she doesn't long back to living her life in the pig sty—<i lang="pt">porqueira</i> in Portuguese—that her student room used to be. However, I am speaking here of a figurative <i lang="pt">porqueira</i>. She very much intends to move into a literal pig sty soon. Well, soon… Things move slowly around the <i lang="pt">Ponte de Pedra</i> valley. I planted “soon” here in March 2018, when I started writing this article. It's now November. And Laurelin has yet to move from the bunk bed in our mother's house to her “soon”-to-be cozy <i lang="pt" title="“Pig Sty&#x00A0;2.0”">“Porqueira&#x00A0;2.0”</i> mini-home. The next stop after <i lang="pt" title="“Pig Sty&#x00A0;2.0”">“Porqueira&#x00A0;2.0”</i> cannot be “sooned” by any stretch of the imagination: the 200&#x00A0;m² water mill, that ⓐ she [disappointingly](/deceit-or-disinterest/) still has to figure out how to get a building permit for that, and that ⓑ she then has to turn from a few ruined walls around a big pile of rubble into something … else. So, by that measure, <i lang="pt" title="“Pig Sty&#x00A0;2.0”">“Porqueira&#x00A0;2.0”</i> _will_ be ready soon.
 
 <?project-insert?>
@@ -97,6 +99,8 @@ It turns out that regular—Portland—cement is not too great when used with st
 </pre>
 -->
 
+This is not new, cutting edge knowledge. Builders since antiquity have known about different types of mortars, although in Europe this knowledge has been lost during the Middle Ages.
+
 <table class="text-width">
 <thead>
 <tr>
@@ -121,6 +125,4 @@ It turns out that regular—Portland—cement is not too great when used with st
 </tbody>
 </table>
 
-![empty stones](Laurelin_her_sty_2018-03-04_Empty_joints_in_the_stone_wall.jpg){.text-width width="1600" height="1200"}
-
-![almost finished](Laurelin_her_sty_2018-03-06_Stone_walls_almost_completely_repointed.jpg){.text-width width="1600" height="1200"}
+![On March 3, 2018—two weeks before Marilisa, me and Jorrit would get to see the finished result—Laurelin made this photo. By this time, she had repointed most of wall between her pig sty and the <a href="/a-mess-of-an-adega/"><i lang="pt">adega</i></a>, except for the left-most part. And you can see a chunk of wall, right of the corner, where she still had to brush off the excess mortar.](Laurelin_her_sty_2018-03-06_Stone_walls_almost_completely_repointed.jpg){.text-width width="1600" height="1200"}
