@@ -39,6 +39,8 @@ But, they—especially Nils—_had_ gone a bit farther than stuffing some seeds 
  
 Akiva Silver's [Twisted Tree Farm](http://www.twisted-tree.net/) served as Nils his prime inspiration. Akiva Silver was introduced on the <cite>Permaculture Voice</cite> podcast [#063](http://www.permaculturevoices.com/1000s-of-trees-and-half-an-acre-small-scale-nursery-business-with-akiva-silver-pvp063/) in 2014, as a tree nurse who managed to grow thousands of tree on his then 0.5 acre farm ([![SoundCloud](/layout/soundcloud-icon.svg){style="height: 1em;" title="SoundCloud"}](https://soundcloud.com/permaculturevoices/pvp063-08052014)). In 2016, when the farm had expanded to **ten** thousand trees on hardly more than that same 0.5 acre, Silver was interviewed again for [#127](http://www.permaculturevoices.com/growing-10000-trees-on-acre-expanding-a-small-scale-nursery-business-an-update-with-akiva-silver-pvp127/) of the podcast ([![SoundCloud](/layout/soundcloud-icon.svg){style="height: 1em;" title="SoundCloud"}](https://soundcloud.com/permaculturevoices/growing-10000-trees-on-acre-expanding-a-small-scale-nursery-business-with-akiva-silver-pvp127)).
 
+<!-- FIXME: It was more Pinus than Eucalytpus. -->
+
 Peculiar about Silver's nursing method is that, after the trees germinate in very dense seeds beds, he keeps the saplings there until they're tall enough to sell, which is usually in as little as a year. This prospect resonated deeply with Nils, at a time when every cell in his German body was already itching to invade the _Eucalyptus_-invested hills around Ponte de Pedra, supported by an army of homegrown, superior tree species.
 
 <?project-insert?>
