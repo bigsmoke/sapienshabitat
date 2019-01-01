@@ -90,7 +90,7 @@ clean:
 .PHONY: upload
 upload:
 	rsync --verbose --copy-links --delete --recursive --times \
-		$(CURDIR)/htdocs/ bigsmoke_sapienshabitat@ssh.phx.nearlyfreespeech.net:/home/public/
+		$(CURDIR)/htdocs/ sapienshabitat.com@bigpuff.tilaa.cloud:/srv/http/sapienshabitat.com/static/
 
 .INTERMEDIATE:
 $(TMP_TAXON_XMLI): $(TMP_TAXON_JSON) virtual/bin/python3 layout/json-to-xml.py
