@@ -3,7 +3,7 @@ language: python
 python:
   - '3.7'
 addons:
-  ssh_known_hosts: ssh.phx.nearlyfreespeech.net
+  ssh_known_hosts: bigpuff.tilaa.cloud
 sudo: enabled
 before_install:
   - sudo apt-get -qq update
