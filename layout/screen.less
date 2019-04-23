@@ -255,7 +255,7 @@ article {
     display: block;
     max-width: 100%;
     max-height: 100%;
-    @media (orientation: landscape) {
+    @media (max-width: 647px) and (orientation: landscape) {
       width: ~"calc((100vh - 4pt) * var(--image-aspect-ratio))";
       height: ~"calc(100vh - 4pt)";
     }
