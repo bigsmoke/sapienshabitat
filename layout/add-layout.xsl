@@ -256,7 +256,7 @@
             <xsl:apply-templates select="following-sibling::*[position()=1 and name(.)='figure']" mode="figure"/>
 
             <xsl:if test="not(following-sibling::*[position()=1 and name(.)='figure'])">
-              <xsl:message terminate="yes">Second sibling of `figure.semi-text-width` pair not found.</xsl:message>
+              <xsl:message terminate="no">Second sibling of `figure.semi-text-width` pair not found.</xsl:message>
             </xsl:if>
           </xsl:if>
         </div>

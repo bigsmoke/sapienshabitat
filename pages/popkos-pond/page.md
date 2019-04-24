@@ -42,8 +42,6 @@ Or so I thought. We started at the top, right next to where the <i lang="la">Rho
 
 ![The fieldstone steps waited for decades until Popko and I finally released them from their peaty cocoon in the after-summer of 2017. The next spring, purple <i lang="la">Rhododendron ponticum</i> flower petals, relieved from their reproductive duties, bedded down onto the now-naked field stones.](Schuilplaats_2018-05-23_Rhododenderon_flower_heads_in_pond.jpg){.semi-text-width width="3024" height="4032"}
 
-![It's no longer spring in this picture. Yet, our 2018 November holiday was plenty sunny, though, and the summer had been dry. This allowed us to get to the bottom of the dried-out pond without getting wet. Marilisa is removing most of the yellow flag (<i lang="la">Iris pseudacorus</i>) here, not because she hates irises, but because they were rooted in a thick layer of mud that we wanted to get rid of.](Schuilplaats_2018-11-14_Marilisa_fights_the_yellow_flag.jpg){.semi-text-width width="3024" height="4032"}
-
 That was when Popko visited Marilisa and me while we were staying in De Schuilplaats in late 2017. I remember how he and I—especially he!—were slaving away at the rooty peat layer while Marilisa and a friend of Marilisa were sipping tea in the sun on the south terrace. <!--(I'm not sure that they would have enjoyed the show that long if I had kept my shirt on.)--> In November of 2018, Marilisa and I were staying at De Schuilplaats again. Following the pattern of the previous year, I tentatively took to the pond, aiming only to muck it out to counter the ongoing eutrophication and deepen the base. Then, Marilisa's creative input took the upper hand, and my original, purely ecological, aim became a vague background notion to a much more magical mission.
 
 Congruent with my original intent, we removed a fair bit of muck before we got to the more creative part. The muck had to be removed by the bucketload, because the protective fence doesn't allow wheelbarrows to cross. So, we mucked. And we mucked a bit more.
@@ -56,15 +54,21 @@ There were 4 major surprises during the deepening of what I then still considere
 
 ## Surprise 0: There's a stair.
 
-[Yups, we already discussed this one.]
+[Indeed, I already discussed this one.]
 
 ## Surprise 1: The pond's base is reinforced.
+
+![It's no longer spring in this picture. Yet, our 2018 November holiday was plenty sunny, though, and the summer had been dry. This allowed us to get to the bottom of the dried-out pond without getting wet. Marilisa is removing most of the yellow flag (<i lang="la">Iris pseudacorus</i>) here, not because she hates irises, but because they were rooted in a thick layer of mud that we wanted to get rid of.](Schuilplaats_2018-11-14_Marilisa_fights_the_yellow_flag.jpg){.semi-text-width width="3024" height="4032"}
+
+![dfdf](Schuilplaats_2018-11-14_We_struck_the_bottom_of_the_pond.jpg){.semi-text-width width="3024" height="4032"}
 
 ## Surprise 2: A field stone wall was hiding under the moss and grass.
 
 ## Surprise 3: The pond is _big_.
 
 ## Surprise 4: Is _that_ still drinkable?
+
+![sfsdf](Schuilplaats_2018-11-13_Filled_with_liquor.jpg){.semi-text-width width="3024" height="4032"}
 
 ## Future surprises
 
