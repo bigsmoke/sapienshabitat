@@ -2,18 +2,22 @@
 title: Popko's pond
 draft: true
 keywords:
+  - bog myrtle
   - Crataegus monogyna
   - common hawthorn
   - eenstijlige meidoorn
+  - gele lis
+  - Iris pseudacorus
+  - Myrica gale
   - oneseed hawthorn
   - pond
-  - shade
-  - single-seeded hawthorn
-  - bog myrtle
-  - Myrica gale
   - pontische rododendron
   - Rhododendron ponticum
+  - shade
+  - single-seeded hawthorn
+  - water flag
   - willow
+  - yellow flag
 taxonomy:
   author: bigsmoke
   project: schuilplaats
@@ -40,33 +44,51 @@ Marilisa, too, has taken to the greenery around De Schuilplaats. We've stayed th
 
 Or so I thought. We started at the top, right next to where the <i lang="la">Rhododendron</i> now ended [behind Marilisa in the picture above]. What we did not expect to find was a stair, with steps made out of long-rotten board and field stone. It didn't take long before Popko (already past hist 70th birthday at the time) started attacking peat and <i lang="la">Rhododendron</i> root with more enthusiasm and vigor than myself, overtaken as he was by the mystery of what nature had done to his memories. “The steps couldn't be _there_.” “I'm sure they were much farther away from the <i lang="la">Rhododendron</i>”. We unpealed bucket after bucket of peat made of <i lang="la">Rhododendron</i> leaf, pine needle, pine cone, branch, strung together by root. And, yes, the original stairs that Popko made long, long ago went straight through where thick, tall <i lang="la">Rhododendron</i> stems stood only a year earlier. Yet, at the same time, everything he built was still there, a little displaced here and there, but mostly intact. Nature had prevailed for a long time, overgrowing the memory of one of the most creative parts of Popko's old project. And then part of the veil was lifted, like the removal of a plaster mold, to reveal something that had matured in hiding, in a cocoon.
 
-![The fieldstone steps waited for decades until Popko and I finally released them from their peaty cocoon in the after-summer of 2017. The next spring, purple <i lang="la">Rhododendron ponticum</i> flower petals, relieved from their reproductive duties, bedded down onto the now-naked field stones.](Schuilplaats_2018-05-23_Rhododenderon_flower_heads_in_pond.jpg){.semi-text-width width="3024" height="4032"}
+![The fieldstone steps waited for decades until Popko and I finally released them from their peaty cocoon in the after-summer of 2017. The next spring, in late May, purple <i lang="la">Rhododendron ponticum</i> flower petals, relieved from their reproductive duties, bedded down onto the now-naked field stones.](Schuilplaats_2018-05-23_Rhododenderon_flower_heads_in_pond.jpg){#rhododendron-flower-water .semi-text-width width="3024" height="4032"}
 
-That was when Popko visited Marilisa and me while we were staying in De Schuilplaats in late 2017. I remember how he and I—especially he!—were slaving away at the rooty peat layer while Marilisa and a friend of Marilisa were sipping tea in the sun on the south terrace. <!--(I'm not sure that they would have enjoyed the show that long if I had kept my shirt on.)--> In November of 2018, Marilisa and I were staying at De Schuilplaats again. Following the pattern of the previous year, I tentatively took to the pond, aiming only to muck it out to counter the ongoing eutrophication and deepen the base. Then, Marilisa's creative input took the upper hand, and my original, purely ecological, aim became a vague background notion to a much more magical mission.
+That was when Popko visited Marilisa and me while we were staying in De Schuilplaats in late 2017. I remember how he and I—especially he!—were slaving away at the rooty peat layer while Marilisa and a friend of Marilisa were sipping tea in the sun on the south terrace. (I'm not sure that they would have enjoyed the show that long if I had kept my shirt on.)
 
-Congruent with my original intent, we removed a fair bit of muck before we got to the more creative part. The muck had to be removed by the bucketload, because the protective fence doesn't allow wheelbarrows to cross. So, we mucked. And we mucked a bit more.
+One year later, in November of 2018, the two of us (♂ and ♀) spent a sunny week at De Schuilplaats again. None of the luscious wetness [that had still filled the pond in the late spring](#rhododendron-flower-water) had persisted throughout the extraordinarily long, dry summer. Conveniently, this would allow us to get to the bottom without getting wet. Following the pattern of the previous year, I tentatively took to the pond, aiming only to muck it out to counter the ongoing eutrophication and deepen the base. That was until Marilisa's creative input took the upper hand, and my original, purely ecological, aim became a vague background notion to a much more magical mission.
+
+Congruent with my original intent, we started by removing a fair bit of muck before we got to the more creative part. The muck had to be removed by the bucketload, because the protective fence doesn't allow wheelbarrows to cross. So, we mucked. And we mucked a bit more.
 
 ![The base of the pond was flled with a rich, dark mud, made of leaves in various stages of decomposition. Countless pine cones had yet to start rotting in this oxygen-deprived, oft-submerged niche. But rot they will, now that they've been utilized to fertilize Marilisa's new semi-wild <i lang="la">Vaccinium myrtillus</i> patch, among other things.](Schuilplaats_2018-11-13_Digging_the_peaty_muck_from_the_pond.jpg){.semi-text-width width="3024" height="4032"}
 
-![Because it couldn't be wheeled inside the mesh-wire fence, we filled the wheelbarrow one bucket at a time, which took time—a lot of it.](Schuilplaats_2018-11-13_A_bucket_with_muck_from_the_pond.jpg){.semi-text-width width="3024" height="4032"}
+![Because it couldn't be wheeled inside the mesh-wire fence, we filled the wheelbarrow one bucket at a time—a time-consuming process.](Schuilplaats_2018-11-13_A_bucket_with_muck_from_the_pond.jpg){.semi-text-width width="3024" height="4032"}
+
+We weren't going to discard the peaty mud mixture. That would be a waste of such a dense nutrient mass in the sandy, acididic, oligotrophic Norger environment. Rather we applied it to Marilisa's new semi-wild <i lang="la">Vaccinium myrtillus</i> tract, to her artichoke patch, and let the rest decompose further on a pile where some oxygen can get into the blackened leafs and pine cones that were waiting patiently in their submerged kingdom to be turned first into turf and then, just a 
 
 There were 4 major surprises during the deepening of what I then still considered Popko's pond.
 
-## Surprise 0: There's a stair.
+## Surprise #0: There's a stair.
 
-[Indeed, I already discussed this one.]
+Oh, I discussed that one already.
 
-## Surprise 1: The pond's base is reinforced.
+## Surprise #1: The pond's base is reinforced.
 
-![It's no longer spring in this picture. Yet, our 2018 November holiday was plenty sunny, though, and the summer had been dry. This allowed us to get to the bottom of the dried-out pond without getting wet. Marilisa is removing most of the yellow flag (<i lang="la">Iris pseudacorus</i>) here, not because she hates irises, but because they were rooted in a thick layer of mud that we wanted to get rid of.](Schuilplaats_2018-11-14_Marilisa_fights_the_yellow_flag.jpg){.semi-text-width width="3024" height="4032"}
+I never knew better than that the pond would often dry up completely in the summer, even in the winter sometimes. I did have some hope that clearing out the base would lower the water table threshold at which there would be water left in the pool. But, because the pond isn't lined with plastic, its water level would always change with the ground water level.
 
-![dfdf](Schuilplaats_2018-11-14_We_struck_the_bottom_of_the_pond.jpg){.semi-text-width width="3024" height="4032"}
+Popko knew better. He knew he left a little surprise at the very bottom. It was 40 cm deep and a meter by a meter wide. It was more than completely filled with dry sludge. Popko had placed a metal tub at the base of the pond to retain some water even at the lowest ground-water levels.
 
-## Surprise 2: A field stone wall was hiding under the moss and grass.
+![Marilisa is attacking the mat of yellow flag (<i lang="la">Iris pseudacorus</i>), that was left hanging in the air above the tub, because the ground had literally been pulled away from under their feet.](Schuilplaats_2018-11-14_Marilisa_fights_the_yellow_flag.jpg){.semi-text-width width="3024" height="4032"}
 
-## Surprise 3: The pond is _big_.
+![There might have could have been water left in the 100×100×40 cm tub if there had been any space left prior to our intervention.](Schuilplaats_2018-11-14_We_struck_the_bottom_of_the_pond.jpg){.semi-text-width width="3024" height="4032"}
 
-## Surprise 4: Is _that_ still drinkable?
+<!-- TODO: add (SVG?) overlay with measurements -->
+
+## Surprise #2: A field stone slope was hiding under the moss and grass.
+
+The heather-side slope had always just been a source of labor for me. Every year, I freed the sweet-scented Dutch myrtle (<i lang="la">Myrica gale</i>) from sprawling, crawling willow shoots and the always enthusiastic bramble branches. Below these bushes: grass and moss.
+
+When Marilisa started pulling away some of the moss, we learned that 
+
+![dfdf](Schuilplaats_2018-11-15_Marilisa_found_some_field_stones.jpg){.semi-text-width width="3024" height="4032"}
+
+![dfdf](Schuilplaats_2018-11-15_Uncovered_field_stone_slope.jpg){.semi-text-width width="3024" height="4032"}
+
+## Surprise #3: The pond is _big_.
+
+## Surprise #4: Is _that_ still drinkable?
 
 ![sfsdf](Schuilplaats_2018-11-13_Filled_with_liquor.jpg){.semi-text-width width="3024" height="4032"}
 
