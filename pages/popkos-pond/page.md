@@ -78,13 +78,13 @@ Popko knew better. He knew he left a little surprise at the very bottom. It was 
 
 ## Surprise #2: A field stone slope was hiding under the moss and grass.
 
-The heather-side slope had always just been a source of labor for me. Every year, I freed the sweet-scented Dutch myrtle (<i lang="la">Myrica gale</i>) from sprawling, crawling willow shoots and the always enthusiastic bramble branches. Below these bushes: grass and moss.
+The heather-side slope had always just been a source of labor for me. Every year, I freed the sweet-scented Dutch myrtle (<i lang="la">Myrica gale</i>) from sprawling, crawling willow shoots and the always enthusiastic bramble branches. Below these bushes: grass and moss. As far as I knew, only the very steep red-brick wall at the opposide side of the pond was made out of something else than earth, not this more gently-sloped side.
 
-When Marilisa started pulling away some of the moss, we learned that 
+When Marilisa started pulling away some of the moss, we found field stones. In Drenthe, the Dutch province where the Schuilplaats is location, there is no naturally occurring rocky substrate. Fieldstones in the Northern Netherlands were carried here from Scandinavia by land ice during the Saale glaciation that ended about 130,000 years ago. All our fieldstones are _glacial erratics_, brought here by glaciers. These particular fieldstones, however, were not carried there by ice; they were carried there by a Popko, about ten years younger at the time then I am now, and plenty strong.
 
-![dfdf](Schuilplaats_2018-11-15_Marilisa_found_some_field_stones.jpg){.semi-text-width width="3024" height="4032"}
+![Here, Marilisa just started unearthing another unexpected piece of Popko's hard work. Time had covered it relentfully, acting as a patient art conservator.](Schuilplaats_2018-11-15_Marilisa_found_some_field_stones.jpg){.semi-text-width width="3024" height="4032"}
 
-![dfdf](Schuilplaats_2018-11-15_Uncovered_field_stone_slope.jpg){.semi-text-width width="3024" height="4032"}
+![Marilisa didn't opt to remove all the dirt and make the stone wall all shiny and new again. No, she opted to make a sculpture out of soil, fern, moss, iris,and moneywort (<i lang="la">Lysimachia nummularia</i>). We removed just enough overgrowth to amplify, not dampen, the fairyesque character of the spot.](Schuilplaats_2018-11-15_Uncovered_field_stone_slope.jpg){.semi-text-width width="3024" height="4032"}
 
 ## Surprise #3: The pond is _big_.
 
