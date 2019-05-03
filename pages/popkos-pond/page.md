@@ -84,14 +84,30 @@ When Marilisa started pulling away some of the moss, we found field stones. In D
 
 ![Here, Marilisa just started unearthing another unexpected piece of Popko's hard work. Time had covered it relentfully, acting as a patient art conservator.](Schuilplaats_2018-11-15_Marilisa_found_some_field_stones.jpg){.semi-text-width width="3024" height="4032"}
 
-![Marilisa didn't opt to remove all the dirt and make the stone wall all shiny and new again. No, she opted to make a sculpture out of soil, fern, moss, iris,and moneywort (<i lang="la">Lysimachia nummularia</i>). We removed just enough overgrowth to amplify, not dampen, the fairyesque character of the spot.](Schuilplaats_2018-11-15_Uncovered_field_stone_slope.jpg){.semi-text-width width="3024" height="4032"}
+![Marilisa didn't opt to remove all the dirt and make the stone wall all shiny and new again. Rather she made a sculpture out of soil, fern, moss, iris,and moneywort (<i lang="la">Lysimachia nummularia</i>). We removed only enough overgrowth to amplify, not dampen, the fairyesque character of the spot.](Schuilplaats_2018-11-15_Uncovered_field_stone_slope.jpg){.semi-text-width width="3024" height="4032"}
 
 ## Surprise #3: The pond is _big_.
 
+We had to remove wheelbarrow loads of greenery and dirt before this became noticable, but, for something Popko dug by hand, the pond is _big_.
+
+When approaching it from the direction of the southern terrace, the North side of Popko's pond with with a stairs. As the fieldstone steps descend from the right (west) side of the large <i lang="la">Rhododendron</i>, the bassin quickly widens, with a steep brick facade against the west wall and a gentler fieldstone slope going up to the <i lang="la">Rhododendron</i> and the heather field behind it. At the south end, where where the east side narrows, the field stone slope changes into a steep brick corner. Around the corner the bricks continue into a narrowing gulley where they meet the steep west wall in a shallow, pointy end at heather level.
+
+<iframe title="Here, I walk through Popko's pond 2.0." data-aspect-ratio="1.77" src="https://www.youtube.com/embed/bwZBKqjBe-0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
+
+In the gulley (which is not technically a gully), we didn't remove the peaty substance. Instead, I made a small brick ridge in front of the <i lang="la">Vaccinium corymbosum</i> that I retrieved from my <del>mother's</del>—I mean ♀ parent's—garden before [she moved much of the rest of her garden to Portugal](/and-take-your-plants-with-you/) a summer earlier. That delicious blueberry had been doing alright its first year in Norg. It didn't mind being submerged much of the winter of 2017/2018. Nor did it seem to be bothered by the fact that I had had to clumsily and badly plant it under water. (Try it!) Nevertheless, it didn't yield any berries in its first two summers, which is why, instead of deepening its standing place, I applied copious amounts of extra thick, dark, partially-degraded stuffs from the rest of the pond, and the red brick ridge was meant to keep all that biomass firmly in place. (I knew that <i lang="la">V. corymbosum</i> loves that stuff; by planting them in wet turf, Popko has spoiled 2 other <i lang="la">V. corymbosum</i> specimen into a multi-kilogram annual blueberry yield in his garden in Eelde.)
+
 ## Surprise #4: Is _that_ still drinkable?
 
+Burried below decades worth of 
+
 ![sfsdf](Schuilplaats_2018-11-13_Filled_with_liquor.jpg){.semi-text-width width="3024" height="4032"}
+
+![](Schuilplaats_2018-11-15_Marilisa_inaugurates_the_renewed_pond.jpg){.semi-text-width width="3024" height="4032"}
 
 ## Future surprises
 
 Popko's pond is no longer purely Popko's. For years, I was already removing willow, bramble, Japanese knotweed, and oak. The fence involved yet another input, from Edwin Kielman. But, mostly it was Popko who put something in there these 40 years ago, letting the future twirl through it quite naturally (sometimes in the form of me mindlessly removing the woody plants that are not bog myrtle). Then, Marilisa, with my help, took what time had built and sculpted at it 
+
+<iframe data-aspect-ratio="1.77" src="https://www.youtube.com/embed/HkzF78YrZMs?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
+
+df
