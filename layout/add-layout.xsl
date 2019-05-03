@@ -364,6 +364,39 @@
     </figcaption>
   </xsl:template>
 
+  <xsl:template match="iframe[starts-with(@src, 'https://www.youtube.com/embed/')]">
+    <xsl:if test="not(@data-aspect-ratio)">
+      <xsl:message terminate="yes">`data-aspect-ratio` attribute required for video embeds.</xsl:message>
+    </xsl:if>
+
+    <div class="video__container">
+      <figure class="video__figure" style="--video-aspect-ratio: {@data-aspect-ratio};">
+        <div class="video__aspect-rationer" style="--video-aspect-ratio: {@data-aspect-ratio};">
+          <iframe class="video__iframe" style="--video-aspect-ratio: {@data-aspect-ratio};">
+            <xsl:apply-templates select="attribute::*"/>
+          </iframe>
+        </div>
+        <!--
+        <xsl:if test="@title">
+          <figcaption class="video__figcaption">
+            <xsl:value-of select="@title"/>
+          </figcaption>
+        </xsl:if>
+        -->
+      </figure>
+    </div>
+  </xsl:template>
+
+  <xsl:template match="iframe[starts-with(@src, 'https://www.youtube.com/embed/')]/@src">
+    <xsl:attribute name="src">
+      <xsl:value-of select="."/>
+      <xsl:text>?hl=1</xsl:text>
+      <xsl:text>&amp;iv_load_policy=3</xsl:text>
+      <xsl:text>&amp;rel=0</xsl:text>
+      <xsl:text>&amp;controls=0</xsl:text>
+    </xsl:attribute>
+  </xsl:template>
+
   <xsl:template match="processing-instruction('project-insert')">
     <xsl:variable name="project" select="$this-article-meta/taxonomy/project"/>
     <xsl:if test="$this-article-meta/insert[item=$project]">
