@@ -18,8 +18,8 @@ _Sapiens Habitat_ – where humans find:
 _Sapiens Habitat_ is a little push to incite sapient beings—you and me:
 
 > to recreate a more friendly, gardenesque version of the paradise in which our
-> ancestors evolved, while reserving plenty of wilderness space for the
-> continuation of the brutal evolutionary processes from which our own species
-> emerged.
+> ancestors survived and thrived, while reserving plenty of wilderness space
+> for the continuation of the brutal evolutionary processes from which such a
+> sapient species could emerge.
 
 <?article-index?>
