@@ -1,6 +1,7 @@
 ---
 title: Popko's pond
 draft: false
+published: 2019-06-16
 keywords:
   - bog myrtle
   - Crataegus monogyna
