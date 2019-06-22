@@ -92,6 +92,10 @@ upload:
 	rsync --verbose --copy-links --delete --recursive --times \
 		$(CURDIR)/htdocs/ sapienshabitat.com@bigpuff.tilaa.cloud:/srv/http/sapienshabitat.com/static/
 
+.PHONY: list_drafts
+list_drafts:
+	find pages -name '*.md' | xargs grep -L 'published: '
+
 .INTERMEDIATE:
 $(TMP_TAXON_XMLI): $(TMP_TAXON_JSON) virtual/bin/python3 layout/json-to-xml.py
 	cat $< | virtual/bin/python3 layout/json-to-xml.py > $@
