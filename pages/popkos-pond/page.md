@@ -120,3 +120,20 @@ We found a better use for the drink. We sacrificed it to the forest spirits. Aft
 Popko's pond is no longer purely Popko's. For years, I was already removing willow, bramble, Japanese knotweed, and oak. The fence project involved yet another input, from Edwin Kielman. But, mostly it was Popko who put something in there these 40 years ago, letting the future twirl through it quite naturally (sometimes in the form of me mindlessly removing the woody plants that are not bog myrtle). Then, Marilisa, with my help, took what time had built and sculpted at it, stopping in time to leave plenty of the work of nature intact. Now, it's up to nature to continue its work on this new base. Meanwhile, I'll be removing willow, bramble, Japanese knotweed, and oak.
 
 <iframe data-aspect-ratio="1.77" src="https://www.youtube.com/embed/HkzF78YrZMs?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
+
+<!--
+Feedback from Annemarie:
+> […] ik denk dat P een foto heeft waar hij al gravend op staat. Maar vind die maar es. 
+> En als gemiste docent heb ik nog wat opmerkingen over t stukje, oa over t engels, vreemd genoeg.
+> Zal iets te maken hebben met al die crimies en romans waarin moerassen en heidevelden figureren.
+> Correct me when I 'm wrong...
+> Heideveld is moor of heath
+> Turf is peat, behalve in Schotland, volgens mijn woordenboek is t daar ook turf
+> Van wat jij peat noemt weet ik niet of t klopt
+> Is t een idee om de ligging vd besproken plekken op een hoop te gooien ( noord nederland,norg, drente)?
+> Ipv de brick facade zou je ms glass facade kunnen doen
+> ..loose pile next to the vegetable...plot?
+> Het stukje v d surprises rammelt een beetje
+> Bij surprise 2 staat location ipv located
+> Dat was t wel zo een beetje. Veel verder schrijfplezier. 😏
+-->
