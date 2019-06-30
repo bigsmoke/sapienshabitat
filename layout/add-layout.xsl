@@ -117,7 +117,11 @@
       </div>
       <nav class="insert__sibling-nav">
         <div class="insert__sibling-scroll">
-          <span class="insert__sibling-scroll-icon js-triggerHorizontalScrollingOfArticleListInInsert" data-scroll-direction="left">◀</span>
+          <span class="insert__sibling-scroll-icon js-triggerHorizontalScrollingOfArticleListInInsert" data-scroll-direction="left">
+            <svg class="insert__sibling-scroll-icon-svg" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+              <polygon points="0,50 100,100 100,0" fill="currentColor"/>
+            </svg>
+          </span>
         </div>
         <ul class="insert__sibling-list js-horizontallyScrollableArticleListInInsert">
           <xsl:for-each select="$meta/page[published and taxonomy/child::node()[name(.) = $taxonomy-term] = $taxonomy-value]">
@@ -146,7 +150,11 @@
           </xsl:for-each>
         </ul>
         <div class="insert__sibling-scroll">
-          <span class="insert__sibling-scroll-icon js-triggerHorizontalScrollingOfArticleListInInsert" data-scroll-direction="right">▶</span>
+          <span class="insert__sibling-scroll-icon js-triggerHorizontalScrollingOfArticleListInInsert" data-scroll-direction="right">
+            <svg class="insert__sibling-scroll-icon-svg" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+              <polygon points="0,0 100,50 0,100" fill="currentColor"/>
+            </svg>
+          </span>
         </div>
       </nav>
     </aside>

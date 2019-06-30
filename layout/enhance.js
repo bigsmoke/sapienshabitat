@@ -23,9 +23,10 @@ class SapiensHabitatEnhancements {
     var insertScrollHandlers = document.getElementsByClassName('js-triggerHorizontalScrollingOfArticleListInInsert');
     Array.prototype.forEach.call(insertScrollHandlers, function(scrollTriggerElement) {
       scrollTriggerElement.onclick = function(e) {
-        var articleList = e.target.closest('nav').querySelector('.js-horizontallyScrollableArticleListInInsert');
+        var scrollTrigger = e.target.closest('.js-triggerHorizontalScrollingOfArticleListInInsert');
+        var articleList = scrollTrigger.closest('nav').querySelector('.js-horizontallyScrollableArticleListInInsert');
         var scrollDirection = 1;
-        if (e.target.dataset.scrollDirection == 'left') {
+        if (scrollTrigger.dataset.scrollDirection == 'left') {
           scrollDirection = -1;
         }
         articleList.scrollBy(100 * scrollDirection, 0);

@@ -512,11 +512,13 @@ article {
     display: inline;
     font-family: inherit;
     font-weight: bold;
+    color: darken(@light-brownish-background-color, 25%);
   }
   & > .project-insert h4:after {
     font-size: 1.1rem;
     margin-right: .5ex;
     content: '.';
+    color: darken(@light-brownish-background-color, 25%);
   }
   @media (max-width: 647px) {
     & > .project-insert > .insert__content {
@@ -558,6 +560,7 @@ article {
   padding-bottom: .5em;
 }
 .article-body .insert__sibling-scroll {
+  box-sizing: border-box;
   padding: .3em;
   font-size: 2rem;
   display: flex;
@@ -581,6 +584,10 @@ article {
 .insert__sibling-scroll-icon:hover {
   cursor: pointer;
   opacity: 1.0;
+}
+.insert__sibling-scroll-icon-svg {
+  height: 1.5rem;
+  width: 1.5rem;
 }
 .insert__sibling-list {
   list-style-type: none;
