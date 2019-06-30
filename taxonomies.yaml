@@ -32,13 +32,18 @@ project:
 author:
     bigsmoke:
         author: Rowan Rodrik van der Molen
+        author-initials: RR
         insert: bigsmoke
     elfje-en-orkje:
         author:
             - Marilisa Laura Die van Herksen
             - Rowan Rodrik van der Molen
+        author-initials:
+            - MLD
+            - RR
     mldvh:
         author: Marilisa Laura Die van Herksen
+        author-initials: MLD
 scope:
     stijlloos:
         insert: stijlloos

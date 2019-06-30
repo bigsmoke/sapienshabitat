@@ -51,7 +51,7 @@
   </xsl:template>
 
   <xsl:template match="body">
-    <body id="top" class="js-scroll-up-detection-with-threshold" data-scroll-up-threshold-pixels-per-second="1000" data-scroll-up-threshold-milliseconds="100">
+    <body id="top" class="js-scroll-up-detection-with-threshold js-noscript" data-scroll-up-threshold-pixels-per-second="1000" data-scroll-up-threshold-milliseconds="100">
       <div class="site-container">
         <xsl:copy-of select="attribute::*"/>
 
@@ -98,15 +98,57 @@
           </div>
         </footer>
       </div> <!-- .site-container -->
+
+      <script>
+        <xsl:text disable-output-escaping="yes">
+          document.body.classList.remove('js-noscript');
+        </xsl:text>
+      </script>
     </body>
   </xsl:template>
 
   <xsl:template match="aside" mode="insert">
-    <aside>
+    <xsl:param name="taxonomy-term"/>
+    <xsl:param name="taxonomy-value"/>
+    <aside id="{$taxonomy-term}">
       <xsl:copy-of select="attribute::*"/>
       <div class="insert__content">
         <xsl:apply-templates select="child::node() | child::processing-instruction()"/>
       </div>
+      <nav class="insert__sibling-nav">
+        <div class="insert__sibling-scroll">
+          <span class="insert__sibling-scroll-icon js-triggerHorizontalScrollingOfArticleListInInsert" data-scroll-direction="left">◀</span>
+        </div>
+        <ul class="insert__sibling-list js-horizontallyScrollableArticleListInInsert">
+          <xsl:for-each select="$meta/page[published and taxonomy/child::node()[name(.) = $taxonomy-term] = $taxonomy-value]">
+            <xsl:sort select="date"/>
+            <li>
+              <xsl:attribute name="class">
+                <xsl:text>insert__sibling-article</xsl:text>
+                <xsl:if test="slug = $this-article-meta/slug">
+                  <xsl:text> insert__sibling-article--this</xsl:text>
+                </xsl:if>
+              </xsl:attribute>
+              <a class="insert__sibling-link" href="/{slug}/">
+                <div class="insert__sibling-date">
+                  <xsl:apply-templates select="date" mode="article-footer"/>
+                </div>
+                <div class="insert__sibling-title">
+                  <xsl:value-of select="title"/>
+                </div>
+                <div class="insert__sibling-author-container">
+                  <div class="insert__sibling-author-initials">
+                    <xsl:value-of select="author-initials"/>
+                  </div>
+                </div>
+              </a>
+            </li>
+          </xsl:for-each>
+        </ul>
+        <div class="insert__sibling-scroll">
+          <span class="insert__sibling-scroll-icon js-triggerHorizontalScrollingOfArticleListInInsert" data-scroll-direction="right">▶</span>
+        </div>
+      </nav>
     </aside>
   </xsl:template>
 
@@ -400,14 +442,20 @@
   <xsl:template match="processing-instruction('project-insert')">
     <xsl:variable name="project" select="$this-article-meta/taxonomy/project"/>
     <xsl:if test="$this-article-meta/insert[item=$project]">
-      <xsl:apply-templates select="document(concat('../blocks/', $project, '/block.xhtml5'))/aside" mode="insert"/>
+      <xsl:apply-templates select="document(concat('../blocks/', $project, '/block.xhtml5'))/aside" mode="insert">
+        <xsl:with-param name="taxonomy-term">project</xsl:with-param>
+        <xsl:with-param name="taxonomy-value" select="$project"/>
+      </xsl:apply-templates>
     </xsl:if>
   </xsl:template>
 
   <xsl:template match="processing-instruction('scope-insert')">
     <xsl:variable name="scope" select="$this-article-meta/taxonomy/scope"/>
     <xsl:if test="$this-article-meta/insert[item=$scope]">
-      <xsl:apply-templates select="document(concat('../blocks/', $scope, '/block.xhtml5'))/aside" mode="insert"/>
+      <xsl:apply-templates select="document(concat('../blocks/', $scope, '/block.xhtml5'))/aside" mode="insert">
+        <xsl:with-param name="taxonomy-term">scope</xsl:with-param>
+        <xsl:with-param name="taxonomy-value" select="$scope"/>
+      </xsl:apply-templates>
     </xsl:if>
   </xsl:template>
 
