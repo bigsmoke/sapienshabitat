@@ -9,12 +9,27 @@ class SapiensHabitatEnhancements {
   constructor() {
     this.initializeScrollDetection();
     this.initializeLocalLinkOverrides();
+    this.initializeHorizontalInsertScrolling();
   }
 
   initializeScrollDetection() {
     var scrollSensitiveContainers = document.getElementsByClassName('js-scroll-up-detection-with-threshold');
     Array.prototype.forEach.call(scrollSensitiveContainers, function(container) {
       new SapiensHabitatScrollDetector(container);
+    });
+  }
+
+  initializeHorizontalInsertScrolling() {
+    var insertScrollHandlers = document.getElementsByClassName('js-triggerHorizontalScrollingOfArticleListInInsert');
+    Array.prototype.forEach.call(insertScrollHandlers, function(scrollTriggerElement) {
+      scrollTriggerElement.onclick = function(e) {
+        var articleList = e.target.closest('nav').querySelector('.js-horizontallyScrollableArticleListInInsert');
+        var scrollDirection = 1;
+        if (e.target.dataset.scrollDirection == 'left') {
+          scrollDirection = -1;
+        }
+        articleList.scrollBy(100 * scrollDirection, 0);
+      }
     });
   }
 
