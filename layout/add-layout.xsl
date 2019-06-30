@@ -200,7 +200,6 @@
       </div>
 
       <div class="article-footer">
-        <xsl:apply-templates select="$this-article-meta/date" mode="article-footer"/>
         <xsl:apply-templates select="$this-article-meta/author" mode="article-footer"/>
       </div>
     </article>
