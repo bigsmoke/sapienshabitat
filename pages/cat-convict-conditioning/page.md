@@ -3,20 +3,37 @@ title: Convict conditioning for cats
 date: 2017-10-14
 taxonomy:
   author: bigsmoke
+keywords:
+  - cat
+  - convict conditioning
+  - Felis catus
+  - house cat
+  - indoor
+  - pet
 draft: yes
 ---
 
 # Convict conditioning for cats
 
-Our cats are felons. We don't trust them to conduct themselves properly outside the premises of our flat apartment. Therefore, we keep them locked up at all times. And, besides a few short escapades that ended with scaredly scurrying back up the stair well, they seem to have resigned to their indoors existence. Yet, their intense staring (and tail-wagging) at birds from the window reminds us that they are not, by nature, indoor creatures.
+Our cats are felons. We don't trust them to conduct themselves properly outside the premises of our flat apartment. Therefore, we keep them locked up at all times. And, besides a few short escapades that ended with scaredly scurrying back up the stair well, they seem to have resigned to their indoors existence. Yet, their intense staring (and tail-wagging) at birds at the other side of the window reminds us that they are not, by nature, indoor creatures.
 
-![The bird channel provides a welcome distraction when the cats won't leave me alone in the morning and keep butting into me to demand stimulation. This happens when there are no real-life birds in front of our flat window to gaze at with murder in their eyes.](2018-12-31_Cats_watching_the_bird_channel.jpg){.semi-text-width width="2068" height="3074"}
+![The bird channel provides a welcome distraction when the cats won't leave me alone in the morning and keep butting into me to demand stimulation. This happens when there are no real-life birds in front of our flat window to gaze at with sweet murder in their eyes.](2018-12-31_Cats_watching_the_bird_channel.jpg){.semi-text-width width="2068" height="3074"}
 
 ## Exercising the beast
 
-I can think of 3 ways in which the indoor cat's inner beast can get frustrated: ❶ when its hunter-killer instinct is frustrated; ❷ when there are no grassy leafs to get that slimy hairball out their stomach and onto our bed sheets; or ❸ if it can't scratch, climb, and recline in high places.
+![Knabbel climbing.](2018-05-12_Knabbel_cat_is_indoor_climbing.jpg){.narrow width="4032" height="3024"}
 
-Cats are asocial creatures in the wild, where they live in family groups sometimes, but never hunt together. I have known domestic cats—a bunch that used to live with my mother—to gang up on other cats; so there _is_ that so-recognizable tribal element to them. Dinkie and Knabbel are not from the same nest; Knabbel is a few months older, but from the moment Dinkie joined our family group, they've functioned as siblings. Even now, at 3+ years old, they insist on running after each other like maniacs and play-fighting regardless of whether the other is actually play-fighting back or … just fighting, because he or she is annoyed with the aggressive insistence of the other. Knabbel and Dinkie are thoroughly domesticated; their infantile behaviours have persisted into adulthood, making them great companions also for us humans, with their regular begging for attention and overal cuddly demeanors. Their intra- and inter-species social behaviour is so un-wild-like that I wouldn't rate is as necessary to keep their inner wild cat from growing frustrated; but let me number it ⓿, because they do _appear_ to cherish all the attention from us and from each other.
+I can think of 3 ways in which the indoor cat's inner beast can get frustrated: ❶ when its hunter-killer instinct is frustrated; ❷ when there are no grassy leafs to get that slimy hairball out their stomach and onto our bed sheets; or ❸ if it can't scratch, climb, and recline in trees.
+
+![100% asocial?](2017-01-01_Cat_huddle.jpg){.narrow width="1344" height="760"}
+
+Cats are asocial creatures in the wild, where they live in family groups sometimes, but never hunt together. I have known domestic cats—a bunch that used to live with my mother—to gang up on other cats; so there _is_ that so-recognizable tribal element to them. Dinkie and Knabbel are not from the same nest; Knabbel is a few months older, but from the moment Dinkie joined our family group, they've functioned as siblings. Even now, at 3+ years old, they insist on running after each other like maniacs and play-fighting regardless of whether the other is actually play-fighting back or … just fighting, because he or she is annoyed with the aggressive insistence of the other. You can debate the overal intelligence of cats, and we suspect Dinkie to be significantly smarter than Knabbel, but you cannot debate their _social_ intelligence; there's just nothing there to debate; their clear disregard for each other's intentions is too absolute to be explained away by their egotistic psychopathy.
+
+Knabbel and Dinkie are thoroughly domesticated; their infantile behaviours have persisted into adulthood, making them great companions also for us humans, with their regular begging for attention and overal cuddly demeanors. Their intra- and inter-species social behaviour is so un-wild-like that I wouldn't rate is as necessary to keep their inner wild cat from growing frustrated; but let me number it ⓿, because they do _appear_ to cherish all the attention from us and from each other.
+
+![Knabbel—herself still a kitten at the time—became much less demanding for attention from us when she got an even smaller companion.](2016-09-21_Kittens_embracing_on_the_couch.jpg){.semi-text-width width="4128" height="2322"}
+
+![Meanwhile, Dinkie has grown even bigger than Knabbel. He's a thick, warm blanket—just a bit sharp at the ends sometimes, when he's kneeding our skin.](2018-03-05_Cat_cleaning_itself_while_laying_on_top_of_owner.jpg){.semi-text-width width="4032" height="3024"}
 
 We don't want Knabbel or Dinkie to end up bored, fat and lazy (in that order). We've had mixed success with our various counter-measures.
 
@@ -39,9 +56,21 @@ After having resigned to the fact that we cannot match our cats on The Hare Psyc
 
 To keep Dinkie his greedy little mouth out of certain plants—especially seedlings—and his his proud little anus out of the nice, loose pot soil, we riddle the pots with skewers and upturned forks. This helps, to some extent.
 
+![dsfdsf](2017-07-28_Cat_in_cat_grass.jpg){.text-width width="1600" height="866"}
+
 ### High climbers ☑{#high-climbers}
 
+Cats like to climb. They feel safest in very high places. The wild ancestors of Knabbel and Dinkie spent a lot of their time in trees. There are trees growing in front of and in the back of our apartment. These trees even host birds.
+
+![I ](2017-07-30_Oak_heartwood_jungle_gym_for_cats.jpg){.text-width width="1300" height="900"}
+
 dfdfd
+
+sdsf
+
+![sdfdf](2017-07-30_Dinkie_attacking_the_indoor_tree_trunk.jpg){.semi-text-width width="900" height="1600"}
+
+![Knabbel so much less afraid …](2018-09-08_Knabbel_cat_was_wounded_after_her_slip_over_the_balkony_rail.jpg){.semi-text-width width="4032" height="3024"}
 
 <!-- TODO: Knabbel's almost-suicide -->
 
