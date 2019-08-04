@@ -1,8 +1,10 @@
 ---
 title: Convict conditioning for cats
 date: 2017-10-14
+published: 2019-08-04
 taxonomy:
   author: bigsmoke
+  scale: home
 keywords:
   - cat
   - convict conditioning
@@ -10,7 +12,6 @@ keywords:
   - house cat
   - indoor
   - pet
-draft: yes
 ---
 
 # Convict conditioning for cats
@@ -23,7 +24,7 @@ Our cats are felons. We don't trust them to conduct themselves properly outside 
 
 ![Knabbel climbing.](2018-05-12_Knabbel_cat_is_indoor_climbing.jpg){.narrow width="4032" height="3024"}
 
-I can think of 3 ways in which the indoor cat's inner beast can get frustrated: ❶ when its hunter-killer instinct is frustrated; ❷ when there are no grassy leafs to get that slimy hairball out their stomach and onto our bed sheets; or ❸ if it can't scratch, climb, and recline in trees.
+I can think of 3 ways in which the indoor cat's inner beast can get frustrated: ❶ when its [hunter-killer instinct](#hunter-killers) is frustrated; ❷ when there are no [grassy leafs](#grazers) to get that slimy hairball out their stomach and onto our bed sheets; or ❸ if it can't scratch, [climb](#high-climbers), and recline in trees. ❹ [Flossing](#flossers) is also important.
 
 ![100% asocial?](2017-01-01_Cat_huddle.jpg){.narrow width="1344" height="760"}
 
@@ -35,7 +36,7 @@ Knabbel and Dinkie are thoroughly domesticated; their infantile behaviours have 
 
 ![Meanwhile, Dinkie has grown even bigger than Knabbel. He's a thick, warm blanket—just a bit sharp at the ends sometimes. All his miaowing tricks our brain into believing that he's some sort of needly toddler. Adult cats don't miaow to each other. Only as a kitten, do they miaow at their mother.](2018-03-05_Cat_cleaning_itself_while_laying_on_top_of_owner.jpg){.semi-text-width width="4032" height="3024"}
 
-### Hunters and killers ☐{#hunter-killers}
+### ❶ Hunters and killers ☐{#hunter-killers}
 
 For all their cuddly exterior (and their purring, and their cute, little head bunts), what cats like to do most is to cuddle a crunchy little bird to death between their cute cat teeth. Cats can be cute to their owners, but they are horrible in the way that they torture their prey before finally granting them the mercy of the kill.
 
@@ -50,7 +51,7 @@ After having resigned to the fact that we cannot match our cats on The Hare Psyc
 
 Knabbel's racing vehicle of choice would be beefed-up destruction derby car. Dinkie would prefer a batmobile. He is as precize in his movement as Knabbel is nonchalant. Because ‘mom’ and ‘dad’ are often otherwise occupied, most of their daily chasing practice comes from adjusting to each other's disparate attack and counter-attack styles. From the moment that Dinkie entered Knabbel's life, he has been able to sneak up on her _while_ she was actively chasing him. When she does spot him, she'll storm right through him.
 
-### Grass eaters ☑{#grass-eaters}
+### ❷ Grass eaters ☑{#grazers}
 
 <i lang="la">Felis catus</i> is an obligate carnivore, meaning that they don't digest plant material well. Why then do they insist on eating up so many of our precious house plants? Why, I ask you in particular, Dinkie?!
 
@@ -60,7 +61,7 @@ We hoped that cat grass—I haven't determined the variety the garden center sel
 
 ![We've tried to tell Dinkie that he's too big for this pot. He'll sleep in it regardless, even when the soil is all clammy. There's another hint in this picture that wetness doesn't bother him much.](2017-07-28_Cat_in_cat_grass.jpg){.text-width width="1600" height="866"}
 
-### High climbers ☑{#high-climbers}
+### ❸ High climbers ☑{#high-climbers}
 
 Cats like to climb. They feel safest in high places. The wild ancestors of Knabbel and Dinkie spent a lot of their time in trees. There are trees growing in front of and in the back of our apartment. These trees even host birds. Yet, overprotective helicopter cat parents that we are, we never let them go outside. Instead, I fabricated a toy tree of sorts from the dry, mangly heartwood of oak.
 
@@ -76,16 +77,18 @@ Compare that to Dinkie, who, when he finally started climbing the ‘tree’, ke
 
 When I'm laying below my indoor climbing construction for cats, I'm often reminded of how proud I am of this project. The reasons why are numerous:
 
-1. The gnarly, dry, oak heartwood looks pretty—pretty enough that it has been mistaken for a wall decoration. Well, it _is_ a wall decoration, but it's a… Yeah, it's a decorative cat toy.
+1. The gnarly, dry, oak heartwood looks pretty—pretty enough that it has been mistaken for a wall decoration. Well, it _is_ a wall decoration, but it's a… Alright, it's a decorative cat toy.
 2. The branches are from an unused heap of heartwood in my father's terrain (“De Oude Molensteen”). I'm proud to have a father who has these kinds of collections, and he and his home-made nature reserve—“De Oude Molensteen”—will star in many articles to come.
-3. Speaking of my father, he was always “going to” build these cool things for his kids. Sometimes he followed through. As he got deeper and deeper into a losing company, this became increasingly rare. I recognized this pattern in myself as a cat dad (except that I had _always_ been all talk and no play): as soon as Marilisa and I convicted our first cat to an indoor existence, I started thinking (and talking) about making some kind of climbing construction with wood from the forest; it took me a good year or so to actually follow through. But, damn, did it feel good to turn potential into actuality and to look at the finished result. Now I was not just this great cat dad in _theory_, in some hypothetical future with unlimited time…
-4. Slippery, hard, narrow: challenging
-5. Brought home by bicycle cart/trailer.
+3. Speaking of my father, he was always “going to” build these cool things for his kids. Sometimes he followed through. As he got deeper and deeper into a losing company, this became increasingly rare. I recognized this pattern in myself as a cat dad (except that I had _always_ been all talk and no play): as soon as Marilisa and I convicted our first cat to an indoor existence, I started thinking (and talking) about making some kind of climbing construction with wood from the forest; it took me a good year or so to actually follow through. But, darn, did it feel good to turn potential into actuality and to look at the finished result. Now I was not just this great cat dad in _theory_—in some hypothetical future with unlimited time…
+4. The branches are narrow and hard—in other words: difficult to negotiate; if you have claws; you're going to have to use them. Even when driving with your nails strongly, one or two paws will often slip away. That's when the cats get to practice their pull-ups.
+5. I transported the oak cores (+ some long screws & plugs) home by bicycle cart/trailer. We don't have a car. We don't _want_ to have a car. After all, ‘dad’ also needs his share of discomfort to stay healthy and happy. Comfort breeds laziness breeds weakness breeds discontent breeds more comfort breeds more weakness, <i lang="la">ad nauseam</i>, until the discomfort can no longer be bought off by more luxury.
 
-<!-- TODO: Knabbel's almost-suicide -->
+![By the scratch marks, you can see how difficult it is to get a grip on the dry oak core. Knabbel is fine with that. Falling is fine with her. I don't know if she genuinely doesn't care about the discomfort or whether she has a high pain threshold. She certainly _did_ care when she fell over the balcony rail. The poor creature was in shock.](2018-05-12_Knabbel_cat_is_indoor_climbing.jpg){.text-width width="4032" height="3024"}
 
-![sdfdsf](2018-05-12_Knabbel_cat_is_indoor_climbing.jpg){.text-width width="4032" height="3024"}
+### ❹ Don't forget to floss ☑{#flossers}
 
-### Credits
+I could have grouped _plucking_ under [_Hunters and killers_](#hunter-killers). Yet, their—especially Dinkie's—urge to run rope through their teeth seems separate from the chase and kill. Marilisa often exclaims how uncomfortable it seems when they're pulling apart rope with teeth and gum, and I think that that is precisely the point. It must feel awful, and they love it. If they don't love it, they at least need it to stay sane and not too tame.
 
-Howard Bloom and his [story about the naked ocelot](https://youtu.be/8Z3uHFN7wPI) made clear for me the idea that there's an animal in each of our brains, and that that animal needs exercise in order to stay healthy.
+Just like [the naked ocelot in Howard Bloom's story](https://youtu.be/8Z3uHFN7wPI). His story made clear to me that there's an animal in each of our brains, and that that animal needs exercise to stay healthy. He tells of a naked ocelot that kept destroying its own until the zoo provided him with the discomfort of actual feathers to pluck. His food had been too easy to process, frustrating his instinct of having to deal with mouthfuls of annoying feathers that got into his nose and everywhere to make him miserable. Once that essential misery was provided, the beast's fur was soon restored to its full, healthful glory.
+
+Beware of being too comfortable too often for too long!
