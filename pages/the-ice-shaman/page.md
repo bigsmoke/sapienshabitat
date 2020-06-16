@@ -13,11 +13,11 @@ taxonomy:
 draft: true
 ---
 
-# The Ice Shaman, my inner fire, and the rekindling of the wild ape within
+# The Ice Shaman and the rekindling of my inner fire
 
-“The Ice Shaman.” I couldn't have come up with a better title for Wim Hof myself. Usually, Wim is dubbed The Ice Man, but Russell Brand's “The Ice Shaman” suits him so much better. Whether you see him in interviews or documentaries, as soon as Wim starts coaching anyone in his signature breathing method or through an ice bath, he's more shaman than coach. He may even randomly start chanting, singing and playing the guitar. Some describe him as a force of nature. That may be pushing it. Rather, he is _aligned to_ the full force of nature, _and_ his method can help me and you re-align too.
+“The Ice Shaman.” I couldn't have come up with a better title for Wim Hof myself. Usually, Wim is dubbed The Ice Man, but Russell Brand's “The Ice Shaman” suits him so much better. Whichever interview or documentary he finds himself in, as soon as Wim starts coaching anyone in his signature breathing method or through an ice bath, he's more shaman than coach. He may even randomly start chanting, singing and playing the guitar. Some describe him as a force of nature. That may be pushing it. Rather, he is _aligned to_ the full force of nature, _and_ his method can help me and you re-align too.
 
-Unlike Russell, I never met Wim myself. But, without ever meeting, The Ice Shaman managed to rekindle my interest in the cold. He did that by sheer means of being _out there_, with his Wim Hof Method freely distributed through the Internet, via interviews, and in documentaries. His mission? Healthier, happier people. He may yap a lot about the “scientifically-proven” benefits of cold exposure and breath holding. Especially for the health benefits of breath holding, there is some proof. But, I don't care. What I care about is that he wants people to believe that they are _strong_. I think the most important part of his method—of his unkempt energy—is that he makes people believe. He and his method remind us of something we've long forgotten—something that our parents' parents had for the most part already forgotten. He reminds us that we are _strong_, so strong that we can withstand the freezing cold … in nothing but our birth suit. To me, Wim is undoubtedly The Ice Shaman because he has fully mastered the placebo effect! And that's better than any medicine for most ailments, in particular the ailment of being a weak-willed creature tamed by a homeostasis that is ever too easy to acquire in its luxury cage.
+Unlike Russell, I never met Wim myself. But, without ever meeting, The Ice Shaman managed to rekindle my interest in the cold. He did that by sheer means of being _out there_, with his Wim Hof Method freely distributed through the Internet, via interviews, and in documentaries. His mission? Healthier, happier people. He may yap a lot about the “scientifically-proven” benefits of cold exposure and breath holding. And, especially for the health benefits of breath holding, there is some proof. But, I don't care. What I care about is that he wants people to believe that they are _strong_. I think the most important part of his method—of his unkempt energy—is that he makes people believe. He and his method remind us of something we've long forgotten—something that our parents' parents had for the most part already forgotten. He reminds us that we are _strong_, so strong that we can withstand the freezing cold … in nothing but our birth suit. To me, Wim is undoubtedly The Ice Shaman because he has fully mastered the placebo effect! And that's even better than the most cutting edge of modern medicine for most contemporary ailments, in particular the ailment of being a weak-willed creature tamed by a homeostasis that is ever too easy to acquire in its luxury cage.
 
 My personal tale of the cold starts not when I first started taking cold showers (which must have been somewhere between the start of the new millennium and the end of the previous one). Chronology fits this story like the clothes you best discard before jumping in the ice-cold water. Instead, this story start quite close to the present, in February of this year (2020), when I visited my brother Jorrit at the [beautiful camping in the Dordogne region of France](https://www.termedastor.com/en/) where he works and lives.
 
@@ -38,6 +38,25 @@ When you've decided that you're going to plonge into ice-cold water, you're ofte
 dsdsfdsf
 
 ![“I defy thee, god of the cold!”](WhatsApp_Image_2020-02-14_at_22.39.46_Defying_the_god_of_cold.jpeg){.text-width width="1616" height="912"}
+
+<!-- It's not about taming/dulling the pain and unpleasantness. -->
+<!-- You have to become more, not less sensitive to the cold. -->
+
+## What's that smouldering still deep inside me?
+
+I've long had a love-hate relationship with comfort. Once, I wrote a poem called “Far below luxery lives beauty”, and I quite meant it, although it was a shitty poem. I started experimenting with cold showers around the turn of the century, because there was something in there that I felt I needed, and I think it took me a year—maybe two—before I decided to henceforth only take cold showers. Why? I think I wouldn't have been able to give you an honest answer at the time. When pressed, I would have said ① that warm water made my skin dry and itchy. At its worst, it gave me eczema and dandruff. ② Cold water is more refreshing and woke me up feeling way more energized. Plus, I discovered ③ that cold water is in many places where hot water isn't. When you get used to cold showers, you can even just hose yourself down with any old garden hose when there's no shower around. And the closest I came to the truth was when I said ④ that no matter how crappy I feel about myself, when I place myself under a cold shower, there's a sense of accomplishment.
+
+The honest answer would have been ⑤ that the cold made me briefly feel alive, while most of the rest of the time I wasn't even sufficiently attuned to my feelings to feel the numbness inside.
+
+Yet, there was an enormous difference between taking a cold shower (which, when you get used to it, is usually quite pleasant and refreshing, especially after exercise) and fully immerging yourself in cold water, especially when the cold water is situated outside in unpleasant weather.
+
+If I had been aware of ⑤—that the unpleasant aspect of the cold actually had something to teach me—I might have not fallen of the bandwagon of cold exploration. I must emphasize that at this time I was self-driven to explore the cold. I did not yet know (or, at least, hardly knew) about Wim Hof, and definitely his method hadn't yet caught on in a way that it had become visible to me.
+
+Cold immersions never felt quite as good as cold showers. Sometimes, it felt nice and tingly for a while to then soon get terrible. Other times, it started deeply unpleasant, then a warm glow would come over me, and, out of the water, I would become terribly blue and shivery. When I was just washing myself in a little stream in December, it felt good. And then the first time I tried swimming in November, I could hardly even close the zipper of my coat afterwards.
+
+After about 10 years of cold showers and the occassional full immergence, fell off of my practice in my early thirties, because I felt that ⓐ  I wasn't making any progress, and ⓑ  what proof did I have that this was actually doing me any good?
+
+Then, after a couple of years of just showering at whichever temperature I felt like, I started to notice that, when diving, where I used to be fine diving in December in a wetsuit, I was finding it more and more difficult to handle the cold. The cold just seemed to have gotten colder! (The North Sea water doesn't usually drop below 5 – 6°C in winter.)
 
 ----
 
