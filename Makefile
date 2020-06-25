@@ -13,6 +13,7 @@ TMP_TAXON_JSON := taxonomies.json  # JSON is easier than YAML to convert to XML.
 TMP_TAXON_XMLI := taxonomies.xml   # The XMLInclude that's loaded through the XSLT document() function.
 
 SRC_IMAGES := $(wildcard pages/*/*.jpeg) $(wildcard pages/*/*.JPEG) $(wildcard pages/*/*.jpg) $(wildcard pages/*/*.JPG)
+SRC_IMAGES := $(shell find pages/*/ -type f \( -iname "*.jpeg" -or -iname "*.jpg" \))
 IMG_SOURCE = $(patsubst htdocs/%,pages/%,$1)
 IMG_SCALED = $(join $(addsuffix img-$(2)w/,$(dir $(call IMG_COPIED,$1))),$(notdir $(call IMG_COPIED,$1)))
 IMG_COPIED = $(patsubst pages/%,htdocs/%,$1)
@@ -102,7 +103,7 @@ $(TMP_TAXON_XMLI): $(TMP_TAXON_JSON) virtual/bin/python3 layout/json-to-xml.py
 
 .INTERMEDIATE:
 $(TMP_TAXON_JSON): $(SRC_TAXON_YAML) virtual/bin/python3 layout/yaml-to-json.py
-	cat $< | virtual/bin/python3 layout/yaml-to-json.py > $@ 
+	cat $< | virtual/bin/python3 layout/yaml-to-json.py > $@
 
 .INTERMEDIATE:
 %/page.plain.html5 : %/page.md

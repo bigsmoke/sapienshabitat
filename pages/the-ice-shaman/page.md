@@ -3,7 +3,9 @@ title: The Ice Shaman, my inner fire, and the rekindling of the wild ape within
 keywords:
   - breath
   - cold water
+  - innner fire
   - inner rewilding
+  - prāṇāyāma
   - Wim Hof
   - Wim Hof Method
 taxonomy:
@@ -19,23 +21,32 @@ draft: true
 
 Unlike Russell, I never met Wim myself. But, without ever meeting, The Ice Shaman managed to rekindle my interest in the cold. He did that by sheer means of being _out there_, with his Wim Hof Method freely distributed through the Internet, via interviews, and in documentaries. His mission? Healthier, happier people. He may yap a lot about the “scientifically-proven” benefits of cold exposure and breath holding. And, especially for the health benefits of breath holding, there is some proof. But, I don't care. What I care about is that he wants people to believe that they are _strong_. I think the most important part of his method—of his unkempt energy—is that he makes people believe. He and his method remind us of something we've long forgotten—something that our parents' parents had for the most part already forgotten. He reminds us that we are _strong_, so strong that we can withstand the freezing cold … in nothing but our birth suit. To me, Wim is undoubtedly The Ice Shaman because he has fully mastered the placebo effect! And that's even better than the most cutting edge of modern medicine for most contemporary ailments, in particular the ailment of being a weak-willed creature tamed by a homeostasis that is ever too easy to acquire in its luxury cage.
 
-My personal tale of the cold starts not when I first started taking cold showers (which must have been somewhere between the start of the new millennium and the end of the previous one). Chronology fits this story like the clothes you best discard before jumping in the ice-cold water. Instead, this story start quite close to the present, in February of this year (2020), when I visited my brother Jorrit at the [beautiful camping in the Dordogne region of France](https://www.termedastor.com/en/) where he works and lives.
+My personal tale of the cold starts not when I first started taking cold showers (which must have been somewhere between the start of the new millennium and the end of the previous one). Chronology fits this story like the clothes you best discard before jumping in the ice-cold water. This story start quite close to the present, in February of this year (2020), when I visited my brother Jorrit at the [beautiful camping in the Dordogne region of France](https://www.termedastor.com/en/) where he works and lives.
 
 ![The story starts here, at Terme d'Astor, a nudist camping in Southern France—Jorrit's home base.](2020-01-31_18.23_Evening_mist_around_the_hill_of_Terme_d_astor.jpg){.text-width width="4032" height="3024"}
 
 The plan was that I would carry on my discipline as I normally would: 6 days / week, get up at 6ᴬᴹ; twice daily, exercise, thrice daily, meditate; and semi-daily, immerse myself in the cold. Jorrit had a slightly different routine. His morning ritual: make coffee, roll a cigarette, and sip coffee on the veranda while smoking. His evening ritual: drink, and smoke cigarettes on his veranda while drinking the oppossite of coffee. But something—actually someone—a rather attractive lady—had rekindled the desire in him to live his life consciously. That spark soon turned into a smouldering fire and he no longer wished to remain knocked unconscious by the various substances he had so long relied on to run away from the pain. His cynicism was cracking under the pressure of love.
 
-My disciplined daily routine did not survive the onslaught of two volumes from Robert Jordan's <cite>Wheel Of Time</cite> series. After a few nights of “just one more chapter”, I struggled to get out of bed even _near_ six and I depended on coffee to stay just the slightest bit awake during the day. Incidentally, coffee is the one drug that Jorrit didn't quit that week. [We both quit a couple of months later.](https://youtu.be/CT1NB7YRedk) So, yeah, Jorrit quit drinking _and_ smoking, cold turkey. We worked out together. We talked. We talked some more. It had been years since I last visited him and even more years since I last visited him _alone_, for some bro time. And my bro was no longer the cynical ass you used to be. We had some catching up to do. And we meditated. But, most importantly, we faced the discomfort, pain and general unpleasantness of the cold … together.
+My disciplined daily routine did not survive the onslaught of two volumes from Robert Jordan's <cite>Wheel Of Time</cite> series. After a few nights of “just one more chapter”, I struggled to get out of bed even _near_ six and I depended on coffee to stay just the slightest bit awake during the day. Incidentally, coffee is the one drug that Jorrit didn't quit that week. [We both quit a couple of months later.](https://youtu.be/CT1NB7YRedk) So, yeah, Jorrit quit drinking _and_ smoking, cold turkey. We worked out together. We talked. We talked some more. It had been years since I last visited him and even more years since I last visited him _alone_, for some bro time. And my bro was no longer the cynical ass he used to be. We had some catching up to do. And we meditated. But, most importantly, we faced the discomfort, pain and general unpleasantness of the cold … together.
 
 Here's one part of the story where chronology matters: first, we started facing the cold together; then, Jorrit quit smoking and drinking. He did not quit as a direct result of cold immergence. It had everything to do with wanting to live and wanting a shot at love. And the cold? Helped.
 
 When you've decided that you're going to plonge into ice-cold water, you're often not precisely looking forward to it. If _you_ have never taken a cold bath, then imagine: You're standing there. The sun has just gotten clouded over, or maybe you feel raindrops on your naked skin. Yes, you're naked, unprotected. It's winter. Not summer. Not spring. Winter.
 
-![First, you stare into the cold, and the cold stares back into you. “Why?” you feebly ask yourself. But you've already decided.](2020-01-31_Wading_into_the_cold_soft_mud.jpeg){.semi-text-width width="1200" height="1600"}
+![First, you stare into the cold, and the cold stares back into you. “Why?” you feebly ask yourself. But you've already decided.](2020-01-31_Finding_my_courage_at_Terme_d_Astor.jpeg){.semi-text-width width="1200" height="1600"}
 
-![Then, you get into the cold, and the cold gets into you. And you let it. You must let it enter you to live. There's you “why.”](2020-01-31_Surrendering_to_the_cold_at_Terme_d_Astor.jpeg){.semi-text-width width="1200" height="1600"}
+![You go into the water, and, as expected, it's quite cold. In fact, it's colder than that.](2020-01-31_Wading_into_the_cold_soft_mud.jpeg){.semi-text-width width="1200" height="1600"}
 
-dsdsfdsf
+You walk in. That was the lucky part. Down the wildly forested slope of Terme d'Astor, there's an old loam pond that Jorrit deemed more suitable for our cold adventures than the slick swimming pool in the center. You could gradually walk into the loam, feet sacking slightly into the muddy, leavy top layer of the loam. Then, when the prickling got worse, you can just walk out again, giving your legs the opportunity to heat up.
+
+![Then, you get into the cold, and the cold gets into you. And you let it. You must let it enter you to live. There's your “why.”](2020-01-31_Surrendering_to_the_cold_at_Terme_d_Astor.jpeg){.semi-text-width width="1200" height="1600"}
+
+
+![Then, you get into the cold, and the cold gets into you. And you let it. You must let it enter you to live. There's your “why.”](2020-01-31_Fully_immerged_in_the_cold_loam_pond.jpeg){.semi-text-width width="1200" height="1600"}
+
+<iframe src="https://www.youtube.com/embed/qNRyN0NH49c?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" data-aspect-ratio="0.75"></iframe>
+
+sdfdsf
 
 ![“I defy thee, god of the cold!”](WhatsApp_Image_2020-02-14_at_22.39.46_Defying_the_god_of_cold.jpeg){.text-width width="1616" height="912"}
 
