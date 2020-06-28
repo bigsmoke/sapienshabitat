@@ -298,7 +298,7 @@
       <xsl:otherwise>
         <div class="figure__container figure__container--{$class}">
           <!-- Process the first of the two figure.semi-text-width siblings: -->
-          <xsl:apply-templates select="." mode="figure"/> 
+          <xsl:apply-templates select="." mode="figure"/>
 
           <xsl:if test="$side-by-side and $side-by-side-position = number('1')">
             <!-- Process the second of the two figure.semi-text-width siblings: -->
