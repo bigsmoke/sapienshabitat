@@ -122,17 +122,19 @@ Yogic memory goes farther back than our Western monotheistic religions do. Yogic
 
 <!-- TODO: foto's workshop -->
 
-## Of waterfalls, streams and turbulence
+## Of waterfalls and streams
 
 ![WHM workshop Okt. '19.](WHM_Workshop_Paul_Plasman_2019-10-19_DSC_0130.JPG){.narrow width="4030" height="2265"}
 
 Before facing it with my brother, there was something missing from my cold practice. I went about it as a monk. It was a ritual that I wanted myself to undergo, but only for as long and as deep (“into my physiology”) as was necessary to check the box &#9745; and be done. This hadn't be changed even with an official Wim Hof-branded group workshop by Paul Plasman in Groningen City. Bluntly said: I was skirting around the edges of the cold.
 
-The god of the cold, meanwhile, was patiently waiting. Jorrit and I met him in the loamy water at Terme d'Astor in Southern France. Then, we got in Jorrit's car and drove to Portugal, where, in the Ponte de Pedra valley, we met him time and time again, as did our sister and mother. In the rocky stream, flowing through their Portuguese property, there was no getting around communing with the painful simplicity of its cold currents.
+The god of the cold, meanwhile, was patiently waiting. Jorrit and I met her in the loamy water at Terme d'Astor in Southern France. Then, we got into Jorrit's car and drove to Portugal, where, in the Ponte de Pedra valley, we met her time and time again, as did our sister and mother. In the rocky stream, flowing through their Portuguese property, there was no getting around communing with the painful simplicity of its cold currents.
 
 ![“I defy thee, god of the cold!”](WhatsApp_Image_2020-02-14_at_22.39.46_Defying_the_god_of_cold.jpeg){.text-width width="1616" height="912"}
 
-I am of the microbial faith.
+Nature-technically, of course, there is no god of the cold. There is just cold. Yet, mythologically, the elements are as alive as you and me, and the cold is particularly alive. “Of all the gods, Death only craves not gifts[…]” – Aeschylus, 525 BC – 456 BC. The cold _does_ request its due: you have to offer her your breath—your breath or your life. So, fuck physics. Physics ultimately cause my mental models, but my mental processes aren't modelled around physics. They're modelled around what has meaning. Gods are alive for the very obvious reason that the elements are alive to me. And as soon as you exit the comforts of contemporary live, even temporarily, the gods and all that other dirty mythological business from the past comes rushing right back in! Even your blood suddenly holds more power than its biological constituents (as awe-inspiring as these are in and of itself).
+
+And I speak of gods—plural—because there's no restraining it even to the neat model of monotheism. The cold brings you much farther back, to shamans and animism. The cold becomes an animated force if you surrender to it, in such a pagan way that the medieval Church would try to kill it with fire. The cold imbues the human spirit with the kind of magic that the monotheists and the atheists have sought to destroy. It leads almost inevitably to a kind of faith in the supernatural. What do I mean by that? If you consciously link the natural processes within and without, that in itself is already a kind of magical thinking. Cause and effect get mixed up. You feel in control of things that ought to control _you_. You dare to surrender to things previously thought too harmful to even come near. Basically, you've followed the witch into the forest … and survived to tell the tale. She gave you a gift even—invigorated you. How can you then not end up with an irrational sort of belief in your own power? Ultimately, the placebo effect comes under your conscious control. What awesome power, and what a meagre name for what will be your signature power when you yourself have become an Ice Shaman.
 
 ![Luck had it that we did have a lot of sunshine. Not that it made the water any warmer, but it definitely helped when we got out.](2020-02-14_Jorrit_swimming_in_the_icy_stream_at_Ponte_de_Pedra_Portugal.JPG){.text-width width="4592" height="2584"}
 
