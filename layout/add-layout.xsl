@@ -425,13 +425,11 @@
             <xsl:apply-templates select="attribute::*"/>
           </iframe>
         </div>
-        <!--
-        <xsl:if test="@title">
+        <xsl:if test="@title and @data-show-caption">
           <figcaption class="video__figcaption">
             <xsl:value-of select="@title"/>
           </figcaption>
         </xsl:if>
-        -->
       </figure>
     </div>
   </xsl:template>
