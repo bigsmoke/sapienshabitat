@@ -73,7 +73,7 @@ body {
 }
 @media (max-width: 647px) {
   .site-header__butterfly-img {
-    max-width: 60px; 
+    max-width: 60px;
   }
 }
 @media (min-width: 648px) {
@@ -153,19 +153,6 @@ article {
 }
 
 .article-body {
-
-  ul {
-    margin-top: 0;
-  }
-  @media (max-width: 647px) {
-    ul {
-      margin-top: 0;
-      padding: 0;
-      padding-left: 2ex;
-      padding-right: 2ex;
-    }
-  }
-
   & > .video__container {
     margin: 1em 0;
     clear: both;
@@ -383,8 +370,47 @@ article {
     font-size: 400%;
   }
 
+  & ul,
+  & ol {
+    margin-top: 0;
+  }
+  @media (max-width: 647px) {
+    & ul {
+      margin-top: 0;
+      padding: 0;
+      padding-left: 2ex;
+      padding-right: 2ex;
+    }
+  }
+  & li {
+    margin-top: .5em;
+    margin-bottom: .5em;
+  }
+  & li:first-child {
+    margin-top: 0;
+  }
+  & li:last-child {
+    margin-bottom: 0;
+  }
+  & li > * {
+    margin-top: 1.25em;
+    margin-bottom: 1.25em;
+  }
+  & li > *:first-child {
+    margin-top: 0;
+  }
+  & li > *:last-child {
+    margin-bottom: 0;
+  }
+  & li > ul,
+  & li > ol {
+    margin-top: .5em;
+    margin-bottom: 0;
+    padding-bottom: .5em;
+  }
+
   & .twitter-tweet-wrapper {
-    // Work around <twitterwidget style="margin-top: 10px; margin-bottom: 10px;"> 
+    // Work around <twitterwidget style="margin-top: 10px; margin-bottom: 10px;">
     margin-top: 2em;
     margin-bottom: 2em;
   }
@@ -621,7 +647,7 @@ article {
   opacity: 0.8;
   filter: grayscale(0.4);
 }
-.insert__sibling-article--this, 
+.insert__sibling-article--this,
 .insert__sibling-article--this:hover {
   background-color: @light-brownish-background-color;
   opacity: 1.0;
@@ -649,7 +675,7 @@ article {
 .insert__sibling-author-initials {
   padding: 0 .5rem;
   transform: rotate(70deg);
-  font-size: .9rem; 
+  font-size: .9rem;
   color: black;
   font-weight: bold;
   line-height: 1em;
