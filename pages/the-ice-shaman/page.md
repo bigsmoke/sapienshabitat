@@ -259,8 +259,9 @@ My 2017 Wim Hof YouTube interview/documentary binge that rekindled my interest i
 
         > We've disowned the primitive, animal parts of our human nature. Time has come for the reclamation of our wild soul.
 
-For your own binge, you should definitely include:
-* <cite>Doctor Dissects the Wim Hof Method - Cold Hard Science Analysis</cite> https://youtu.be/D6EPuUdIC1E
+For your own binge, you should watch:
+
+* How Medlife Crisis's Rohan dissected the Wim Hof Method in his [<cite>“Cold Hard Science Analysis”</cite>](https://youtu.be/D6EPuUdIC1E)
 
 <div style="text-align: center;">&#x1f525;</div>
 
