@@ -31,7 +31,7 @@ Unlike Russell, I never met Wim myself. But, without ever meeting, The Ice Shama
 
 <div style="text-align: center;">&#x1f525;</div>
 
-My personal tale of the cold starts _not_ [when I first started taking cold showers](#cold-showers). Chronology fits this story like the clothes you best discard before jumping in the ice-cold water. Instead, this story start quite close to the present, in February of this year (2020), when I visited my brother Jorrit at the [beautiful camping in the Dordogne region of France](https://www.termedastor.com/en/), where he lingers.
+My personal tale of the cold starts _not_ [when I first started taking cold showers](#cold-showers). Chronology fits this story like the clothes you best discard before jumping in the ice-cold water. Instead, this story starts quite close to the present, in February of this year (2020), when I visited my brother Jorrit at the [beautiful camping in the Dordogne region of France](https://www.termedastor.com/en/), where he lingers.
 
 ![The story starts here, at Terme d'Astor, a nudist camping in Southern France—Jorrit's home base.](2020-01-31_18.23_Evening_mist_around_the_hill_of_Terme_d_astor.jpg){.text-width width="4032" height="3024"}
 
