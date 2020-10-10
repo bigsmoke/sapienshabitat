@@ -2,6 +2,8 @@
 title: De oesterzwam die geen oesterzwam bleek
 taxonomy:
   author: mldvh
+  scale: landscape
+  scope: produce
 keywords:
   - groene schelpzwam
   - late oyster
@@ -14,9 +16,11 @@ draft: no
 published: 2020-10-10
 ---
 
+# De oesterzwam die geen oesterzwam bleek
+
 Dit is een korte gastgijdrage van Marilisa, geschreven nadat we in december 2019 heel optimistisch een hap namen van wat een oneetbare ragou bleek te zijn. De dader: <i lang="la">Panellus serotinus</i>, ofwel de groene schelpzwam. Gek genoeg schijnen ze hem in Japan heerlijk te vinden. Daar noemen ze hem <i lang="ja">mukitake</i>. Doe mij/ons maar gewoon oesterzwam (<i lang="la">Pleurotus ostreatus</i>)!
 
-# De oesterzwam die geen oesterzwam bleek
+<?author-insert?>
 
 Wees gerust, dit is geen verhaal over een tiendaagse paddenstoelenvergiftiging waarvan je eerst dacht dat het een licht griepje was maar plots omslaat in meervoudig orgaanfalen. Dit scenario ging heel even door mij heen toen ik een exemplaar uit de pan viste en proefde dat er een bittere smaak aan dit zwammetje zat.
 

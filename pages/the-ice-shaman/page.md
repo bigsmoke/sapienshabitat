@@ -18,7 +18,6 @@ keywords:
   - Wim Hof Method
 taxonomy:
   author: bigsmoke
-  project: pppermaculture
   scope: spirit
 published: 2020-08-23
 ---

@@ -134,8 +134,8 @@
                 </xsl:if>
               </xsl:attribute>
               <a class="insert__sibling-link" href="/{slug}/">
-                <div class="insert__sibling-date">
-                  <xsl:apply-templates select="date" mode="article-footer"/>
+                <div class="insert__sibling-date-container">
+                  <xsl:apply-templates select="date" mode="insert"/>
                 </div>
                 <div class="insert__sibling-title">
                   <xsl:value-of select="title"/>
@@ -158,6 +158,64 @@
         </div>
       </nav>
     </aside>
+  </xsl:template>
+
+  <xsl:template match="date" mode="insert">
+    <xsl:variable name="month_number" select="substring-before(substring-after(., '-'), '-')"/>
+    <div class="insert__sibling-date-wrapper">
+      <time datetime="{.}" class="insert__sibling-date">
+        <span class="insert__sibling-month">
+          <span class="insert__sibling-month-name-short">
+            <xsl:choose>
+              <xsl:when test="$month_number = '01'">
+                <xsl:text>Jan</xsl:text>
+              </xsl:when>
+              <xsl:when test="$month_number = '02'">
+                <xsl:text>Feb</xsl:text>
+              </xsl:when>
+              <xsl:when test="$month_number = '03'">
+                <xsl:text>Mar</xsl:text>
+              </xsl:when>
+              <xsl:when test="$month_number = '04'">
+                <xsl:text>Apr</xsl:text>
+              </xsl:when>
+              <xsl:when test="$month_number = '05'">
+                <xsl:text>May</xsl:text>
+              </xsl:when>
+              <xsl:when test="$month_number = '06'">
+                <xsl:text>Jun</xsl:text>
+              </xsl:when>
+              <xsl:when test="$month_number = '07'">
+                <xsl:text>Jul</xsl:text>
+              </xsl:when>
+              <xsl:when test="$month_number = '08'">
+                <xsl:text>Aug</xsl:text>
+              </xsl:when>
+              <xsl:when test="$month_number = '09'">
+                <xsl:text>Sep</xsl:text>
+              </xsl:when>
+              <xsl:when test="$month_number = '10'">
+                <xsl:text>Oct</xsl:text>
+              </xsl:when>
+              <xsl:when test="$month_number = '11'">
+                <xsl:text>Nov</xsl:text>
+              </xsl:when>
+              <xsl:when test="$month_number = '12'">
+                <xsl:text>Dec</xsl:text>
+              </xsl:when>
+            </xsl:choose>
+          </span>
+          <span class="insert__sibling-date-part-seperator"><xsl:text>-</xsl:text></span>
+          <span class="insert__sibling-month-day">
+            <xsl:value-of select="substring-after(substring-after(., '-'), '-')"/>
+          </span>
+        </span>
+        <span class="insert__sibling-date-part-seperator"><xsl:text>-</xsl:text></span>
+        <span class="insert__sibling-year">
+          <xsl:value-of select="substring-before(., '-')"/>
+        </span>
+      </time>
+    </div>
   </xsl:template>
 
   <xsl:template name="footer-taxonomy">
@@ -450,6 +508,16 @@
       <xsl:apply-templates select="document(concat('../blocks/', $project, '/block.xhtml5'))/aside" mode="insert">
         <xsl:with-param name="taxonomy-term">project</xsl:with-param>
         <xsl:with-param name="taxonomy-value" select="$project"/>
+      </xsl:apply-templates>
+    </xsl:if>
+  </xsl:template>
+
+  <xsl:template match="processing-instruction('author-insert')">
+    <xsl:variable name="author" select="$this-article-meta/taxonomy/author"/>
+    <xsl:if test="$this-article-meta/insert[item=$author]">
+      <xsl:apply-templates select="document(concat('../blocks/', $author, '/block.xhtml5'))/aside" mode="insert">
+        <xsl:with-param name="taxonomy-term">author</xsl:with-param>
+        <xsl:with-param name="taxonomy-value" select="$author"/>
       </xsl:apply-templates>
     </xsl:if>
   </xsl:template>

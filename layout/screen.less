@@ -504,25 +504,23 @@ article {
     }
   }
 
-  & > .project-insert {
+  & > .insert {
     border-radius: 0 0 0 0;
-    background-color: darken(@light-brownish-background-color, 10%);
-    background-color: white;
+    background-color: #222;
     margin-top: 1.75em;
     margin-bottom: 2em;
     padding: 0;
-    color: black;
-    color: darken(@light-brownish-background-color, 35%);
     text-align: left;
+    color: lighten(@light-brownish-background-color, 10%);
   }
   @media (max-width: 647px) {
-    & > .project-insert {
+    & > .insert {
       margin-left: 0;
       margin-right: 0;
     }
   }
   @media (min-width: 648px) {
-    & > .project-insert {
+    & > .insert {
       box-sizing: border-box;
       display: block;
       width: 100vw;
@@ -531,25 +529,22 @@ article {
       right: 50%;
       margin-left: -50vw;
       margin-right: -50vw;
-      color: darken(@light-brownish-background-color, 35%);
     }
   }
-  & > .project-insert h4 {
+  & > .insert h4 {
     font-size: 1.1rem;
     margin: 0;
     display: inline;
     font-family: inherit;
     font-weight: bold;
-    color: darken(@light-brownish-background-color, 25%);
   }
-  & > .project-insert h4:after {
+  & > .insert h4:after {
     font-size: 1.1rem;
     margin-right: .5ex;
     content: '.';
-    color: darken(@light-brownish-background-color, 25%);
   }
   @media (max-width: 647px) {
-    & > .project-insert > .insert__content {
+    & > .insert > .insert__content {
       padding-top: .5em;
       padding-bottom: .5em;
       padding-left: @main-side-margin;
@@ -557,7 +552,7 @@ article {
     }
   }
   @media (min-width: 648px) {
-    & > .project-insert > .insert__content {
+    & > .insert > .insert__content {
       box-sizing: border-box;
       max-width: 70rem;
       margin-left: auto;
@@ -570,125 +565,161 @@ article {
       padding-right: @main-side-margin;
     }
   }
-  & > .project-insert p {
+  & > .insert p {
     font-size: 1.1rem;
     display: inline;
   }
-  & > .stijlloze-project-insert {
+  & > .insert--stijlloos {
     background-color: lighten(@stijlloos-roze, 0%);
   }
-}
-
-.insert__sibling-nav {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  box-sizing: border-box;
-  width: 100%;
-  padding-bottom: .5em;
-}
-.article-body .insert__sibling-scroll {
-  box-sizing: border-box;
-  padding: .3em;
-  font-size: 2rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  -webkit-user-select: none;
-  -webkit-touch-select: none;
-  -moz-user-select: none;
-  user-select: none;
-}
-.js-noscript .insert__sibling-scroll {
-  display: none;
-}
-.insert__sibling-scroll-icon {
-  cursor: pointer;
-  color: darken(@light-brownish-background-color, 30%);
-  opacity: 0.6;
-  transition: opacity 100ms linear;
-}
-.insert__sibling-scroll-icon:hover {
-  cursor: pointer;
-  opacity: 1.0;
-}
-.insert__sibling-scroll-icon-svg {
-  height: 1.5rem;
-  width: 1.5rem;
-}
-.insert__sibling-list {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  overflow: hidden;
-  flex-shrink: 2;
-}
-.js-noscript .insert__sibling-list {
-  overflow-x: scroll;
-}
-.insert__sibling-article {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  background-color: @light-brownish-background-color;
-  margin-right: .5em;
-  max-width: 17em;
-  min-width: 8em;
-  color: black;
-  opacity: 0.6;
-  transition: opacity 400ms linear, filter 400ms linear;
-  filter: grayscale(0.6);
-}
-.insert__sibling-article:hover {
-  opacity: 0.8;
-  filter: grayscale(0.4);
-}
-.insert__sibling-article--this,
-.insert__sibling-article--this:hover {
-  background-color: @light-brownish-background-color;
-  opacity: 1.0;
-  filter: grayscale(0.0);
-}
-.article-body .insert__sibling-link:hover {
-  background-color: transparent;
-}
-.article-body .insert__sibling-link {
-  text-decoration: none;
-  display: flex;
-  flex-direction: row;
-  justify-content: left;
-}
-.insert__sibling-date {
-  background-color: black;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-.insert__sibling-author-container {
-  padding-right: .5rem;
-  width: 1rem;
-}
-.insert__sibling-author-initials {
-  padding: 0 .5rem;
-  transform: rotate(70deg);
-  font-size: .9rem;
-  color: black;
-  font-weight: bold;
-  line-height: 1em;
-}
-.insert__sibling-title {
-  padding-top: .25em;
-  padding-left: .7em;
-  font-style: italic;
-  font-size: 1rem;
-  line-height: 1.2em;
-}
-.insert__sibling-author {
-  padding-left: 1em;
+  & .insert__sibling-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-sizing: border-box;
+    width: 100%;
+    padding-bottom: 1em;
+  }
+  & .insert__sibling-scroll {
+    box-sizing: border-box;
+    padding: .3em;
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    -webkit-user-select: none;
+    -webkit-touch-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  .js-noscript & .insert__sibling-scroll {
+    display: none;
+  }
+  & .insert__sibling-scroll-icon {
+    cursor: pointer;
+    color: darken(@light-brownish-background-color, 10%);
+    opacity: 0.6;
+    transition: opacity 100ms linear;
+  }
+  & .insert__sibling-scroll-icon:hover {
+    cursor: pointer;
+    opacity: 1.0;
+  }
+  & .insert__sibling-scroll-icon-svg {
+    height: 1.5rem;
+    width: 1.5rem;
+  }
+  & .insert__sibling-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    overflow: hidden;
+    flex-shrink: 2;
+  }
+  .js-noscript & .insert__sibling-list {
+    overflow-x: scroll;
+  }
+  // The specificity is needed to override the styling for regular list items.
+  & .insert__sibling-article {
+    box-sizing: border-box;
+    display: block;
+    margin: 0;
+    padding: 0;
+    background-color: @light-brownish-background-color;
+    margin-right: .5em;
+    max-width: 17em;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    min-width: 8em;
+    color: black;
+    opacity: 0.6;
+    transition: opacity 400ms linear, filter 400ms linear;
+    filter: grayscale(0.6);
+  }
+  & .insert__sibling-article:hover {
+    opacity: 0.8;
+    filter: grayscale(0.1);
+  }
+  & .insert__sibling-article--this,
+  & .insert__sibling-article--this:hover {
+    background-color: @light-brownish-background-color;
+    opacity: 1.0;
+    filter: grayscale(0.0);
+  }
+  & .insert__sibling-link:hover {
+    background-color: transparent;
+  }
+  & .insert__sibling-link {
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+  }
+  & .insert__sibling-date-container {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  & .insert__sibling-date {
+    display: flex;
+    flex-direction: column;
+    line-height: 1em;
+    font-size: 80%;
+  }
+  & .insert__sibling-date-part-seperator {
+    display: none;
+  }
+  & .insert__sibling-month {
+    display: flex;
+    flex-direction: column;
+  }
+  & .insert__sibling-month-name-short {
+    background-color: black;
+    color: lighten(@light-brownish-background-color, 5%);
+    padding: 2pt;
+    text-align: center;
+    letter-spacing: 1pt;
+  }
+  & .insert__sibling-month-day {
+    background-color: black;
+    color: lighten(@light-brownish-background-color, 15%);
+    padding: 2pt;
+    text-align: center;
+    font-size: 170%;
+  }
+  & .insert__sibling-year {
+    background-color: black;
+    color: darken(@light-brownish-background-color, 15%);
+    padding: 2pt;
+    text-align: center;
+  }
+  & .insert__sibling-author-container {
+    padding-right: .5rem;
+    width: 1rem;
+  }
+  & .insert__sibling-author-initials {
+    padding: 0 .5rem;
+    transform: rotate(70deg);
+    font-size: .9rem;
+    color: black;
+    font-weight: bold;
+    line-height: 1em;
+  }
+  & .insert__sibling-title {
+    padding-top: .25em;
+    padding-left: .7em;
+    font-style: italic;
+    font-size: 1rem;
+    line-height: 1.2em;
+  }
+  & .insert__sibling-author {
+    padding-left: 1em;
+  }
 }
 
 .article-index__list {
