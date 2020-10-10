@@ -87,6 +87,6 @@ After having ruined my gut microbiome with antibiotics, my rash finally started 
 
 ![See you again, Crete.](P7230037.JPG){.text-width width="1920" height="1280"}
 
-Are you interested in the farm? Go to: [www.votania.com](http://www.votania.com/)
-
 <?author-insert?>
+
+Are you interested in the farm? Go to: [www.votania.com](http://www.votania.com/)
