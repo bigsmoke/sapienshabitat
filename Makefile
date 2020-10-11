@@ -22,7 +22,8 @@ layout := htdocs/layout/style.css \
 	htdocs/layout/enhance.js \
 	htdocs/layout/Butterfly-vulcan-papillon-vulcain-vanessa-atalanta-2.png \
 	htdocs/layout/mushroom-2279552_1920.png \
-	htdocs/layout/soundcloud-icon.svg
+	htdocs/layout/soundcloud-icon.svg \
+	htdocs/layout/Fotoshoot_Jeroen_Dekker_2016-05-20_Rowan_3_avatar.png
 
 .PHONY: all
 all: $(HTML5_PAGES) $(HTML5_INDEX) $(layout)

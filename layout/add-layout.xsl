@@ -8,6 +8,8 @@
   <xsl:param name="img-width-2" select="number('1000')"/> <!-- That's about the resolution of my Samsung S7 Edge -->
   <xsl:param name="slug"/>
 
+  <xsl:variable name="canonical-url" select="concat('https://sapienshabitat.com/', $slug, '/')"/>
+
   <xsl:variable name="meta" select="document('../htdocs/meta.xml')/pages"/>
 
   <xsl:variable name="taxonomies" select="document('../taxonomies.xml')/root"/>
@@ -112,8 +114,15 @@
     <xsl:param name="taxonomy-value"/>
     <aside id="{$taxonomy-term}">
       <xsl:copy-of select="attribute::*"/>
+      <xsl:attribute name="class">
+        <xsl:text>insert</xsl:text>
+        <xsl:text> </xsl:text>
+        <xsl:text>insert--</xsl:text><xsl:value-of select="$taxonomy-term"/>
+        <xsl:text> </xsl:text>
+        <xsl:text>insert--</xsl:text><xsl:value-of select="$taxonomy-value"/>
+      </xsl:attribute>
       <div class="insert__content">
-        <xsl:apply-templates select="child::node() | child::processing-instruction()"/>
+        <xsl:apply-templates select="child::node() | child::processing-instruction()" mode="insert"/>
       </div>
       <nav class="insert__sibling-nav">
         <div class="insert__sibling-scroll">
@@ -137,7 +146,7 @@
                 <div class="insert__sibling-date-container">
                   <xsl:apply-templates select="date" mode="insert"/>
                 </div>
-                <div class="insert__sibling-title">
+                <div class="insert__sibling-title" title="{title}">
                   <xsl:value-of select="title"/>
                 </div>
                 <div class="insert__sibling-author-container">
@@ -158,6 +167,25 @@
         </div>
       </nav>
     </aside>
+  </xsl:template>
+
+  <xsl:template match="*" mode="insert">
+    <xsl:element name="{name(.)}">
+      <xsl:copy-of select="attribute::*"/>
+      <xsl:attribute name="class">
+        <xsl:value-of select="concat('insert__', local-name(.))"/>
+      </xsl:attribute>
+
+      <xsl:apply-templates select="child::node() | child::processing-instruction()" mode="insert"/>
+    </xsl:element>
+  </xsl:template>
+
+  <xsl:template match="attribute::*" mode="insert">
+    <xsl:copy/>
+  </xsl:template>
+
+  <xsl:template match="comment() | processing-instruction()" mode="insert">
+    <xsl:copy/>
   </xsl:template>
 
   <xsl:template match="date" mode="insert">
@@ -256,12 +284,15 @@
   <xsl:template match="article">
     <article>
       <xsl:copy-of select="attribute::*"/>
+      <xsl:attribute name="itemscope">1</xsl:attribute>
+      <xsl:attribute name="itemtype">https://schema.org/BlogPosting</xsl:attribute>
 
       <div class="article-header">
-        <h1 class="article-header__title"><xsl:apply-templates select="h1/child::node()"/></h1>
+        <h1 class="article-header__title" itemprop="headline"><xsl:apply-templates select="h1/child::node()"/></h1>
       </div>
 
       <div class="article-body">
+        <!-- TODO: Mark <main> as main -->
         <xsl:apply-templates select="(child::node() | child::processing-instruction())[not(name(.)='h1')]"/>
       </div>
 

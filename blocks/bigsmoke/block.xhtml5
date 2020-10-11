@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<aside class="insert insert--author insert--bigsmoke">
-  <img class="insert_icon" alt="A 2016 test shot in Jeroen Dekker's studio." src="Fotoshoot Jeroen Dekker 2016-05-20 Rowan 3 - avatar.png"/>
+<aside itemprop="author" itemscope="true" itemtype="https://schema.org/Person" itemid="https://www.bigsmoke.us/">
+  <figure>
+    <img itemprop="image" alt="A 2016 test shot in Jeroen Dekker's studio." src="/layout/Fotoshoot_Jeroen_Dekker_2016-05-20_Rowan_3_avatar.png"/>
+  </figure>
 
-  <h4 class="insert__title">BigSmoke</h4>
-
-  <p class="insert__p">BigSmoke is an alias for Rowan Rodrik van der Molen. Don't ask; he was 16 at the time.</p>
-
-  <p class="insert__p">A third-generation student of living things (biology), he grew up around wild gardens and rewilding projects.</p>
+  <div itemprop="description">
+    <p>A third-generation student of living things (biology), <data itemprop="name" value="Rowan Rodrik van der Molen">Rowan</data> grew up around wild gardens and rewilding projects.</p>
+  </div>
 </aside>
 
 <!-- vim: set expandtab tabstop=2 shiftwidth=2: -->

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site
+  xmlns="https://sapienshabitat.com/"
+  xmlns:html="http://www.w3.org/1999/xhtml"
+  xmlns:xi="http://www.w3.org/2001/XInclude"
+  xml:lang="en"
+  canonical-url-root="https://sapienshabitat.com/"
+>
+  <taxonomies>
+    <taxonomy xml:id="projects">
+      <title>Projects</title>
+      <tax-term xml:id="schuilplaats">
+        <title>“De Schuilplaats”</title>
+        <keyword>Drenthe</keyword>
+        <keyword>Norg</keyword>
+        <keyword>The Netherlands</keyword>
+        <keyword xml:lang="nl">vakantiehuisje</keyword>
+        <keyword xml:lang="nl">vakantiehuis</keyword>
+        <insert>
+          <xi:include href="blocks/schuilplaats/block.xhtml5"/>
+        </insert>
+      </tax-term>
+      <tax-term xml:id="molensteen">
+        <title>“De Oude Molensteen”</title>
+        <keyword>bed &amp; breakfast</keyword>
+        <keyword>Eelde</keyword>
+        <keyword>Groninger Airport Eelde</keyword>
+        <keyword>Drenthe</keyword>
+        <keyword>Groningen</keyword>
+        <keyword>The Netherlands</keyword>
+      </tax-term>
+      <tax-term xml:id="pppermaculture">
+        <title>“Ponte de Pedra Permaculture”</title>
+        <keyword>Portugal</keyword>
+        <keyword>Coimbra</keyword>
+        <keyword>Tomar</keyword>
+        <keyword>Cernache do Bonjardim</keyword>
+        <insert>
+          <xi:include href="blocks/pppermaculture/block.xhtml5"/>
+        </insert>
+      </tax-term>
+      <tax-term xml:id="haarbalhuus">
+      </tax-term>
+    </taxonomy>
+    <taxonomy xml:id="author">
+      <title>Author</title>
+      <title xml:lang="nl">Auteur</title>
+      <tax-term xml:id="bigsmoke">
+        <author-name>Rowan Rodrik van der Molen</author-name>
+        <author-initials>RR</author-initials>
+        <insert>
+          <xi:include href="blocks/bigsmoke/block.xhtml5"/>
+        </insert>
+      </tax-term>
+      <tax-term xml:id="elfje-en-orkje">
+        <author-name>Marilisa Laura Die van Herksen</author-name>
+        <author-name>Rowan Rodrik van der Molen</author-name>
+        <author-initials>MLD</author-initials>
+        <author-initials>RR</author-initials>
+      </tax-term>
+      <tax-term xml:id="mldvh">
+        <author-name>Marilisa Laura Die van Herksen</author-name>
+        <author-initials>MLD</author-initials>
+        <insert>
+          <xi:include href="blocks/mldvh/block.xhtml5"/>
+        </insert>
+      </tax-term>
+    </taxonomy>
+    <taxonomy>
+      <title>Scope</title>
+      <title xml:lang="nl">Scope</title>
+      <tax-term xml:id="stijlloos">
+        <title>Dirty Dutch politics</title>
+        <keyword>Netherlands</keyword>
+        <keyword>NL</keyword>
+        <keyword>politics</keyword>
+        <insert xml:lang="nl">
+          <xi:include href="blocks/stijlloos/block.xhtml5"/>
+        </insert>
+      </tax-term>
+      <tax-term xml:id="spirit">
+        <title>Spirit</title>
+        <keyword>inner rewilding</keyword>
+        <keyword>inner wilderness</keyword>
+        <keyword>spirituality</keyword>
+      </tax-term>
+      <tax-term xml:id="produce">
+        <title>Product (wild &amp; tame)</title>
+        <keyword>Produce</keyword>
+      </tax-term>
+    </taxonomy>
+    <taxonomy xml:id="scale">
+      <tax-term xml:id="landscape" sort-key="1.0">
+        <title>Landscape</title>
+      </tax-term>
+      <tax-term xml:id="garden" sort-key="2.0">
+        <title>Garden</title>
+        <keyword>gardening</keyword>
+      </tax-term>
+      <tax-term xml:id="home" sort-key="3.0">
+        <title>Home</title>
+        <keyword>home</keyword>
+      </tax-term>
+    </taxonomy>
+    <taxonomy xml:id="theme">
+      <tax-term xml:id="low-frequency-gardening">
+        <keyword>propagule pressure</keyword>
+      </tax-term>
+      <tax-term xml:id="forest-gardening">
+        <keyword>forest gardening</keyword>
+      </tax-term>
+      <tax-term xml:id="agroecology">
+        <keyword>agroecology</keyword>
+        <keyword>permaculture</keyword>
+      </tax-term>
+      <tax-term xml:id="rewilding">
+        <keyword>rewilding</keyword>
+        <keyword>wilderness</keyword>
+        <keyword>new nature</keyword>
+      </tax-term>
+    </taxonomy>
+    <taxonomy xml:id="series">
+      <tax-term xml:id="eat-it-or-beat-it">
+        <keyword>“eat it or beat it”</keyword>
+      </tax-term>
+    </taxonomy>
+  </taxonomies>
+</site>
+<!-- vim: set expandtab shiftwidth=2 tabstop=2 softtabstop=2: -->

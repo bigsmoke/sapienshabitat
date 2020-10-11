@@ -17,7 +17,7 @@ taxonomy:
 
 # A wallflower refuge
 
-Two little brick walls extend from the “De Schuilplaats” its living room onto the south terrace. The low walls both end in thick pillars that supports the roof. This creates an overhang. And below the terrace tiles there's a foundation, which was at some point meant to support a possible extension to the living room. However, the walls ended up just being empty temporary plant pots; occassionally, some blown in seed would germinate into a more or less full-grown plant until it withered away again, usually before the end of the growing season. At other times, a brave soul would plant something—a succulent, if they were smart. But, even succulents would whither and dry out. The problem: the overhanging roof keeps most of the rain away from these oblongue ‘pots’. And, as Bill Mollison would say, “the problem [was] the solution”. 
+Two little brick walls extend from the “De Schuilplaats” its living room onto the south terrace. The low walls both end in thick pillars that supports the roof. This creates an overhang. And below the terrace tiles there's a foundation, which was at some point meant to support a possible extension to the living room. However, the walls ended up just being empty temporary plant pots; occassionally, some blown in seed would germinate into a more or less full-grown plant until it withered away again, usually before the end of the growing season. At other times, a brave soul would plant something—a succulent, if they were smart. But, even succulents would whither and dry out. The problem: the overhanging roof keeps most of the rain away from these oblongue ‘pots’. And, as Bill Mollison would say, “the problem [was] the solution”.
 
 ![Here you can see the two brick walls extending unto the pillars that support the overhang. The picture is taken in April of 2012 (with the crappy camera in my Nokia N79), a year after the problem starting turning into the solution.](Schuilplaats_2012-04-04_Alle_nieuwe_muurbloempjes_van_vorig_jaar_gaan_bloeien.jpg){.text-width width="2592" height="1944"}
 
@@ -48,6 +48,8 @@ The reason that the wallflower seedlings that I transplanted into the low walls 
 ![This photo, taken a few weeks later, in May 2017, zooms in on one of the _E. cheiri_ specimen that is thriving in the wall-tile interface.](Schuilplaats_2017-05-03_Muurbloem_1.jpg){.semi-text-width width="2322" height="4128"}
 
 From the two low walls, the wallflowers seeds have spread over the adjacent terrace. The only seeds that germinate outside of the wall, though, do so on the wall-terrace interface. That's how much they require the calcium that seeps from the cement that holds the brick walls together.
+
+<?author-insert?>
 
 ## Inspiration for wallflowers
 

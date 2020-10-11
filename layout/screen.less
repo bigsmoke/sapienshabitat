@@ -512,6 +512,7 @@ article {
     padding: 0;
     text-align: left;
     color: lighten(@light-brownish-background-color, 10%);
+    color: #aaa;
   }
   @media (max-width: 647px) {
     & > .insert {
@@ -549,6 +550,8 @@ article {
       padding-bottom: .5em;
       padding-left: @main-side-margin;
       padding-right: @main-side-margin;
+      display: flex;
+      flex-direction: row;
     }
   }
   @media (min-width: 648px) {
@@ -557,20 +560,37 @@ article {
       max-width: 70rem;
       margin-left: auto;
       margin-right: auto;
-      display: block;
+      display: flex;
+      flex-direction: row;
       line-height: 1.2em;
-      padding-top: 2em;
-      padding-bottom: 2em;
+      padding-top: 1em;
+      padding-bottom: 1em;
       padding-left: @main-side-margin;
       padding-right: @main-side-margin;
     }
   }
-  & > .insert p {
-    font-size: 1.1rem;
-    display: inline;
-  }
   & > .insert--stijlloos {
     background-color: lighten(@stijlloos-roze, 0%);
+  }
+  & .insert__figure {
+    height: 4em;
+    width: 4em;
+    padding: 0;
+    margin: 0;
+    margin-right: .5em;
+    flex-grow: 0;
+  }
+  & .insert__img {
+    margin-left: -.5em;
+    opacity: 0.7;
+    height: 4em;
+  }
+  & .insert__div {
+    flex-grow: 1;
+  }
+  & > .insert__p {
+    font-size: 1.1rem;
+    display: inline;
   }
   & .insert__sibling-nav {
     display: flex;
@@ -626,14 +646,14 @@ article {
   // The specificity is needed to override the styling for regular list items.
   & .insert__sibling-article {
     box-sizing: border-box;
-    display: block;
+    display: flex;
+    flex-direction: row;
     margin: 0;
     padding: 0;
     background-color: @light-brownish-background-color;
     margin-right: .5em;
     max-width: 17em;
-    text-overflow: ellipsis;
-    overflow: hidden;
+    max-height: 3.2em;
     min-width: 8em;
     color: black;
     opacity: 0.6;
@@ -716,6 +736,10 @@ article {
     font-style: italic;
     font-size: 1rem;
     line-height: 1.2em;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
   & .insert__sibling-author {
     padding-left: 1em;
