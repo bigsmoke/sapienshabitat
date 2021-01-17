@@ -70,8 +70,8 @@ Daarom: stop met jezelf te verbeteren. Richt je liever op je verbindingen. De co
 
 Wat is nu uiteindelijk de boodschap? De boodschap is dat de situatie op onze planeet veel te ernstig is om ons lot in handen van bangige controlefreaks te laten. Onze verkrampte vingertjes hebben daarvoor te veel macht verkregen. In een wereld met atoomwapens is er maar één plan van aanpak mogelijk. Er zijn twee stappen:
 
-# Kalmeer jezelf.
-# Kalmeer een ander.
+  1. Kalmeer jezelf.
+  2. Kalmeer een ander.
 
 Dus, nogmaals: probeer niet de wereldproblematiek op te lossen vanuit angst en paniek. Dat is niet vol te houden. En houd je het wel vol, dan nog propageer je juist de mentaliteit die zo verziekend werkt op ons vermogen om rustig onze plaats in het web van het leven te observeren, voordat we er een bulldozer doorheen drukken omdat we een processierups aan een tak hebben zien hangen. Geef liever eerst de strijd op. Deze strijd gaat gewonnen worden door mensen die de strijd al lang hebben opgegeven. Aikido.
 
