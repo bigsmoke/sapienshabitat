@@ -1,12 +1,12 @@
 ---
-title: Het eerste gebod
+title: Het eerste gebod: klein zult gij zijn
 taxonomy:
   author: bigsmoke
   scope: spirit
 published: 2018-06-25
 ---
 
-# Het eerste gebod
+# Het eerste gebod: klein zult gij zijn
 
 De goden zijn microben – klein — zo klein dat ze onzichtbaar zijn. “Gij zult klein zijn,” is daarom een vanzelfsprekend eerste gebod voor micro-gelovigen. Een µ-gelovige word je vanzelf door door een microscoop te kijken en na te denken over wat je ziet.
 
@@ -52,6 +52,6 @@ Wat me had tegengestaan aan wetenschap was helemaal niet de essentie van wetensc
 
 “Gij zult klein zijn.” Hetzelfde besef van onze beperkingen dat de wetenschap groot heeft gemaakt zou een nieuw geloof in microben groot kunnen maken. We hebben ons moeten schikken in een perifiere plaats in het heelal, aan een zijtak aan de boom van levensvormen, in lichamen met zeer beperkte fysieke en intellectuele vermogens. Maar we aanbidden het grote: fictieve goden, superhelden, topatleten of andere supersuccesvollen. Terwijl het het kleine is wat het leven de moeite waard maakt. Sterker: het is het kleine dat het leven mogelijk maakt. We kunnen niet anders dan klein zijn. Al onze niet-fictieve helden weten dat: zij brengen dagelijkse offers om in een beperkt aantal dimensies uit te kunnen blinken. Intussen kan een enkele bacteriële infectie in een flits een einde maken aan hun glorie.
 
-We weten dat microben bestaan. Ze vragen niet van ons dat we dagelijks op onze knieën vallen om te bidden, ondanks dat dat prima momenten zouden zijn om onze knieën binnen te dringen. Maar al die microben verdienen wel ontzag. Dankbaarheid aan de ene kant, bijvoorbeeld voor de cyanobacterieën (blauwalgen) die zuurstof in de atmosfeer hebben gebracht, of de gisten die water omzetten in wijn. Aan de andere kan hebben we iets nodig om te vervloeken als we door de willekeur op onze knieën worden gedwongen. Uiteindelijk is het allemaal op conto van die kleine krengen. Er is geen beter symbool om ons eraan te herinneren dat het leven offers eist.
+We weten dat microben bestaan. Ze vragen niet van ons dat we dagelijks op onze knieën vallen om te bidden, ondanks dat dat prima momenten zouden zijn om via een klein schrammetje onze knieën binnen te dringen. Maar al die microben verdienen wel ontzag. Dankbaarheid aan de ene kant, bijvoorbeeld voor de cyanobacterieën (blauwalgen) die zuurstof in de atmosfeer hebben gebracht, of de gisten die water omzetten in wijn. Aan de andere kan hebben we iets nodig om te vervloeken als we door de willekeur op onze knieën worden gedwongen. Uiteindelijk is het allemaal op conto van die kleine krengen. Er is geen beter symbool om ons eraan te herinneren dat het leven offers eist.
 
 <center>&#x1F9A0;</center>
