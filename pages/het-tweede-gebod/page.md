@@ -1,18 +1,18 @@
 ---
-title: Het tweede gebod: zo besmettelijk zult gij zijn!
+title: Het tweede gebod: gij zult besmettelijk zijn
 taxonomy:
   author: bigsmoke
   scope: spirit
 draft: true
 ---
 
-# Het tweede gebod: zo besmettelijk zult gij zijn!
+# Het tweede gebod: gij zult besmettelijk zijn
 
-[Wat zijn de goden klein!](/het-eerste-gebod/) Minder dan miniscuul. Microscopisch. Zo klein dat er maar een enkele is die met het blote oog ontwaard kan worden. [Zo'n enkeling is <i lang="la">Thiomargarita namibiensis</i>, die wel tot een diameter van 0.7&#160;mm kan groeien.]
+[Wat zijn de goden toch klein!](/het-eerste-gebod/) Minder dan miniscuul. Microscopisch. Zo klein dat er maar een enkele is die met het blote oog ontwaard kan worden. [Zo'n enkeling is <i lang="la">Thiomargarita namibiensis</i>, die wel tot een diameter van 0.7&#160;mm kan groeien.]
 
 Doch, het kleine formaat van microben maakt ze niet minder alomtegenwoordig. Integendeel! Ze zitten, hangen, zweven, kruipen en zwemmen overal – in ons, om ons, onder ons, boven ons. God – ik bedoel “goden” (meervoud) – zitten in alles.
 
-Vanuit het perspectief van een microbe is een mens een landschap – een wereld van formaat – een sterrenstelsel – een heelal. Echter, zoals mensen vooralsnog slechts kunnen fántaseren over het coloniseren van verre sterrenstelsels, springen microben moeiteloos van het ene Sterrenstelsel Mens naar het andere. Alles dat nodig is is een kusje, een kuchje, of een handje.
+Vanuit het perspectief van een microbe is een mens een landschap – een wereld van formaat – een sterrenstelsel – een heelal. Echter, zoals mensen vooralsnog slechts kunnen fántaseren over het koloniseren van verre sterrenstelsels, springen microben moeiteloos van het ene Sterrenstelsel Mens naar het andere. Alles dat nodig is is een kusje, een kuchje, of een handje.
 
 <center>&#x1F9A0;</center>
 
