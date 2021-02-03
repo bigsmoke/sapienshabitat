@@ -1,5 +1,5 @@
 ---
-title: Het eerste gebod: klein zult gij zijn
+title: 'Het eerste gebod: klein zult gij zijn'
 taxonomy:
   author: bigsmoke
   scope: spirit
