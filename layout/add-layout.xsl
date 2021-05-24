@@ -101,6 +101,14 @@
         </footer>
       </div> <!-- .site-container -->
 
+      <div class='no-print'>
+        <div class='no-print__container'>
+          <div class='no-print__message'>
+              Sadly for you, CSS print support in all the major browsers sucks. <em>And</em> I haven't gotten around to auto-generating nice PDF versions of these articles yet.
+          </div>
+        </div>
+      </div>
+
       <script>
         <xsl:text disable-output-escaping="yes">
           document.body.classList.remove('js-noscript');
