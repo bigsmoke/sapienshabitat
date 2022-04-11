@@ -23,6 +23,8 @@ Two little brick walls extend from the “De Schuilplaats” its living room ont
 
 The ‘pot space’ between the ‘outer’ and ‘inner’ brick layers was too dry even for most succulents, but not for a flower with the most appropriate name: the wallflower (_Erysimum cheiri_).
 
+<?project-insert?>
+
 I got a few specimen from my mother, who, at the time, had an allotment garden where little wallflower seedlings sprung up everywhere. That was also the first place were I ever encountered them and were I instantly fell in love with their colorful variety.
 
 ![This yellow-orange specimen is the most typical fenotype that is expressed at “De Schuilplaats”.](Schuilplaats_2017-05-03_Muurbloem_5.jpg){.semi-text-width width="2322" height="4128"}

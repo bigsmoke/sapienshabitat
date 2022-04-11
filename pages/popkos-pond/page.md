@@ -41,6 +41,8 @@ While he was living in De Schuilplaats, my father met my mother. (Or, as Akash S
 
 That was then. Fast forward 40-something years, to 2018—last year—when me and Marilisa were staying in De Schuilplaats. Popko still joins me there occasionally for garden work and even at 70+ he's still somewhat of a beast with landscaping. It's really not hard to imagine him moving cubic meter after cubic meter after cubic meter of sand. But, for over a decade (since 2006), I've been the main caretaker of the greenery around De Schuilplaats, while my uncle Hugo has taken care of the renovation and maintenance of the house itself and earning the investments back for us through renting it out to vacation-goers.
 
+<?author-insert?>
+
 ![April 26, 2018. The hawthorn bushes that obscure Marilisa from sight are awaiting their periodic trim back to the proportions of the fence that their stems are supporting. Marilisa is getting ideas in her head already while looking at Popko's pond, satisfied with all the extra light touching the water after the heavy pruning of the <i lang="la">Rhododendron (ponticum)</i> 2 years prior, in 2016. (Soon, the <i lang="la">Rhododendron</i> would go into its first full purple dress since being robbed of ¼ᵗʰ of its foliage.)](Schuilplaats_2018-04-26_Marilisa_is_getting_ideas_in_her_head_already.jpg){.text-width width="4032" height="3024"}
 
 ![Only a sliver of pond is revealed behind Marilisa, but that sliver is a 100% more than what was visible in 2016 before she severely cut back the <i lang="la">Rhododendron</i>.](Schuilplaats_2018-04-26_Rhododenderon_next_to_pond_and_goofy_M.jpg){.text-width width="4032" height="3024"}
@@ -123,7 +125,7 @@ Popko's pond is no longer purely Popko's. For years, I was already removing will
 
 <!--
 Feedback from Annemarie:
-> […] ik denk dat P een foto heeft waar hij al gravend op staat. Maar vind die maar es. 
+> […] ik denk dat P een foto heeft waar hij al gravend op staat. Maar vind die maar es.
 > En als gemiste docent heb ik nog wat opmerkingen over t stukje, oa over t engels, vreemd genoeg.
 > Zal iets te maken hebben met al die crimies en romans waarin moerassen en heidevelden figureren.
 > Correct me when I 'm wrong...
