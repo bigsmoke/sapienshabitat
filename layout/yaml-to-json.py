@@ -8,4 +8,4 @@ import json
 import yaml
 
 struct = yaml.load(sys.stdin)
-print(json.dumps(struct, indent=4))
+print(json.dumps(struct, indent=4, default=str))
