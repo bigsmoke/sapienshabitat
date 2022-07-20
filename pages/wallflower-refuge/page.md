@@ -33,9 +33,9 @@ I got a few specimen from my mother, who, at the time, had an allotment garden w
 
 ## Propagule pressure
 
-The little seedling which ended up establishing their own wallflower lineage at “De Schuilplaats” were not the first of my wallflower transplantation experiments. Prior to this 2011 expirement, I tried establishing a wall flower transplantation in my father's garden in Eelde, both seeds as well as seedlings. Only one pair of seedlings took hold there for a while, until my father's Ecuadorian father in law mistook it for a weed. (Only recently did I start to think about the particular places in which these two seedlings survived for a while, but more about habitat selection later…)
+The little seedlings which ended up establishing their own wallflower lineage at “De Schuilplaats” were not the first of my wallflower transplantation experiments. Prior to this 2011 expirement, I tried establishing a wall flower transplantation in my father's garden in Eelde, trying both seeds and seedlings. Only one pair of seedlings took hold there, for a while, until my father's Ecuadorian father in law mistook it for a weed. (Only recently did I start to think about the particular places in which these two seedlings survived for a while, but more about habitat selection later…)
 
-Not at “De Schuilplaats”. After a difficult start, during which some of the propagule dried out dispite the occassional watering, the wallflowers in the walls started thriving, no longer requiring any care. Encouraged, I planted some more seedlings and sowed a few handfulls of seeds. Then, after as little as one growing season, the biggest flowering speciment sported its own seeds.
+At “De Schuilplaats”, things went much better. After a difficult start, during which some of the propagule dried out dispite the occassional watering, the wallflowers in the walls started thriving, no longer requiring any care. Encouraged, I planted some more seedlings and sowed a few handfulls of seeds. Then, after as little as one growing season, the biggest flowering speciment sported its own seeds.
 
 ![In 2011, the biggest wallflower speciment sported its own seeds, beginning a local lineage.](Schuilplaats_2011-12-14_Muurbloem_a.jpg){.text-width width="2592" height="1944"}
 
@@ -43,7 +43,7 @@ But, also at “De Schuilplaats”, I had previously tried sowing seeds, none of
 
 ## Habitat selection
 
-The reason that the wallflower seedlings that I transplanted into the low walls were the first to thrive at “De Schuilplaats” was non-obvious to me at first, although I could have deduced it from the plant name: _wall_-flower. Wallflower like to grow in walls. Specifically, they like walls with high calcium contents in the mortel. (The kind of walls they like have, in fact become scarce in The Netherlands, which has earned the plant a place on the red list of endangered plant species, and it is also on the list of lawfully protected plant species, meaning that, if someone was to do some construction work on these wallflower-infested walls, they'd have to take measures to protect these wallflowers.)
+The reason that the wallflower seedlings that I transplanted into the low walls were the first to thrive at “De Schuilplaats” was non-obvious to me at first, although I could have deduced it from the plant name: _wall_-flower. Wallflower like to grow in walls. Specifically, they like walls with high calcium contents in the mortel. (The kind of walls they like have, in fact, become scarce in The Netherlands, which has earned the plant a place on the red list of endangered plant species, and it is also on the list of lawfully protected plant species, meaning that, if someone was to do some construction work on these wallflower-infested walls, they'd have to take measures to protect these wallflowers.)
 
 ![Here you can see that, besides growing in the walls, _Erysimum cheiri_ also likes to grow on the wall-tile interface, as long as it has access to the nutrients in the wall's mortel. The photo was taken in April 2017.](Schuilplaats_2017-04-17_Muurbloem_4.jpg){.semi-text-width width="2322" height="4128"}
 
