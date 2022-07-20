@@ -8,13 +8,13 @@ taxonomy:
 # Wilderness, and why it should be worldwide
 
 <i>Homo sapiens</i>—wise man—has, within a quarter of a million years,
-completely transformed the face of earth, the planet on which our species’
+completely transformed the face of Earth, the planet on which our species’
 lineage diverged from our nearest extant cousins—the chimpansee 13–4 million
-years ago. With the recent explosion of our technological prowess, which has
-led us straight into the middle of the fifth great extinction crisis, we've
-entered what some geologists call the ‘anthropocene’. Besides the ongoing
-natural habitat loss and mass extinction of other species, other prominent
-features of the anthropocene include:
+years ago. The recent explosion of our technological prowess has pushed us head
+over heal into what some geologists call the ‘anthropocene’.  Besides the
+ongoing habitat loss and rapid extinction of other species (often dubbed
+Earth's ‘sixth mass extinction even’), other prominent features of the
+anthropocene include:
 
 * that human land-use now dominates the planet, and
 * domestic animals form most of the mamellian biomass,
@@ -28,20 +28,31 @@ shelter, and—perhaps—a bed. And then? Then we want beauty, and awe.
 
 ## “Anthropocentrically actionable”
 
-In conservation circles, an anthropocentric world-view—a perspective of humankind
-as a special species, with the whole world revolving around it—is frowned upon.
-Rightfully so; being one among million species invites us to be humble and to
-recognize the magnificence of the natural processes that led to our existence.
-Whereas the anthropocentric approach, as preached by the big religions, would
-have us be the pinnacle of evolution, king of the monkeys, above the rest of
-the living world, but not really a monkey ourselves—not even an animal, or even
-fully a part of nature. This is an impoverishing view, as it discourages the
-fulfillment of our deepest animal needs. Whether coupled to the ideology of
-Abrahamic virtue or the ideology of economic progress, anthropocentrism
-distracts us from the obvious facts: what we really need to be healthy, happy
-animals.  Yes, we're the only animal in denial of our heritage, but that's
-because we're the only animal that can be aware of this. In the recognition
-of our animal nature lies the distinction that makes us specifically human:
+In conservation, an anthropomorphism is
+frowned upon.  Rightfully so; being one among millions of species invites us to
+be humble and to recognize the magnificence of the natural processes that led
+to our existence.  If only this was the motivation for past generations of
+biologists to so strongly oppose anthropomorphism.  The opposite is the case:
+there is a taboo an ascribing human-like characterstics to other animal
+species, although, thankfully, this taboo is being busted in recent years by
+the likes of Frans De Waal.  Still, most biologists are so ingrained with
+humanity's _otherness_ in relation to nature that their anthropo__centrism__
+precludes anthropomorphism, even in very obvious cases such as the scientific
+recognition of emotions in species very close to our own.
+
+ world-view—a perspective of
+humankind as a special species, with the whole world revolving around it—
+Whereas the anthropocentric approach, as preached by the big
+religions, would have us be the pinnacle of evolution, king of the monkeys,
+above the rest of the living world, but not really a monkey ourselves—not even
+an animal, or even fully a part of nature. This is an impoverishing view, as it
+discourages the fulfillment of our deepest animal needs. Whether coupled to the
+ideology of Abrahamic virtue or the ideology of economic progress,
+anthropocentrism distracts us from the obvious facts: what we really need to be
+healthy, happy animals.  Yes, we're the only animal in denial of our heritage,
+but that's because we're the only animal that can be aware of this. In the
+recognition of our animal nature lies the distinction that makes us
+specifically human:
 
 > I am an animal, therefore I am human.
 
@@ -52,7 +63,7 @@ we are to preserve what's left. But, first we must decide that this is indeed
 what we want: do we want to preserve biodiversity? There are plenty of
 instrumental reasons to preserve vital ecosystem services, but all this numbers
 crunching only serves to reemphasize what freaks we've become to nature, imagining
-that we can rationalize ourselves out of the hole that our species struck in 
+that we can rationalize ourselves out of the hole that our species struck in
 the earth's ecosystems. Meanwhile, we're still possessed by animal souls. If
 these no longer have a dangerous, wild place to roam about, how then are we
 expected to feel fully human?
