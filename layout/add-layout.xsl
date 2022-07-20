@@ -132,15 +132,15 @@
       <div class="insert__content">
         <xsl:apply-templates select="child::node() | child::processing-instruction()" mode="insert"/>
       </div>
-      <nav class="insert__sibling-nav">
+      <nav class="insert__sibling-nav js-insert__sibling-nav">
         <div class="insert__sibling-scroll">
-          <span class="insert__sibling-scroll-icon js-triggerHorizontalScrollingOfArticleListInInsert" data-scroll-direction="left">
+          <span class="insert__sibling-scroll-icon js-insert__sibling-scroll" data-scroll-direction="left">
             <svg class="insert__sibling-scroll-icon-svg" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
               <polygon points="0,50 100,100 100,0" fill="currentColor"/>
             </svg>
           </span>
         </div>
-        <ul class="insert__sibling-list js-horizontallyScrollableArticleListInInsert">
+        <ul class="insert__sibling-list js-insert__sibling-list">
           <xsl:for-each select="$meta/page[published and taxonomy/child::node()[name(.) = $taxonomy-term] = $taxonomy-value]">
             <xsl:sort select="date"/>
             <li>
@@ -167,7 +167,7 @@
           </xsl:for-each>
         </ul>
         <div class="insert__sibling-scroll">
-          <span class="insert__sibling-scroll-icon js-triggerHorizontalScrollingOfArticleListInInsert" data-scroll-direction="right">
+          <span class="insert__sibling-scroll-icon js-insert__sibling-scroll" data-scroll-direction="right">
             <svg class="insert__sibling-scroll-icon-svg" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
               <polygon points="0,0 100,50 0,100" fill="currentColor"/>
             </svg>

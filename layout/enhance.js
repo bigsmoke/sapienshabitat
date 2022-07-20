@@ -20,17 +20,38 @@ class SapiensHabitatEnhancements {
   }
 
   initializeHorizontalInsertScrolling() {
-    var insertScrollHandlers = document.getElementsByClassName('js-triggerHorizontalScrollingOfArticleListInInsert');
-    Array.prototype.forEach.call(insertScrollHandlers, function(scrollTriggerElement) {
-      scrollTriggerElement.onclick = function(e) {
-        var scrollTrigger = e.target.closest('.js-triggerHorizontalScrollingOfArticleListInInsert');
-        var articleList = scrollTrigger.closest('nav').querySelector('.js-horizontallyScrollableArticleListInInsert');
-        var scrollDirection = 1;
-        if (scrollTrigger.dataset.scrollDirection == 'left') {
-          scrollDirection = -1;
-        }
-        articleList.scrollBy(100 * scrollDirection, 0);
-      }
+    let navEls = document.getElementsByClassName('js-insert__sibling-nav');
+
+    Array.prototype.forEach.call(navEls, function(navEl) {
+      let siblingList = navEl.querySelector('.js-insert__sibling-list');
+
+      siblingList.addEventListener('wheel', (event) => {
+        let initialX = siblingList.scrollLeft;
+
+        // Scale all scroll values to something slow
+        let deltaX = event.deltaX != 0 ? event.deltaX : event.deltaY;
+        siblingList.scrollBy(deltaX, 0);
+
+        let postX = siblingList.scrollLeft;
+
+        if (initialX == 0 && deltaX < 0)
+          return false;
+        if (siblingList.offsetWidth == siblingList.scrollWidth - initialX && deltaX > 0)
+          return false;
+
+        event.stopPropagation();
+        event.preventDefault();
+      });
+
+      Array.prototype.forEach.call(navEl.querySelectorAll('.js-insert__sibling-scroll'), function(triggerEl) {
+        triggerEl.onclick = function(event) {
+          let scrollDirection = 1;
+          if (triggerEl.dataset.scrollDirection == 'left') {
+            scrollDirection = -1;
+          }
+          siblingList.scrollBy(200 * scrollDirection, 0);
+        };
+      });
     });
   }
 
