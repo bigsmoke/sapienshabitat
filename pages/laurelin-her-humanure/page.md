@@ -18,19 +18,19 @@ taxonomy:
 
 # Lau her humanure
 
-Laurelin poops. She does so quite regularly, which is a sign of health. That must be why she thought it a waste to just throw all that hearty poop away, as if it wasn't worth a thing. Enter her homemade composting toilet, where all that treasure is collected, in a rather substantial bucket.
+Laurelin poops. She does so quite regularly—a sign of health. That must be why she thought it a waste to just throw all that hearty poop away, as if it wasn't worth a thing. Enter her homemade composting toilet, where all that treasure is collected, in a rather substantial bucket.
 
 ![Here, you can see the frame with the bucket, but, as of then (in November 2017), without a s\*\*thole.](Ponte_de_Pedra_2017-11-14_Compost_toilet_frame.jpg){.text-width width="4032" height="3024"}
 
-A composting toilet is a natural signpost on her journey of becoming full-fledged permaculture hippies. How else would they ever get close to closing the nutrient cycle? There's only so much shit you can do to keep your outputs from exceeding your inputs. If you keep flushing your outputs into the ocean, your soil won't thank you, and neither will this grumpy marine biologist; all that nitrogen shit can cause havoc—like algal blooms—downstream.
+A composting toilet is a natural signpost on her journey of becoming full-fledged permaculture hippie. How else would she ever get close to closing the nutrient cycle? There's only so much shit you can do to keep your outputs from exceeding your inputs. If you keep flushing your outputs into the ocean, your soil won't thank you, and neither will this grumpy marine biologist; all that nitrogen will wreak havoc (like algal blooms) all the way downstream, via estuaries, in the sea.
 
 <?project-insert?>
 
 ## Keep your nitrogen near
 
-We live in nitrogen-flooded times, since the availability of cheap artifical fertilizers revolutionized agriculture around a half-century ago. One of the casualties of this revolution have been the quality of our surface water. Ground water quality has also been affected.
+We've been living in nitrogen-flooded times, since the availability of cheap artifical fertilizers revolutionized agriculture around a half-century ago. One of the casualties of this revolution have been the quality of our surface water. Ground water quality has also been affected.
 
-This is not their main concern. Their main house is connected to a sceptic tank, not to the sewer. And although it's a shit, old sceptic tank ([contrary to what they were told](/deceit-or-disinterest/) when Annemarie bought the property), that does mean that their outputs don't end up somewhere downstream.
+This is not Laurelin and my mother their main concern. Their main house is connected to a sceptic tank, not to the sewer. And although it's a shit, old sceptic tank ([contrary to what they were told](/deceit-or-disinterest/) when Annemarie bought the property), that does mean that their outputs don't end up somewhere downstream.
 
 But, I am ranting. They're not about to start using artificial fertilizers. Their main priority is keeping nutrients _in_ their system, not so much to keep these nutrients out of other systems.
 
@@ -46,7 +46,7 @@ Not as scary as the worms are the bacteria. Most strains of <i lang="la">Escheri
 
 <i lang="la">E. coli</i> tests are already cheap, and cheaper, simpler tests such as [_E. coli_ test strips](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0183234) are underway. Still, the hassle of testing the home-made humanure for contamination can be by-passed by being somewhat conscious about the composting process and application.
 
-Process-wise, it should already be sufficiently clear that defecating directly in the lettuce bed is a bad idea. So, Laurelin collects the compost in an open compost pile, where the sawdust (that they apply between bowel movements) should provide for the aerobic growing conditions (40–60 °C  = 104–140 °F) needed by the thermophilic composting bacteria that oxidize the waste while generating temperatures high enough to kill even helminth eggs, the hardiest of all poop pathogens (brought by that dreadlock dude, remember?).
+Process-wise, it should already be sufficiently clear that defecating directly in the lettuce bed is a bad idea. So, Laurelin collects the compost in an open compost pile, where the sawdust (that they apply between bowel movements) should provide for the aerobic growing conditions (40–60 °C  = 104–140 °F) needed by the thermophilic composting bacteria that oxidize the waste while generating temperatures high enough to kill even helminth eggs, the hardiest of all poop pathogens.
 
 <table class="text-width">
 
