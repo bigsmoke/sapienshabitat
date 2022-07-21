@@ -46,7 +46,7 @@
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather"/>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Archivo+Narrow"/>
 
-      <script type="text/javascript" src="../layout/enhance.js?v=4"></script>
+      <script type="text/javascript" src="../layout/enhance.js?v=5"></script>
 
       <xsl:apply-templates select="child::node() | child::processing-instruction()" />
     </head>
