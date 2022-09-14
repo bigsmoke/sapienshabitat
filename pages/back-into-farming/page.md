@@ -11,23 +11,25 @@ taxonomy:
 
 And by “farming” I mean “gardening”.
 
-But before digging into the distinction between “farming” and “gardening”, some
-words about Elon Musk and Yuval Noah Harari. They both worry about the future
-of work and serve as figureheads for the popular view that robotization and
-automization are about to reduce the employability of entire professional
-classes to zero.
+But, before digging into the distinction between “farming” and “gardening”,
+some words about Elon Musk and Yuval Noah Harari – the billionaire and the
+historian who worry that robotization and automization are about to reduce the
+employability of scores of professional classes to zero.  Their worries about
+impending human obsolescence are broadly shared; other well-know champions
+of this view are American presidential candidate Andrew Yang, former Greek
+Minister of Finance Yanis Varoufakis, and atheist pundit Sam Harriss.
 
-Meanwhile, at the head of electric car maker Tesla, Elon continues to whip his
+Meanwhile, at the head of electric car maker Tesla, Musk continues to whip his
 research and development team forward, in the race of achieving level 4 Full
-Self-Driving (FSD) before his competitors do.  In the US alone, autonomous
-vehicles (AVS) functioning at level 4 can potentially render more than 4
-million drivers jobless.[^AV-JOBS] Level 4 FSD is dubbed the “mind off” level,
-at which the human “driver” no longer needs to pay attention to the road. If we
-go along with Elon's optimism for when Tesla's Autopilot could achieve level 4
-FSD, the displacement of human drivers could start as early as _this year_
-(2022).[^TESLA-AUTOPILOT]
+Self-Driving (FSD) before his competitors do.[^AI-OPEN-LETTER]  In the US
+alone, autonomous vehicles (AVS) functioning at level 4 can potentially render
+more than 4 million drivers jobless.[^AV-JOBS] Level 4 FSD is dubbed the “mind
+off” level, at which the human “driver” no longer needs to pay attention to the
+road.  If we fall in with Musk's optimism for when Tesla's Autopilot could
+achieve level 4 FSD, the displacement of human drivers could start as early as
+_this year_ (2022).[^TESLA-AUTOPILOT]
 
-Elon worries about the jobs he is attempting to obsolete. Will this will lead
+Musk worries about the jobs he is attempting to obsolete.  Will this lead
 to a “useless class of people”, as Yuval calls them?  For AI researchers, it
 will be marvellous feat of engineering to produce the first fully autonomous
 vehicle, but for humans driving is low-skilled labor.  Many drivers will not be
@@ -94,6 +96,18 @@ them as “hunter-horticulturalists”.  So you a long history—even
 ## Reanimism
 
 ## Notes
+
+[^AI-OPEN-LETTER]: Elon Musk his running of this arms race at full throttle
+  seems at odds with the [open
+  letter](https://futureoflife.org/2015/10/27/ai-open-letter/) he signed in
+  2015, calling for the prioritization of AI _safety_ research _before_
+  advancing the _power_ of AI.  Other signing dignitaries of that letter
+  included the Microsoft founder Bill Gates, numerous co-founders of Google's
+  DeepMind, and Apple co-founder Steve Wozniak.  But, the focus of that letter
+  is less on the immediate economical impacts of more intelligent machines and
+  more on the existential risks posed by AGI (Artificial _General_
+  Intelligence), such as when it may decide to start extracting the iron from
+  our blood to turn it into paperclips.
 
 [^AV-JOBS]: https://www.law.gwu.edu/sites/g/files/zaxdzs2351/f/downloads/Stick-Shift-Autonomous-Vehicles-Driving-Jobs-and-the-Future-of-Work.pdf
 <!-- TODO: clean up endnote -->
