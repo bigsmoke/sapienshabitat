@@ -12,12 +12,13 @@ taxonomy:
 And by “farming” I mean “gardening”.
 
 But, before digging into the distinction between “farming” and “gardening”,
-some words about Elon Musk and Yuval Noah Harari – the billionaire and the
-historian who worry that robotization and automization are about to reduce the
-employability of scores of professional classes to zero.  Their worries about
-impending human obsolescence are broadly shared; other well-know champions
-of this view are American presidential candidate Andrew Yang, former Greek
-Minister of Finance Yanis Varoufakis, and atheist pundit Sam Harriss.
+some words about Elon Musk and Yuval Noah Harari—the billionaire and the
+historian—both who worry that an avalanche of robotization and automization is
+about to reduce the employability of scores of professional classes to zero.
+Their worries about impending human obsolescence are broadly shared; other
+well-know champions of this view are American presidential candidate Andrew
+Yang, former Greek Minister of Finance Yanis Varoufakis, and atheist pundit Sam
+Harris.
 
 Meanwhile, at the head of electric car maker Tesla, Musk continues to whip his
 research and development team forward, in the race of achieving level 4 Full
@@ -27,13 +28,13 @@ more than 4 million drivers jobless.[^AV-JOBS] Level 4 FSD is dubbed the “mind
 off” level, at which the human “driver” no longer needs to pay attention to the
 road.  If we fall in with Musk's optimism for when Tesla's Autopilot could
 achieve level 4 FSD, the displacement of human drivers could start as early as
-_this year_ (2022).[^TESLA-AUTOPILOT]
+_“this year”_ (2022).[^TESLA-AUTOPILOT]
 
 Musk worries about the jobs he is attempting to obsolete.  Will this lead
 to a “useless class of people”, as Yuval calls them?  For AI researchers, it
 will be marvellous feat of engineering to produce the first fully autonomous
-vehicle, but for humans driving is low-skilled labor.  Many drivers will not be
-able to just “learn to code”.  And the truck drivers that _will_ be able to
+vehicle; but, for humans, driving is low-skilled labor.  Many drivers will not be
+able to just “learn to code”, as the alt-right adage goes.  And the truck drivers that _will_ be able to
 make the jump, will be pushed out of the job market _again_ a few iterations of
 “narrow AI” later, before “artificial _general_ intelligence” (AGI) will knock
 out the last remaining jobs at the tail end of the normal distributions for
@@ -46,8 +47,8 @@ prophets of impending doom.  Elon and Yuval both happen to be proponents of
 Universal Basic Income (UBI) as an instrument to steer clear of a _Hunger
 Games_-style future in which a small elite is catered to by an army of robots
 while the rest of the population is suppressed by that same army.  Add a bit of
-CRISPR-aided genetic engineering and a dystopic vision of the future indeed
-appears to be revealed.
+CRISPR-aided, AI brain-powered genetic engineering and the vision of the future
+that is unveiled indeed appears dystopic.
 
 What such visions of the future fail to take into account are the _other_
 existential threats that early twenty-first-century civilization is facing,
