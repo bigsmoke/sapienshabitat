@@ -13,12 +13,16 @@ And by “farming” I mean “gardening”.
 
 But, before digging into the distinction between “farming” and “gardening”,
 some words about Elon Musk and Yuval Noah Harari—the billionaire and the
-historian—both who worry that an avalanche of robotization and automization is
-about to reduce the employability of scores of professional classes to zero.
-Their worries about impending human obsolescence are broadly shared; other
-well-know champions of this view are American presidential candidate Andrew
-Yang, former Greek Minister of Finance Yanis Varoufakis, and atheist pundit Sam
-Harris.
+historian—who share a worry.  They prophesize that a wave of robotization
+and automization is building, a tsunami of change that'll be more extreme
+than what we've seen so far, surpassing by orders of magnitude the rate of
+change that we sometimes almost imagine we got used to.  The two prophets are
+convinced that, when this tsunami hit, the employability of scores of
+professional classes will be reduced to zero at the moment that computers will
+take over their jobs.  Their worries about impending human obsolescence are
+broadly shared; other well-know champions of this view are American
+presidential candidate Andrew Yang, former Greek Minister of Finance Yanis
+Varoufakis, and atheist pundit Sam Harris.
 
 Meanwhile, at the head of electric car maker Tesla, Musk continues to whip his
 research and development team forward, in the race of achieving level 4 Full
@@ -34,11 +38,13 @@ Musk worries about the jobs he is attempting to obsolete.  Will this lead
 to a “useless class of people”, as Yuval calls them?  For AI researchers, it
 will be marvellous feat of engineering to produce the first fully autonomous
 vehicle; but, for humans, driving is low-skilled labor.  Many drivers will not be
-able to just “learn to code”, as the alt-right adage goes.  And the truck drivers that _will_ be able to
-make the jump, will be pushed out of the job market _again_ a few iterations of
-“narrow AI” later, before “artificial _general_ intelligence” (AGI) will knock
-out the last remaining jobs at the tail end of the normal distributions for
-intelligence and creativity.
+able to just “learn to code”, as the online adage goes (first applied to coal
+miners who lost their jobs and later to the journalists who lost theirs).  And
+the truck drivers that _will_ be able to make the jump, will be pushed out of
+the job market _again_ a few iterations of “narrow AI” later, before
+“artificial _general_ intelligence” (AGI) will knock out the last remaining
+jobs at the tail end of the normal distributions for intelligence and
+creativity.
 
 At least, such are the predictions of the long array of public intellectuals who
 have joined Elon and Yuval into warning the public about the existential threat
@@ -50,9 +56,11 @@ while the rest of the population is suppressed by that same army.  Add a bit of
 CRISPR-aided, AI brain-powered genetic engineering and the vision of the future
 that is unveiled indeed appears dystopic.
 
-What such visions of the future fail to take into account are the _other_
+What such bleak visions of the future fail to take into account are the _other_
 existential threats that early twenty-first-century civilization is facing,
 which can be summed up as: ecological degradation.
+
+## The threat that already landed
 
 Biodiversity loss is not a hypothetical threat which may happen “anytime soon
 now”.  Top soil depletion is not “just around the corner”.  Pollution is not
@@ -64,6 +72,85 @@ foodstuffs, so that in 2018, humans (≈&nbsp;0.06 Gt) and our livestock
 (≈&nbsp;0.1 Gt) now count for approximately 96% of all mammalian biomass
 (≈&nbsp;0.167 Gt) on Earth. [^MAMMALIAN-BIOMASS]
 
+It is now 50 years ago that The Club of Rome published _The Limits to
+Growth_.[^LIMITS-TO-GROWTH]  This 1972 book starts with a primer on the
+mathematics of exponential growth, necessarily so, given that “the greatest
+shortcoming of the human race is our inability to understand the exponential
+function.”[^EXPONENTIAL-HANDICAP]  I agree, and will attempt to explain what it
+_really_ means when environmentalists (like me) say that infinite economic
+growth on a finite planet is not … sustainable.
+
+So you consume a certain amount of goods and services.  You are, as you are
+probably well aware, a consumer.  Probably, you consume a bit more than your
+parents, and they a bit more than _their_ parents.  This is assuming that you
+are a Westerner, where growth in consumption over the past generations has been
+_multiplicative_ and not _additive_.  Because that's the difference between
+exponential and linear growth:
+
+* _Linear growth_ would be when each successive generation consumes as much as
+  the previous generation _plus_ a certain amount.  If your great grandparents
+  ate in such a way that 1 hectare was sufficient to serve the nutritional
+  needs of them and their family, and your grandparents needed 2 ha. and your
+  parents still only 3 ha. and you yourself 4 hectare that, if extrapolated
+  to the wider population (as long as that population is not shrinking), would
+  be quite an unsustainable growth trend, but completely in the realm of
+  linearity.
+* Land use, however, has not been growing linearly in recent history.  Nor has
+  population size.  Nor has pollution.  Nor has alienation.  Under an
+  exponential growth regime, the amount by which growth occurs _scales_ with
+  the size of whatever it is that is growing.  So if, for example, the human
+  population starts at 1 billion (which it did, in 1800), and grows at the
+  superficial unimpressive growth rate of 2% (which it did, for many years,
+  until it recently “slowed down” to 1%), then 1801 would only see 1 billion
+  x 0.02 people.  In other words, we wouldn't even see the change in population
+  size if we continue to round off to billions.  Yet, this 2 % of annual growth
+  resulted in a _doubling_ of the population by 1834.  And the next doubling
+  took not 34 years, but only 21 years.  _Fifteen_ years was enough for another
+  doubling, and
+
+<!-- https://en.wikipedia.org/wiki/Wheat_and_chessboard_problem -->
+You may or may not have heard the story of the sage who won a game of chess
+against a wealthy ruler.  The ruler was amused when he heard the reward that
+the sage sought: he wished to get one grain of rice on the first square of the
+chess board, two grains of rice on second square, four squares on the third,
+etc.  This seemed like a ludicrously small reward … until they started putting
+these small piles of rice on the chessboard and found out, at about square 6,
+that it already gets tough to fit the 64 rice grains in a single square.  Six
+steps later, the ruler must have started becoming nervous: 4096 rice grains!
+At the second square of the third row, another six steps later, the grains
+placed there would amount to 262144 grains x 0.029 grams ≈ 7.6 kilograms of
+rice would have to be put there.  At the end of that same third row, just
+to fill that square would require the ruler's servants to retrieve another 487
+kg of rice.  Once the half-way square of the chess board was reached, 124
+_tonnes_ of rice would have to be gather from around the ruler's realm.
+
+But human population size and pollution don't double every generation, right?
+_Right._  Let's see what happens when the amount of rice was not doubled up
+every generation, but grown by a meagre 1 %.  Square 1 would have 0.029 grams
+of rice—the weight of a single rice grain.  Indeed, square 8 would receive only
+0.031 grams of rice rather than the 7.4 from the famous story.  Halfway the
+chess board, 0.040 grams would still not be enough to cause the rules to sweat.
+Maybe the sage would start to doubt himself at square 40; 0.04 grams of rice would
+not even be enough for his next meal.  The ruler would be smilingly putting about
+two grains of rice on the final square—square 64—although they would be a bit
+heavier than the required 0.055 grams.
+
+Okay.  So maybe the ruler, emboldened by his cheap defeat, would agree to a
+second game and to the request that this time the counting would start with 10
+grains of rice.
+
+
+Recently, there has be a certain segment of online discourse that has been
+worries about “population collapse”.  That this is masturbatory contrarianism
+is easi
+
+  If your grandparents in
+  1975 had a car that required 900&#x202F;kg of steel, 151 kg of plastic, 38 kg of aluminum
+
+  226 kg of aluminum.
+
+Linear growth is
+
 Only [x] percentage of people are employed in food production.
 
 ## Return to the ground
@@ -71,7 +158,17 @@ Only [x] percentage of people are employed in food production.
 The AI doom prophets _may_ be right about the existential threat that AI poses
 to the survival of humans (although I highly doubt it). But, one threat which
 is entirely imaginary is massive joblessness due to the absorption of most jobs
-by AI. The presumption of this threat is
+by AI. The presumption of this threat is that there's something intrinsically
+“human” about our economy, as if the interrelationships between humans and
+between humans and their environment have forever been mediated by capitalism.
+Capitalism, in its modern meaning, has only become widespread with the
+industrial revolution.  It is then that a distinct capitalist class emerged,
+consisting of the owners of the means of production become.  The majority part
+of the population—those who could only bargain with their labor power—was
+reduced to the “proletariat”.
+
+<!-- Almost go back to pre-industrial time -->
+<!-- But really compare to pre-agrarian times -->
 
 If you would ask the generally intelligent Tesla Autopilot of the “near future”
 to drive you to the Garden of Eden, it would take you to a degraded piece of
@@ -117,5 +214,9 @@ them as “hunter-horticulturalists”.  So you a long history—even
 
 [^MAMMALIAN-BIOMASS]: afddf https://www.pnas.org/doi/10.1073/pnas.1711842115
 <!-- TODO -->
+
+[^LIMITS-TO-GROWTH]: _The Limits to Growth_ (1972) can be read online for free at: https://collections.dartmouth.edu/teitexts/meadows/diplomatic/meadows_ltg-diplomatic.html
+
+[^EXPONENTIAL-HANDICAP]: Googling Albert Allen (Al) Bartlett his name with the words “exponential” will give you a wealth of information (including videos) teaching you why you (and all of us, really) should acquaint ourselves more intimately with the mathematics of exponential growth.  Don't let the word “mathematics” scare you.  Exponential mathematics are not complicated; they are just counter-intuitive.
 
 <!-- vim: set spell spelllang=en: -->
