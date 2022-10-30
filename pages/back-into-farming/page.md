@@ -13,16 +13,22 @@ And by “farming” I mean “gardening”.
 
 But, before digging into the distinction between “farming” and “gardening”,
 some words about Elon Musk and Yuval Noah Harari—the billionaire and the
-historian—who share a worry.  They prophesize that a wave of robotization
-and automization is building, a tsunami of change that'll be more extreme
-than what we've seen so far, surpassing by orders of magnitude the rate of
-change that we sometimes almost imagine we got used to.  The two prophets are
-convinced that, when this tsunami hit, the employability of scores of
-professional classes will be reduced to zero at the moment that computers will
-take over their jobs.  Their worries about impending human obsolescence are
-broadly shared; other well-know champions of this view are American
-presidential candidate Andrew Yang, former Greek Minister of Finance Yanis
-Varoufakis, and atheist pundit Sam Harris.
+historian—who share a worry.  They are deeply concerned about the wave of
+robotization and automization that they see is rapidly gaining in amplitude.
+Once that wave breaks, they prophesize, a tsunami of AI-driven developments
+will wash over society, at a rate of change that outpaces the most extreme
+upheaval that we ever experienced (and, already, increasingly, never quite have
+gotten the opportunity to get used to).  If this vision of the future comes
+true, computers will be innovating at a speed that is impossible to match for
+humans, even at our most collaborative best.
+
+The dream of Elon and Yoval has a dark quality to it.  They foresee that
+computers will within a tiny timespan be able to take over the jobs of entire
+professional classes, reducing the employability of millions of workers to
+zero.  These worries about impending human obsolescence are broadly shared;
+other well-know champions of this view are American presidential candidate
+Andrew Yang, former Greek Minister of Finance Yanis Varoufakis, and atheist
+pundit Sam Harris.
 
 Meanwhile, at the head of electric car maker Tesla, Musk continues to whip his
 research and development team forward, in the race of achieving level 4 Full
@@ -58,7 +64,7 @@ that is unveiled indeed appears dystopic.
 
 What such bleak visions of the future fail to take into account are the _other_
 existential threats that early twenty-first-century civilization is facing,
-which can be summed up as: ecological degradation.
+which can be summed up as: _ecological degradation._
 
 ## The threat that already landed
 
@@ -68,11 +74,11 @@ something that will affect the health of millions of people “_if_ we fail to
 act now”.  In the affluent West, we have been blissfully insulated from some
 of the catastrophic cascades that have been triggered by about 10&#x202F;000
 years of ruthlessly converting the planet's biosphere into a narrow band of
-foodstuffs, so that in 2018, humans (≈&nbsp;0.06 Gt) and our livestock
-(≈&nbsp;0.1 Gt) now count for approximately 96% of all mammalian biomass
-(≈&nbsp;0.167 Gt) on Earth. [^MAMMALIAN-BIOMASS]
+foodstuffs.  (In 2018, humans (≈&nbsp;0.06 Gt) and our livestock
+(≈&nbsp;0.1 Gt) now account for approximately 96% of all mammalian biomass
+(≈&nbsp;0.167 Gt) on Earth.[^MAMMALIAN-BIOMASS])
 
-It is now 50 years ago that The Club of Rome published _The Limits to
+It is 50 years ago that The Club of Rome published _The Limits to
 Growth_.[^LIMITS-TO-GROWTH]  This 1972 book starts with a primer on the
 mathematics of exponential growth, necessarily so, given that “the greatest
 shortcoming of the human race is our inability to understand the exponential
@@ -125,15 +131,17 @@ kg of rice.  Once the half-way square of the chess board was reached, 124
 _tonnes_ of rice would have to be gather from around the ruler's realm.
 
 But human population size and pollution don't double every generation, right?
-_Right._  Let's see what happens when the amount of rice was not doubled up
-every generation, but grown by a meagre 1 %.  Square 1 would have 0.029 grams
-of rice—the weight of a single rice grain.  Indeed, square 8 would receive only
-0.031 grams of rice rather than the 7.4 from the famous story.  Halfway the
-chess board, 0.040 grams would still not be enough to cause the rules to sweat.
-Maybe the sage would start to doubt himself at square 40; 0.04 grams of rice would
-not even be enough for his next meal.  The ruler would be smilingly putting about
-two grains of rice on the final square—square 64—although they would be a bit
-heavier than the required 0.055 grams.
+_Right._  Let's see what happens when, from square 24 onwards, the amount of
+rice was not doubled up every generation, but grown by a meagre 1 %.  We already saw that qquare 24
+would be burried 
+would have 0.029 grams of rice—the weight of a single rice grain.  Indeed,
+square 8 would receive only 0.031 grams of rice rather than the 7.4 from the
+famous story.  Halfway the chess board, 0.040 grams would still not be enough
+to cause the rules to sweat.  Maybe the sage would start to doubt himself at
+square 40; 0.04 grams of rice would not even be enough for his next meal.  The
+ruler would be smilingly putting about two grains of rice on the final
+square—square 64—although they would be a bit heavier than the required 0.055
+grams.
 
 Okay.  So maybe the ruler, emboldened by his cheap defeat, would agree to a
 second game and to the request that this time the counting would start with 10
