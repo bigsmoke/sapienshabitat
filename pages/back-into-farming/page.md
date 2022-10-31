@@ -182,6 +182,8 @@ If you would ask the generally intelligent Tesla Autopilot of the “near future
 to drive you to the Garden of Eden, it would take you to a degraded piece of
 arable land, while reading you the remainder of this article…
 
+<!-- TODO: “Fredric Jameson says it is easier to imagine the end of the world than the end of capitalism. Adyashanti says spiritual people are often more afraid of life than they are of death.” ­ https://twitter.com/caitoz/status/1585611754440048640 -->
+
 ## It are intellectuals who belong to the
 
 ## You were always a farmer
