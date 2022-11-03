@@ -24,5 +24,4 @@ The sweet potatoes in our own veggie beds were plentiful, though not as plentifu
 
 In terms of yield, there was a lot of variation between the individual sweet potato plants of each of the 3 varieties. This was most evident for the Bordeaux-red variety to which most of the plants belonged. Some specimens' tubers were hardly tubers at all; instead of glorious, bumpy, bulbous things, such plants only had some elongated bulges.  Others had, in addition, one or twol big bulbs.  A rare few had a whole bunch of big bulbs.  And most had a bunch of mixed-size bulbs.
 
-In previous years, Annemarie—the mom—had experimented with putting some plant parts back into the ground for the subsequent year's planting.  The plants rotted away during the winter due the daily morning frost.  (Remember [that frost that wasn't supposed to happen in this valley](/deceit-or-disinterest/#below-zero)?)
-<!-- TODO: insert link to one-mill-too-many -->
+In previous years, Annemarie—the mom—had experimented with putting some plant parts back into the ground for the subsequent year's planting.  The plants rotted away during the winter due the daily morning frost.  (Remember [that frost that wasn't supposed to happen in this valley](/deceit-or-disinterest/#below-zero)?) <!-- TODO: insert link to one-mill-too-many --> My own ruin to be

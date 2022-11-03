@@ -94,9 +94,9 @@ On our first visit, with the old plumbing still in place, you had to prod your p
   4. And the fact that the kitchen tap leaked into the cupboard. Slipped—I mean leaked from—their mind?
   5. There are people who clean their house when they move out. Not these people. And, surely, it must have been _years_ since they last cleaned. &#x1F922;
 
-### Exhibit I: Ruined
+### Exhibit I: Legally ruined {#ruined}
 
-One of the most creativity-evoking objects on the terrain was the ruin of the <i lang="pt">lagar</i> (olive mill) next to the stream. Laurelin's plan was to: ⓐ turn the old pig sty below Annemarie's house into a cozy mini home, and, from there, ⓑ start turning the 200 m² ruin into an enormous mansion. Among the attractions of Portugal are its stimulating laws regarding the rebuilding of ruins. Usually, you are allowed to rebuild a ruin (up to quite a hight) as long as you don't overflow the original ground area. My mother's agent had emphasized that the <i lang="pt">lagar</i> could be rebuilt under these laws. What they didn't mention is that there are more stringent regulations for building directly next to waterways. So, a watermill? Good luck, getting a permit for that! Even if Laurelin ever manages the unlikely feat of landing a permit, she won't be allowed to make a well within a 100 meters of the water way.
+One of the most creativity-evoking objects on the terrain was the ruin of the <i lang="pt">lagar</i> (olive mill) next to the stream. Laurelin's plan was to: ⓐ turn the old pig sty below Annemarie's house into a cozy mini home, and, from there, ⓑ start turning the 200 m² ruin into an enormous mansion. Among the attractions of Portugal are its stimulating laws regarding the rebuilding of ruins. Usually, you are allowed to rebuild a ruin (up to quite a hight) as long as you don't overflow the original ground area. My mother's agent had emphasized that the <i lang="pt">lagar</i> could be rebuilt under these laws. What they didn't mention is that there are more stringent regulations for building directly next to waterways. So, a watermill? Good luck, getting a permit for that! Even if Laurelin ever manages the unlikely feat of landing a permit, she won't be allowed to make a well within a 100 meters of the water way. (The problem is not in rebuilding the ruin. The problematic part is acquiring a <i lang="pt">licenção de habitação</i> for something that was previously not a residence _and_ next to the stream.)
 
 ![Here's how Laurelin's big—200 m²—pile of stones looked like in March 2018. (We were there then, simultaneously with my brother, to help Laurelin and my mother to clearcut all the charred trees on the hillside in the background.) Hopefully, she will, at some point, get the paperwork straight to be allowed to turn this into something … else.](Ponte_de_Pedra_2018-03-25_Watermill_ruin_1.jpg){.text-width width="4032" height="3024"}
 
@@ -123,92 +123,92 @@ Not all surprises were unpleasant: my mother turned out to own more than her mai
 <tbody>
 <tr>
 <td>A</td>
-<td>⌁</td>
+<td style="filter: grayscale()">⌁</td>
 <td>Overhanging trees</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 </tr>
 <tr>
 <td>B</td>
-<td>🔥</td>
+<td style="filter: grayscale()">🔥</td>
 <td>Underpowered + smoky wood stove</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">1</td>
 </tr>
 <tr>
 <td>C</td>
-<td>❄️</td>
+<td style="filter: grayscale()">❄️</td>
 <td>Winter temperatures « 0°C</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">0</td>
 </tr>
 <tr>
 <td>D</td>
-<td>☔</td>
+<td style="filter: grayscale()">☔</td>
 <td>Leaking roof + leaking stills</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">0</td>
 </tr>
 <tr>
 <td>E</td>
-<td>🐛</td>
+<td style="filter: grayscale()">🐛</td>
 <td>Woodworm infestation</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">1</td>
 </tr>
 <tr>
 <td>F</td>
-<td>💩</td>
+<td style="filter: grayscale()">💩</td>
 <td>Shit sceptic tank</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">0</td>
 </tr>
 <tr>
 <td>G</td>
-<td>🚽</td>
+<td style="filter: grayscale()">🚽</td>
 <td>Crappy piping</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">1</td>
 </tr>
 <tr>
 <td>H₁</td>
-<td>&#x1F6AE;</td>
+<td style="filter: grayscale()">&#x1F6AE;</td>
 <td>Just leave your junk</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">1</td>
 </tr>
 <tr>
 <td>H₂</td>
-<td>🍳</td>
+<td style="filter: grayscale()">🍳</td>
 <td>“Here's a nice stove”</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 </tr>
 <tr>
 <td>H₃</td>
-<td>🔑</td>
+<td style="filter: grayscale()">🔑</td>
 <td>“Did we mention that the front door doesn't close?”</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">1</td>
 </tr>
 <tr>
 <td>H₄</td>
-<td>💧</td>
+<td style="filter: grayscale()">💧</td>
 <td>Drip, drip, says the kitchen tap</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">0</td>
 </tr>
 <tr>
 <td>H₅</td>
-<td>🤢</td>
+<td style="filter: grayscale()">🤢</td>
 <td>Dirt, poop, and piss galore</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 </tr>
 <tr>
 <td>I</td>
-<td>📋</td>
-<td>Ruined ruin</td>
+<td style="filter: grayscale()">📋</td>
+<td>Legally ruined</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">0</td>
 </tr>
