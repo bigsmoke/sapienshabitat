@@ -1,5 +1,6 @@
 ---
 title: Everybody should get back into farming
+draft: true
 taxonomy:
   author: bigsmoke
   project: pppermaculture

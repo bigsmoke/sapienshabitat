@@ -65,10 +65,12 @@ class SapiensHabitatEnhancements {
     }
     var internalLinks = document.querySelectorAll("a[href^='/']");
     Array.prototype.forEach.call(internalLinks, function(link) {
+      let url = new URL(link.getAttribute('href'), window.location);
       if (link.getAttribute('href') == '/') {
         var file_href = '../index/page.html5';
       } else {
-        var file_href = '..' + link.getAttribute('href') + 'page.html5';
+        console.log(url.pathname);
+        var file_href = '..' + url.pathname + 'page.html5' + url.hash;
       }
       link.setAttribute('href', file_href);
     });
