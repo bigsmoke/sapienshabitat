@@ -49,7 +49,7 @@ able to just “learn to code”, as the online adage goes (first applied to coa
 miners who lost their jobs and later to the journalists who lost theirs).  And
 the truck drivers that _will_ be able to make the jump, will be pushed out of
 the job market _again_ a few iterations of “narrow AI” later, before
-“artificial _general_ intelligence” (AGI) will knock out the last remaining
+“artificial _general_ intelligence” (AGI) knocks out the last remaining
 jobs at the tail end of the normal distributions for intelligence and
 creativity.
 
@@ -83,7 +83,29 @@ It is 50 years ago that The Club of Rome published _The Limits to
 Growth_.[^LIMITS-TO-GROWTH]  This 1972 book starts with a primer on the
 mathematics of exponential growth, necessarily so, given that “the greatest
 shortcoming of the human race is our inability to understand the exponential
-function.”[^EXPONENTIAL-HANDICAP]  I agree, and will attempt to explain what it
+function.”[^EXPONENTIAL-HANDICAP]  Indeed, even the supposedly brilliant Musk
+struggles with this type of arithmetic; after fathering his tenth-or-so child
+this year, came out as stating that we should all be worrying about
+_underpopulation_, not _overpopulation_.
+
+<div class="twitter-tweet-wrapper"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Doing my best to help the underpopulation crisis.<br/><br/>A collapsing birth rate is the biggest danger civilization faces by far.</p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1545046146548019201?ref_src=twsrc%5Etfw">July 7, 2022</a></blockquote> <script async="true" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div>
+
+This is surprising given Musk's stated worries about anthropogenic climate
+change.  Could it be that he was fighting a pang of guilt from knowingly
+multiplying his ecological footprint by ten into the next generation?  His
+own carbon footprint is already far from tiny.  If it hasn't grown along
+with his increased wealth since 2018, Barros & Wilk estimate his CO²
+just above Larry Page (from google infame) and some places below Bill Gates
+Can somebody explain .  (Jeff Bezos, already much higher in that list in 2018,
+has since obtained a super yacht, putting)
+
+Not the first time:
+https://twitter.com/elonmusk/status/1529193812949614594?lang=en
+
+And he doubled down:
+https://twitter.com/elonmusk/status/1563020169160851456?lang=en
+
+I agree. Even Elon Musk and will attempt to explain what it
 _really_ means when environmentalists (like me) say that infinite economic
 growth on a finite planet is not … sustainable.
 
@@ -134,7 +156,7 @@ _tonnes_ of rice would have to be gather from around the ruler's realm.
 But human population size and pollution don't double every generation, right?
 _Right._  Let's see what happens when, from square 24 onwards, the amount of
 rice was not doubled up every generation, but grown by a meagre 1 %.  We already saw that qquare 24
-would be burried 
+would be burried
 would have 0.029 grams of rice—the weight of a single rice grain.  Indeed,
 square 8 would receive only 0.031 grams of rice rather than the 7.4 from the
 famous story.  Halfway the chess board, 0.040 grams would still not be enough
@@ -187,6 +209,12 @@ arable land, while reading you the remainder of this article…
 
 ## It are intellectuals who belong to the
 
+We love narcissistic leaders because of their childish, unlimiting beliefs and lack of grasp of the concept of death.
+
+We shouldn't be eating the rich.  We should be composting them.  Or get them
+into farming.  I heard that Bill Gates is already making
+forays…[^BILL-GATES-FARMLAND]
+
 ## You were always a farmer
 
 [Everybody already _is_ a farmer. They just need to get back into it.]
@@ -199,6 +227,8 @@ why anthropologists have
 
 “hunter-gatherers”, but, likely, it would have been more accurate to describe
 them as “hunter-horticulturalists”.  So you a long history—even
+
+
 
 ## How to get back into farming
 
@@ -229,5 +259,9 @@ them as “hunter-horticulturalists”.  So you a long history—even
 [^LIMITS-TO-GROWTH]: _The Limits to Growth_ (1972) can be read online for free at: https://collections.dartmouth.edu/teitexts/meadows/diplomatic/meadows_ltg-diplomatic.html
 
 [^EXPONENTIAL-HANDICAP]: Googling Albert Allen (Al) Bartlett his name with the words “exponential” will give you a wealth of information (including videos) teaching you why you (and all of us, really) should acquaint ourselves more intimately with the mathematics of exponential growth.  Don't let the word “mathematics” scare you.  Exponential mathematics are not complicated; they are just counter-intuitive.
+
+[^POPULATIONMATTERS]: <https://populationmatters.org/>
+
+[^BILL-GATES-FARMLAND]: Bill Gates has been buying …  These investments are a great hedge against economical instability and collapse.
 
 <!-- vim: set spell spelllang=en: -->
