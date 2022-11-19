@@ -234,6 +234,8 @@ them as “hunter-horticulturalists”.  So you a long history—even
 
 ## Reanimism
 
+Stoicism: a philosophy that used to be relevant only to kings and emperors.
+
 ## Notes
 
 [^AI-OPEN-LETTER]: Elon Musk his running of this arms race at full throttle
