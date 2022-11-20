@@ -76,7 +76,7 @@ act now”.  In the affluent West, we have been blissfully insulated from some
 of the catastrophic cascades that have been triggered by about 10&#x202F;000
 years of ruthlessly converting the planet's biosphere into a narrow band of
 foodstuffs.  (In 2018, humans (≈&nbsp;0.06 Gt) and our livestock
-(≈&nbsp;0.1 Gt) now account for approximately 96% of all mammalian biomass
+(≈&nbsp;0.1 Gt) accounted for approximately 96% of all mammalian biomass
 (≈&nbsp;0.167 Gt) on Earth.[^MAMMALIAN-BIOMASS])
 
 It is 50 years ago that The Club of Rome published _The Limits to
@@ -85,19 +85,30 @@ mathematics of exponential growth, necessarily so, given that “the greatest
 shortcoming of the human race is our inability to understand the exponential
 function.”[^EXPONENTIAL-HANDICAP]  Indeed, even the supposedly brilliant Musk
 struggles with this type of arithmetic; after fathering his tenth-or-so child
-this year, came out as stating that we should all be worrying about
+this year, he came out as stating that we should all be worrying about
 _underpopulation_, not _overpopulation_.
 
 <div class="twitter-tweet-wrapper"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Doing my best to help the underpopulation crisis.<br/><br/>A collapsing birth rate is the biggest danger civilization faces by far.</p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1545046146548019201?ref_src=twsrc%5Etfw">July 7, 2022</a></blockquote> <script async="true" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div>
 
 This is surprising given Musk's stated worries about anthropogenic climate
 change.  Could it be that he was fighting a pang of guilt from knowingly
-multiplying his ecological footprint by ten into the next generation?  His
-own carbon footprint is already far from tiny.  If it hasn't grown along
+multiplying his ecological footprint by ten into the next generation?  His own
+carbon footprint was already far from tiny, when Barros & Wilk estimated his
+CO² footprint to be just above that of Larry Page (from Google infame) and some
+places below Bill Gates.[^BILLIONAIRE-CO2] (Jeff Bezos was already
+
+| ------------------------------ |
+| EU household low |
+| US household low |
+| Elon Musk |
+
+Maybe a graph would be cooler
+
+If it hasn't grown along
 with his increased wealth since 2018, Barros & Wilk estimate his CO²
 just above Larry Page (from google infame) and some places below Bill Gates
-Can somebody explain .  (Jeff Bezos, already much higher in that list in 2018,
-has since obtained a super yacht, putting)
+Can somebody explain .  (Jeff Bezos, already some places above Musk in 2018,
+has since acquired his very own super-yacht, to climb further still.)
 
 Not the first time:
 https://twitter.com/elonmusk/status/1529193812949614594?lang=en
@@ -257,6 +268,9 @@ Stoicism: a philosophy that used to be relevant only to kings and emperors.
 
 [^MAMMALIAN-BIOMASS]: afddf https://www.pnas.org/doi/10.1073/pnas.1711842115
 <!-- TODO -->
+
+[^BILLIONAIRE-CO2]: In their 2021 paper [_The outsized carbon footprints of the super-rich_](https://www.tandfonline.com/doi/full/10.1080/15487733.2021.1949847),  Beatriz Barrosa and Richard Wilk estimate the carbon footprint of some public billionaires. […]
+https://www.zerofy.net/2022/04/04/household-co2-emissions.html EU vs US household emissions
 
 [^LIMITS-TO-GROWTH]: _The Limits to Growth_ (1972) can be read online for free at: https://collections.dartmouth.edu/teitexts/meadows/diplomatic/meadows_ltg-diplomatic.html
 
