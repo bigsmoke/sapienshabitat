@@ -42,7 +42,7 @@ In previous years, Annemarie—the mom—had experimented with putting some plan
 
 ![These terraces have been abandoned decades ago and have since been restored to top fertility by a wealth of deciduous trees.](20221102_140528_sweet_potato_shoots_on_bonus_terrace.jpg){.text-width width="3648" height="2736"}
 
-A lot of the sweet potato offshoots were still connected to small bulbs (too small to be worthwhile for the harvest.  So, _if_ the frost is not too crazy near my ruin, and _if_ the <i lang="pt">javelis</i> are not too greedy, we _may_ start next year's sweet potato planting from our own stock.  Fingers crossed.  The experimentation never ends, in the permaculture philosophy (and in ecology in general (and in playing and learning in even more general)).
+A lot of the sweet potato offshoots were still connected to small bulbs (too small to be worthwhile for the harvest.  So, _if_ the frost is not too crazy near my ruin, and _if_ the <i lang="pt">javalis</i> are not too greedy, we _may_ start next year's sweet potato planting from our own stock.  Fingers crossed.  The experimentation never ends, in the permaculture philosophy (and in ecology in general (and in playing and learning in even more general)).
 
 ![One of the earthworms that have been hard at work to improve the soil of the sweet potato field.](20221102_110016_Earthworm_in_sweet_potato_field.jpg){.narrow width="3179" height="2173"}
 
