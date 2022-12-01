@@ -7,5 +7,5 @@ import json
 # 3rd-party
 import yaml
 
-struct = yaml.load(sys.stdin)
+struct = yaml.full_load(sys.stdin)
 print(json.dumps(struct, indent=4, default=str))
